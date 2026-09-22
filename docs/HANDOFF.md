@@ -7,7 +7,7 @@
 - The Figma treatment is not yet implemented in Remotion. Scene timings are estimates needing alignment to actual narration cues.
 - All 75 supplied footage clips are in public/video1/footages. They have not yet been visually reviewed, selected, or mapped to scenes.
 - The original Windows D: drive files remain intact. All source assets needed for continuation are now inside this project.
-- One private repository is intended, with source video in Git LFS. Repository publication is still pending.
+- The single private repository is https://github.com/PuchkaTs/videomaker, with all 75 source clips tracked in Git LFS. Clone this existing repository when switching machines; do not create another repository. GitHub does not transfer the Codex conversation; this handoff preserves the working context.
 
 ## Creative direction
 

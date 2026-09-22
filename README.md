@@ -2,6 +2,8 @@
 
 One private repository for the Амин чанар commercial: source code, voiceover, product images, footage, and production notes. Source video uses Git LFS via .gitattributes.
 
+Repository: https://github.com/PuchkaTs/videomaker (private). Clone it through GitHub Desktop while signed into the owning account, or use `git clone https://github.com/PuchkaTs/videomaker.git` with authenticated Git.
+
 Read [the production handoff](docs/HANDOFF.md). Video1Draft is 1920×1080, 30 fps, with the full 158.832-second voiceover and three product-image holds. The 18-scene Figma storyboard has not yet been implemented in Remotion.
 
 ## Mac setup
@@ -66,7 +68,7 @@ git commit -m "Prepare VideoMaker commercial project and media"
 
 If Git requests your author name/email, configure your own identity before committing. Add this existing repository in GitHub Desktop, choose Publish repository, use the name videomaker, and leave Keep this code private enabled.
 
-The prepared folder and ZIP do not themselves create a remote repository. No GitHub repository has been published by this preparation step.
+The private repository has been created at https://github.com/PuchkaTs/videomaker. The initialization instructions above are retained for reference; do not create a second repository when continuing on another computer. Clone the existing repository instead. The older transfer ZIP contains a pre-publication snapshot; prefer the latest Git clone.
 
 ## Switching computers
 
