@@ -1,0 +1,74 @@
+[
+  {
+    "file": "public/video1/generated/scene02-researcher.mp4",
+    "seconds": 6.041667,
+    "width": 1920,
+    "height": 1080,
+    "fps": "24/1",
+    "audio": false
+  },
+  {
+    "file": "public/video1/generated/scene02-sampling.mp4",
+    "seconds": 8.041667,
+    "width": 1920,
+    "height": 1080,
+    "fps": "24/1",
+    "audio": false
+  },
+  {
+    "file": "public/video1/generated/scene06-protein.mp4",
+    "seconds": 4.041667,
+    "width": 1920,
+    "height": 1080,
+    "fps": "24/1",
+    "audio": false
+  },
+  {
+    "file": "public/video1/generated/scene07-powder.mp4",
+    "seconds": 4.041667,
+    "width": 1920,
+    "height": 1080,
+    "fps": "24/1",
+    "audio": false
+  },
+  {
+    "file": "public/video1/generated/scene09-product-family.mp4",
+    "seconds": 9.041667,
+    "width": 1920,
+    "height": 1080,
+    "fps": "24/1",
+    "audio": false
+  },
+  {
+    "file": "public/video1/generated/scene14-breakfast.mp4",
+    "seconds": 13.041667,
+    "width": 1920,
+    "height": 1080,
+    "fps": "24/1",
+    "audio": false
+  },
+  {
+    "file": "public/video1/generated/scene17-milk-ripple.mp4",
+    "seconds": 5.041667,
+    "width": 1920,
+    "height": 1080,
+    "fps": "24/1",
+    "audio": false
+  },
+  {
+    "file": "public/video1/generated/scene18-hero.mp4",
+    "seconds": 5.041667,
+    "width": 1920,
+    "height": 1080,
+    "fps": "24/1",
+    "audio": false
+  },
+  {
+    "file": "public/video1/generated/scene09-product-family-v2.mp4",
+    "seconds": 9.041667,
+    "width": 2206,
+    "height": 946,
+    "fps": "24/1",
+    "audio": false
+  }
+]

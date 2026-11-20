@@ -1,0 +1,96 @@
+{
+  "date": "2026-09-22",
+  "status": "Generated commercial photograph selected after user rejected detached source cutouts.",
+  "tool": "Built-in image_gen",
+  "reference": "/Users/purevdorj/Downloads/LOGO/aminchanar cover.jpg",
+  "referenceNote": "Matching local artwork used; the initially supplied Downloads filename was not present.",
+  "image": "public/video1/productFamily/family-commercial-v1.png",
+  "dimensions": [
+    1851,
+    850
+  ],
+  "sourceProductCount": 5,
+  "narrationProductCount": 6,
+  "badges": [
+    "ISO 9001:2015",
+    "ISO 22000:2018",
+    "HACCP",
+    "GMP",
+    "GHP"
+  ],
+  "badgeMethod": "Original source pixels within native Figma vector silhouettes; badges remain separate from generated photograph.",
+  "prompt": "Use case: ads-marketing / product-mockup. Create a polished photorealistic commercial product-family photograph for the Mongolian Amin Chanar brand, using the supplied image as the product-identity reference only.\nReference image: contains FIVE actual jars — the larger red-label Amin Chanar jar, smaller yellow Milk Protein jar, smaller blue pastoral-label Amin Chanar jar, smaller white Gelatin Peptide jar, and larger green-label Amin Chanar jar. Use exactly these five products, each once. Preserve their existing labels, logos, packaging colors, recognizable Cyrillic and English lettering, white ribbed lids, and relative sizes. Do not invent a sixth SKU.\nArt direction: premium nutrition-brand studio photography, warm ivory #F3EFE3 seamless background, tactile matte ivory stone surface, elegant low stepped plinths at subtle differing heights. Arrange all five jars as one balanced, closely grouped family on the RIGHT 62% of a wide 16:9 canvas. The red and green jars anchor the group, with the three smaller jars between them and slightly in front, label faces readable. Gentle staggered depth and varying plinth heights, no overlapping labels, no floating jars. The entire product cluster should feel photographed together with coherent perspective, natural soft contact shadows and clean realistic edges.\nLighting: broad softbox upper left, subtle warm rim, neutral whites, beautifully controlled highlights, no blue contamination or cutout halos. High-end 85mm product lens look, sharp packaging, warm understated premium finish. Keep generous clean ivory negative space on LEFT 35% for separately editable typography; keep products clear of that left area. Products and plinths should stay within the central vertical 70% so the scene can be cropped into a wide image strip.\nNo added headline, no giant number, no captions, no telephone number, no poster layout, no added outside brand logo, no drawn vector motifs. Do not include the five standards badges inside the generated photo: the exact original badges will be placed separately in the solid ivory panel below the photograph in the design. Output one commercial photograph, not a storyboard or collage.",
+  "figmaAudit": {
+    "frames": [
+      {
+        "id": "12:14",
+        "photo": [
+          "66:2"
+        ],
+        "badges": [
+          {
+            "id": "66:4",
+            "y": 450,
+            "bottom": 522
+          },
+          {
+            "id": "66:6",
+            "y": 450,
+            "bottom": 522.9000015258789
+          },
+          {
+            "id": "66:8",
+            "y": 450,
+            "bottom": 522.9000015258789
+          },
+          {
+            "id": "66:10",
+            "y": 450,
+            "bottom": 524.6999969482422
+          },
+          {
+            "id": "66:12",
+            "y": 450,
+            "bottom": 526.5
+          }
+        ],
+        "visibleDetachedProducts": []
+      },
+      {
+        "id": "12:18",
+        "photo": [
+          "66:3"
+        ],
+        "badges": [
+          {
+            "id": "65:12",
+            "y": 450,
+            "bottom": 522
+          },
+          {
+            "id": "65:14",
+            "y": 450,
+            "bottom": 522.9000015258789
+          },
+          {
+            "id": "65:16",
+            "y": 450,
+            "bottom": 522.9000015258789
+          },
+          {
+            "id": "65:18",
+            "y": 450,
+            "bottom": 524.6999969482422
+          },
+          {
+            "id": "65:20",
+            "y": 450,
+            "bottom": 526.5
+          }
+        ],
+        "visibleDetachedProducts": []
+      }
+    ],
+    "boardTextOverflow": []
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "date": "2026-09-22",
+  "method": "Built-in image generation. User-approved generated jar cutout used as reference for the commercial photo.",
+  "cutout": "public/video1/productCutouts/amin-chanar-jar.png",
+  "commercialPhoto": "public/video1/commercial/amin-chanar-hero-emerald.png",
+  "prompt": "Use case: compositing / premium commercial product photography. Input image 1 is the USER-APPROVED transparent Amin Chanar jar cutout. Use this exact product cutout as the compositing source, preserve its existing green-and-cream label, АМИН ЧАНАР lettering, graphics, proportions and ribbed white lid; do not redesign the packaging or invent label details. Create ONE polished, photorealistic luxury nutrition-brand commercial hero photograph on a WIDE 16:9 1920x1080 canvas. Art direction: a single jar upright on a low, sculptural ivory limestone cylinder on the RIGHT THIRD, complete jar and lid visible, product fills about 68% of canvas height. Jar front faces the camera. Deep emerald #0A3028 seamless studio backdrop and matching matte surface; subtle forest-green tonal depth. Large softbox key from upper left gives elegant white highlights and soft realistic contact shadow; restrained warm-gold rim on the far edge, natural neutral whites, beautiful tactile limestone, accurate grounded perspective. Very subtle broad pool of light behind the jar, no distracting effects. LEFT 52% of the photograph is calm dark emerald negative space, clean and gently lit, reserved for separately editable typography later. Carefully balanced premium advertising composition, clean high-end packshot, believable optics around 85mm, sharp product label, subtle background falloff. ONLY ONE PRODUCT JAR. No other products, glass, milk, powder, scoop, food, plants, people, floating particles, ribbons, certificates, logos outside the jar, QR codes, poster artwork, watermarks, additional text or graphic overlays. Treat the approved jar as a fixed photographic insert, not inspiration for a different jar.",
+  "actualOutput": {
+    "width": 1672,
+    "height": 941
+  },
+  "figmaAudit": {
+    "checkedRoots": [
+      "12:2",
+      "13:2",
+      "13:301",
+      "7:2"
+    ],
+    "visibleOldPosterNodes": [],
+    "textOverflows": [],
+    "approvedAssetLayers": [
+      {
+        "node": "12:15",
+        "hash": "3a9f06c2203829bd4a14e970258108ee3d098441"
+      },
+      {
+        "node": "12:24",
+        "hash": "3a9f06c2203829bd4a14e970258108ee3d098441"
+      },
+      {
+        "node": "13:15",
+        "hash": "3a9f06c2203829bd4a14e970258108ee3d098441"
+      },
+      {
+        "node": "13:25",
+        "hash": "3a9f06c2203829bd4a14e970258108ee3d098441"
+      },
+      {
+        "node": "13:314",
+        "hash": "35a87939ad519050d6694031fdbaac8c4462fd47"
+      },
+      {
+        "node": "13:318",
+        "hash": "35a87939ad519050d6694031fdbaac8c4462fd47"
+      },
+      {
+        "node": "7:14",
+        "hash": "3a9f06c2203829bd4a14e970258108ee3d098441"
+      }
+    ]
+  }
+}

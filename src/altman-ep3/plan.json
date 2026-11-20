@@ -1,0 +1,616 @@
+{
+ "_": "Altman series, episode 3 («Бүгд биднийг солиотой гэж боддог байсан»), from Y Combinator's 'Sam Altman: Never a Better Time to Do a Startup' (Startup School 2026, youtube ZIaOBAjvc38), 11:45–15:35. Edit this file, then npm run build:altman-ep3. 'from' is seconds in the original video. A beat lasts lead + pre + voice + post (or 'hold'); its cuts share that time in proportion to 'len', so keep each share inside its camera shot (shots are listed in docs/altman-series/storyboard.md, episode 3). Cuts are framed by x, zoom and cy. part/question/next drive the episode badge and the end card.",
+ "credit": "Эх сурвалж: Y Combinator · Startup School 2026",
+ "part": "3-р анги",
+ "question": "ТАНД ХҮН|ИТГЭДЭГГҮЙ|САНАА БИЙ ЮУ?",
+ "next": {
+  "kicker": "4-р анги удахгүй",
+  "title": "ХҮНД ӨЧҮҮХЭН Ч|ГЭСЭН ТУС БОЛ"
+ },
+ "voices": {
+  "N": {
+   "name": "Mandukai",
+   "id": "UpomOl2r1953iSzRTZp3"
+  },
+  "G": {
+   "name": "Kublai",
+   "id": "LICDjZcDcyJwTAyvJ7mk"
+  }
+ },
+ "lines": [
+  {
+   "id": "N1",
+   "voice": "N",
+   "text": "OpenAI-г байгуулахад хүн бүхэн тэднийг солиотой гэж боддог байлаа. Харин Сэм Алтман тэр үеэ хамгийн том бэлэг байсан гэж ярьдаг.",
+   "tts": "Оупэн Эй Айг байгуулахад хүн бүхэн тэднийг солиотой гэж боддог байлаа. Харин Сэм Алтман тэр үеэ хамгийн том бэлэг байсан гэж ярьдаг.",
+   "captionMap": [
+    [
+     "Оупэн Эй Айг",
+     "OpenAI-г"
+    ]
+   ]
+  },
+  {
+   "id": "N2",
+   "voice": "N",
+   "text": "Гарри Тан сануулахад, OpenAI анх Y Combinator-ын дэргэдэх судалгааны төсөл байжээ. Хүн шиг сэтгэдэг хиймэл оюун бүтээнэ гэдэг тэр үед галзуу санаа байлаа.",
+   "tts": "Гарри Тан сануулахад, Оупэн Эй Ай анх Уай Комбинаторын дэргэдэх судалгааны төсөл байжээ. Хүн шиг сэтгэдэг хиймэл оюун бүтээнэ гэдэг тэр үед галзуу санаа байлаа.",
+   "captionMap": [
+    [
+     "Оупэн Эй Ай",
+     "OpenAI"
+    ],
+    [
+     "Уай Комбинаторын",
+     "Y Combinator-ын"
+    ]
+   ]
+  },
+  {
+   "id": "G1",
+   "voice": "G",
+   "text": "Арван жилийн өмнө бүгд биднийг шүүмжилдэг байсан: «Хүн шиг сэтгэдэг хиймэл оюун бүтээнэ гэдэг нь худлаа. Тэр битгий хэл, тэд хиймэл оюуны салбарыг дахиад унагана. Буруу, хариуцлагагүй хүмүүс.»"
+  },
+  {
+   "id": "G2",
+   "voice": "G",
+   "text": "Та бүхэнд өгөх хамгийн чухал зөвлөгөө минь: олон нийт буруу байна гэдэгт үндэслэлтэй итгэж чадах зүйлээ ол. Тэгээд удаан хүлээх, хүмүүс тоохгүй байхад тэсвэртэй байхад бэлэн бай."
+  },
+  {
+   "id": "N3",
+   "voice": "N",
+   "text": "Тэр үе их бухимдалтай байсан. Гэхдээ эргээд харахад энэ нь жинхэнэ бэлэг байсан гэж Алтман хэлж байна."
+  },
+  {
+   "id": "G3",
+   "voice": "G",
+   "text": "Яагаад гэвэл бидэнтэй өрсөлдөх том компани байгаагүй. Судалгаагаа хийж, юмаа бүтээж, компаниа босгох цаг бидэнд байсан."
+  },
+  {
+   "id": "G4",
+   "voice": "G",
+   "text": "Хэрэв би та нарын оронд байсан бол хэдэн жилийн өмнө боломжгүй байсан, харин одоо боломжтой болсон шинэ том зүйлийг хайх байсан."
+  },
+  {
+   "id": "N4",
+   "voice": "N",
+   "text": "OpenAI-н хувьд тэр нь гүн сургалт гэнэт ажиллаж эхэлсэн мөч байв. Гэвч дэлхий үүнийг төдийлөн анзаарсангүй.",
+   "tts": "Оупэн Эй Айн хувьд тэр нь гүн сургалт гэнэт ажиллаж эхэлсэн мөч байв. Гэвч дэлхий үүнийг төдийлөн анзаарсангүй.",
+   "captionMap": [
+    [
+     "Оупэн Эй Айн",
+     "OpenAI-н"
+    ]
+   ]
+  },
+  {
+   "id": "G5",
+   "voice": "G",
+   "text": "Пол Грэмийн хэлдгээр, хүмүүс маш хурдан өсөж буй зүйлийг мэдэрч чаддаггүй. Яг одоо ийм зүйлс шинээр гарч ирж байна. Тэдгээрийг олоод итгэлээ алдахгүй бол бусад нь ойлгохгүй байгаад баярла."
+  },
+  {
+   "id": "G6",
+   "voice": "G",
+   "text": "Бид хошигнодог байсан: хүн шиг сэтгэдэг хиймэл оюун бүтнэ гэж дэлхий дээр ердөө тавин хүн л итгэдэг. Гэхдээ санаа зовох хэрэггүй,"
+  },
+  {
+   "id": "G7",
+   "voice": "G",
+   "text": "Танд олон хүн хэрэггүй. Юунд итгэдгээ ол, удаан хугацаанд хүмүүс ойлгохгүй байхаас бүү ай. Тэгээд тэр санаанд итгэдэг, жаахан өөр хүмүүсээ эргэн тойрондоо цуглуул."
+  },
+  {
+   "id": "N8",
+   "voice": "N",
+   "text": "Дөрөвдүгээр ангид: хүнд өчүүхэн ч гэсэн тус бол. Дагаад хүлээж байгаарай."
+  }
+ ],
+ "clips": {
+  "c01": {
+   "file": "altman-ep3/src/c01.mp4",
+   "start": 700,
+   "end": 934.9
+  }
+ },
+ "beats": [
+  {
+   "id": "N1",
+   "name": "Hook",
+   "lead": 0.9,
+   "pre": 0.1,
+   "voice": "N1",
+   "post": 0.25,
+   "source": "under",
+   "score": "soft",
+   "lowerThird": {
+    "name": "Сэм Алтман",
+    "roles": [
+     "ChatGPT-г бүтээсэн OpenAI-ийн үүсгэн байгуулагч",
+     "OpenAI-ийн гүйцэтгэх захирал",
+     "Y Combinator-ын ерөнхийлөгч асан"
+    ],
+    "at": 0.45,
+    "to": 8.15
+   },
+   "headline": {
+    "text": "БҮГД БИДНИЙГ|СОЛИОТОЙ ГЭЖ|БОДДОГ БАЙСАН",
+    "tone": "accent",
+    "big": true
+   },
+   "cuts": [
+    {
+     "clip": "c01",
+     "from": 835.0,
+     "len": 3.4,
+     "x": 1200
+    },
+    {
+     "clip": "c01",
+     "from": 736.3,
+     "len": 2.6,
+     "x": 400,
+     "zoom": 1.15,
+     "cy": 470,
+     "mute": true
+    },
+    {
+     "clip": "c01",
+     "from": 756.8,
+     "len": 2.6,
+     "x": 680,
+     "mute": true,
+     "zoom": 1.25,
+     "cy": 430
+    }
+   ]
+  },
+  {
+   "id": "V1",
+   "name": "The biggest secret",
+   "hold": 4.1,
+   "source": "full",
+   "score": "still",
+   "subtitle": [
+    {
+     "text": "Бид дэлхийн хамгийн том",
+     "at": 0.1,
+     "to": 0.9
+    },
+    {
+     "text": "нууцыг мэдэж байгаа юм шиг санагддаг байсан.",
+     "at": 0.95,
+     "to": 2.2
+    },
+    {
+     "text": "Гэтэл бүгд биднийг",
+     "at": 2.6,
+     "to": 3.2
+    },
+    {
+     "text": "тэнэг гэдэг байлаа.",
+     "at": 3.25,
+     "to": 4.0
+    }
+   ],
+   "cuts": [
+    {
+     "clip": "c01",
+     "from": 791.9,
+     "len": 1,
+     "x": 1210,
+     "zoom": 1.25,
+     "cy": 430
+    }
+   ]
+  },
+  {
+   "id": "N2",
+   "name": "YC Research, a crazy idea",
+   "pre": 0.25,
+   "voice": "N2",
+   "post": 0.2,
+   "source": "under",
+   "score": "mid",
+   "label": "Гарри Тан · Y Combinator-ын тэргүүн",
+   "cuts": [
+    {
+     "clip": "c01",
+     "from": 708.0,
+     "len": 4.5,
+     "x": 1100,
+     "headline": {
+      "text": "OPENAI АНХ|YC-ИЙН ТӨСӨЛ"
+     }
+    },
+    {
+     "clip": "c01",
+     "from": 714.0,
+     "len": 4.5,
+     "x": 1110,
+     "zoom": 1.2,
+     "cy": 420,
+     "headline": {
+      "text": "ТЭР ҮЕД|ГАЛЗУУ САНАА",
+      "tone": "accent"
+     }
+    }
+   ]
+  },
+  {
+   "id": "G1",
+   "name": "What everyone said",
+   "pre": 0.2,
+   "voice": "G1",
+   "post": 0.25,
+   "source": "under",
+   "score": "tense",
+   "graphic": "quote",
+   "cuts": [
+    {
+     "clip": "c01",
+     "from": 739.4,
+     "len": 4,
+     "x": 680,
+     "headline": {
+      "text": "10 ЖИЛИЙН ӨМНӨ"
+     }
+    },
+    {
+     "clip": "c01",
+     "from": 745.3,
+     "len": 5,
+     "x": 680,
+     "headline": {
+      "text": "\"САЛБАРЫГ|УНАГАНА\"",
+      "tone": "danger"
+     },
+     "zoom": 1.25,
+     "cy": 430
+    },
+    {
+     "clip": "c01",
+     "from": 751.0,
+     "len": 5,
+     "x": 680,
+     "headline": {
+      "text": "\"БУРУУ,|ХАРИУЦЛАГАГҮЙ\"",
+      "tone": "danger"
+     }
+    }
+   ]
+  },
+  {
+   "id": "G2",
+   "name": "Advice: reasonable conviction",
+   "pre": 0.25,
+   "voice": "G2",
+   "post": 0.2,
+   "source": "under",
+   "score": "mid",
+   "cuts": [
+    {
+     "clip": "c01",
+     "from": 767.9,
+     "len": 5,
+     "x": 1200,
+     "headline": {
+      "text": "ОЛОН НИЙТ|БУРУУ БАЙВАЛ"
+     }
+    },
+    {
+     "clip": "c01",
+     "from": 776.5,
+     "len": 5,
+     "x": 1210,
+     "headline": {
+      "text": "УДААН ХҮЛЭЭХЭД|БЭЛЭН БАЙ",
+      "tone": "accent"
+     },
+     "zoom": 1.25,
+     "cy": 430
+    }
+   ]
+  },
+  {
+   "id": "N3",
+   "name": "The turn: a gift",
+   "pre": 0.2,
+   "voice": "N3",
+   "post": 0.2,
+   "source": "under",
+   "score": "drive",
+   "cuts": [
+    {
+     "clip": "c01",
+     "from": 803.5,
+     "len": 3,
+     "x": 1200,
+     "headline": {
+      "text": "ИХ|БУХИМДАЛТАЙ"
+     }
+    },
+    {
+     "clip": "c01",
+     "from": 807.4,
+     "len": 3,
+     "x": 1210,
+     "headline": {
+      "text": "ЖИНХЭНЭ|БЭЛЭГ",
+      "tone": "accent"
+     },
+     "zoom": 1.25,
+     "cy": 430
+    }
+   ]
+  },
+  {
+   "id": "G3",
+   "name": "No competitors, time to build",
+   "pre": 0.2,
+   "voice": "G3",
+   "post": 0.2,
+   "source": "under",
+   "score": "drive",
+   "cuts": [
+    {
+     "clip": "c01",
+     "from": 811.3,
+     "len": 4,
+     "x": 1200,
+     "headline": {
+      "text": "ӨРСӨЛДӨГЧ|БАЙГААГҮЙ"
+     }
+    },
+    {
+     "clip": "c01",
+     "from": 815.6,
+     "len": 4,
+     "x": 1210,
+     "headline": {
+      "text": "БҮТЭЭХ|ЦАГ БАЙСАН",
+      "tone": "accent"
+     },
+     "zoom": 1.25,
+     "cy": 430
+    }
+   ]
+  },
+  {
+   "id": "G4",
+   "name": "If I were you",
+   "pre": 0.2,
+   "voice": "G4",
+   "post": 0.2,
+   "source": "under",
+   "score": "drive",
+   "cuts": [
+    {
+     "clip": "c01",
+     "from": 846.6,
+     "len": 4,
+     "x": 1200,
+     "headline": {
+      "text": "БИ ТА НАРЫН|ОРОНД БАЙСАН БОЛ"
+     }
+    },
+    {
+     "clip": "c01",
+     "from": 851.0,
+     "len": 4,
+     "x": 1210,
+     "headline": {
+      "text": "ОДОО Л|БОЛОМЖТОЙ БОЛСОН",
+      "tone": "accent"
+     },
+     "zoom": 1.25,
+     "cy": 430
+    }
+   ]
+  },
+  {
+   "id": "N4",
+   "name": "Deep learning moment",
+   "pre": 0.2,
+   "voice": "N4",
+   "post": 0.2,
+   "source": "under",
+   "score": "mid",
+   "cuts": [
+    {
+     "clip": "c01",
+     "from": 855.4,
+     "len": 3.4,
+     "x": 1200,
+     "headline": {
+      "text": "ГҮН СУРГАЛТ|АЖИЛЛАЖ ЭХЭЛЛЭЭ"
+     }
+    },
+    {
+     "clip": "c01",
+     "from": 859.2,
+     "len": 3.4,
+     "x": 1210,
+     "headline": {
+      "text": "ДЭЛХИЙ|АНЗААРСАНГҮЙ",
+      "tone": "accent"
+     },
+     "zoom": 1.25,
+     "cy": 430
+    }
+   ]
+  },
+  {
+   "id": "G5",
+   "name": "Exponentials",
+   "pre": 0.2,
+   "voice": "G5",
+   "post": 0.2,
+   "source": "under",
+   "score": "drive",
+   "cuts": [
+    {
+     "clip": "c01",
+     "from": 863.0,
+     "len": 4,
+     "x": 1200,
+     "headline": {
+      "text": "ХУРДАН ӨСӨЛТИЙГ|ХҮН МЭДРЭХГҮЙ"
+     }
+    },
+    {
+     "clip": "c01",
+     "from": 870.5,
+     "len": 4,
+     "x": 1210,
+     "headline": {
+      "text": "ЯГ ОДОО|ШИНЭЭР ГАРЧ БАЙНА"
+     },
+     "zoom": 1.25,
+     "cy": 430
+    },
+    {
+     "clip": "c01",
+     "from": 876.0,
+     "len": 3,
+     "x": 1200,
+     "headline": {
+      "text": "ИТГЭЛЭЭ|БҮҮ АЛД",
+      "tone": "accent"
+     }
+    }
+   ]
+  },
+  {
+   "id": "V2",
+   "name": "A huge superpower",
+   "hold": 1.4,
+   "source": "full",
+   "score": "still",
+   "subtitle": {
+    "text": "Энэ бол асар том давуу тал шүү.",
+    "at": 0.1,
+    "to": 1.3
+   },
+   "cuts": [
+    {
+     "clip": "c01",
+     "from": 881.8,
+     "len": 1,
+     "x": 1210,
+     "zoom": 1.25,
+     "cy": 430
+    }
+   ]
+  },
+  {
+   "id": "G6",
+   "name": "50 people believed",
+   "pre": 0.2,
+   "voice": "G6",
+   "post": 0.1,
+   "source": "under",
+   "score": "mid",
+   "cuts": [
+    {
+     "clip": "c01",
+     "from": 899.5,
+     "len": 4.81,
+     "x": 700,
+     "headline": {
+      "text": "ДЭЛХИЙД ЕРДӨӨ|50 ХҮН ИТГЭДЭГ"
+     }
+    },
+    {
+     "clip": "c01",
+     "from": 904.4,
+     "len": 4.45,
+     "x": 1230
+    }
+   ]
+  },
+  {
+   "id": "V3",
+   "name": "45 at OpenAI",
+   "hold": 1.7,
+   "source": "full",
+   "score": "still",
+   "headline": {
+    "text": "45 НЬ|OPENAI-Д",
+    "tone": "accent"
+   },
+   "subtitle": [
+    {
+     "text": "…тэдний 45 нь OpenAI-д",
+     "at": 0.15,
+     "to": 0.9
+    },
+    {
+     "text": "ажилладаг байсан.",
+     "at": 0.95,
+     "to": 1.6
+    }
+   ],
+   "cuts": [
+    {
+     "clip": "c01",
+     "from": 908.85,
+     "len": 1,
+     "x": 1230,
+     "zoom": 1.25,
+     "cy": 430
+    }
+   ]
+  },
+  {
+   "id": "G7",
+   "name": "You don't need many people",
+   "pre": 0.25,
+   "voice": "G7",
+   "post": 0.4,
+   "source": "under",
+   "score": "soft",
+   "cuts": [
+    {
+     "clip": "c01",
+     "from": 914.2,
+     "len": 4.5,
+     "x": 1230,
+     "headline": {
+      "text": "ОЛОН ХҮН|ХЭРЭГГҮЙ"
+     }
+    },
+    {
+     "clip": "c01",
+     "from": 924.8,
+     "len": 4.5,
+     "x": 1230,
+     "headline": {
+      "text": "ИТГЭДЭГ ХҮМҮҮСЭЭ|ЦУГЛУУЛ",
+      "tone": "accent"
+     },
+     "zoom": 1.25,
+     "cy": 430
+    }
+   ]
+  },
+  {
+   "id": "END",
+   "name": "End card and part 4 teaser",
+   "pre": 1.6,
+   "voice": "N8",
+   "post": 1.4,
+   "source": "mute",
+   "graphic": "end",
+   "score": "end",
+   "cuts": [
+    {
+     "clip": "c01",
+     "from": 782.8,
+     "len": 1,
+     "x": 1200,
+     "mute": true
+    }
+   ]
+  }
+ ],
+ "turn": "N3"
+}

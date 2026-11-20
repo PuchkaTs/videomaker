@@ -1,0 +1,728 @@
+{
+  "bpm": 120,
+  "duration": 70,
+  "scenes": {
+    "intro": [
+      0,
+      4
+    ],
+    "reply": [
+      4,
+      12
+    ],
+    "carousel": [
+      12,
+      20
+    ],
+    "booking": [
+      20,
+      28
+    ],
+    "comment": [
+      28,
+      36
+    ],
+    "lead": [
+      36,
+      46
+    ],
+    "test": [
+      46,
+      54
+    ],
+    "fix": [
+      54,
+      64
+    ],
+    "outro": [
+      64,
+      70
+    ]
+  },
+  "t": {
+    "intro.k": 0.45,
+    "intro.letters": 0.75,
+    "intro.setup": 1.55,
+    "intro.punch": 2.0,
+    "intro.exit": 3.3,
+    "reply.land": 4.2,
+    "reply.caption": 4.45,
+    "reply.typing": 4.8,
+    "reply.a1": 5.7,
+    "reply.stat": 6.0,
+    "reply.stamp": 6.5,
+    "reply.q2": 7.5,
+    "reply.typing2": 7.8,
+    "reply.a2": 8.5,
+    "reply.out": 11.1,
+    "reply.timelapse": 10.9,
+    "reply.sunrise": 11.2,
+    "reply.flip": 11.4,
+    "carousel.caption": 12.2,
+    "carousel.q": 12.5,
+    "carousel.typing": 12.8,
+    "carousel.a": 13.4,
+    "carousel.burst": 13.75,
+    "carousel.dock": 15.0,
+    "carousel.docked": 15.45,
+    "carousel.swipe": 16.0,
+    "carousel.tap": 17.0,
+    "carousel.reply": 17.5,
+    "carousel.out": 19.2,
+    "carousel.whip": 19.5,
+    "booking.wave": 19.9,
+    "booking.caption": 20.35,
+    "booking.q": 20.6,
+    "booking.typing": 20.95,
+    "booking.a": 21.5,
+    "booking.chips": 21.9,
+    "booking.tap": 23.0,
+    "booking.flight": 23.15,
+    "booking.reply": 23.25,
+    "booking.land": 23.95,
+    "booking.confirm": 24.5,
+    "booking.check": 24.8,
+    "booking.out": 27.1,
+    "booking.exit": 27.2,
+    "comment.scroll": 27.6,
+    "comment.settle": 29.0,
+    "comment.caption": 28.6,
+    "comment.c1": 29.5,
+    "comment.c2": 30.1,
+    "comment.dm": 30.3,
+    "comment.plane": 30.5,
+    "comment.planeLand": 31.3,
+    "comment.typing": 31.3,
+    "comment.a": 31.8,
+    "comment.reply": 33.2,
+    "comment.out": 35.2,
+    "comment.exit": 35.4,
+    "lead.swap": 36.0,
+    "lead.caption": 36.3,
+    "lead.a1": 36.5,
+    "lead.crm": 36.6,
+    "lead.phone": 37.8,
+    "lead.fly1": 38.05,
+    "lead.fill1": 38.6,
+    "lead.typing": 38.8,
+    "lead.a2": 39.3,
+    "lead.addr": 40.2,
+    "lead.fly2": 40.45,
+    "lead.fill2": 41.0,
+    "lead.hot": 41.5,
+    "lead.typing2": 41.7,
+    "lead.a3": 42.2,
+    "lead.toast": 42.7,
+    "lead.out": 45.2,
+    "lead.dive": 45.3,
+    "test.land": 46.3,
+    "test.caption": 46.5,
+    "test.cursorIn": 46.8,
+    "test.click": 47.2,
+    "test.type": 47.3,
+    "test.send": 48.55,
+    "test.typing": 48.9,
+    "test.a": 49.5,
+    "test.panel": 49.9,
+    "test.connector": 50.2,
+    "test.toggle": 50.7,
+    "test.out": 53.5,
+    "test.clear": 53.5,
+    "fix.caption": 54.1,
+    "fix.q": 54.3,
+    "fix.typing": 54.6,
+    "fix.wrong": 55.1,
+    "fix.error": 55.5,
+    "fix.editor": 56.2,
+    "fix.type": 56.9,
+    "fix.send": 58.2,
+    "fix.reply": 58.7,
+    "fix.strike": 59.0,
+    "fix.plus": 59.3,
+    "fix.apply": 60.0,
+    "fix.clear": 60.3,
+    "fix.divider": 60.6,
+    "fix.q2": 60.8,
+    "fix.typing2": 61.1,
+    "fix.right": 61.5,
+    "fix.ok": 61.9,
+    "fix.out": 63.1,
+    "fix.pullback": 63.2,
+    "outro.converge": 64.9,
+    "outro.voice": 65.0,
+    "outro.tagline": 65.05,
+    "outro.wordmark": 68.45,
+    "vo.0": 0.3,
+    "vo.1": 6.2,
+    "vo.2": 12.4,
+    "vo.3": 20.5,
+    "vo.4": 28.7,
+    "vo.5": 36.6,
+    "vo.6": 46.7,
+    "vo.7a": 55.8,
+    "vo.7b": 62.0,
+    "dlg.c0": 0.4,
+    "dlg.a1": 4.4,
+    "dlg.c2": 12.25,
+    "dlg.a2": 15.0,
+    "dlg.c3": 20.3,
+    "dlg.a3": 22.1,
+    "dlg.c4": 29.8,
+    "dlg.a4": 32.35,
+    "dlg.c5": 36.6,
+    "dlg.a5": 39.0,
+    "dlg.c6": 46.7,
+    "dlg.a6": 49.35,
+    "dlg.c7": 55.6,
+    "dlg.a7": 58.15,
+    "dlg.c8": 62.05
+  },
+  "voice": [
+    {
+      "file": "kublai-v2/vo/line0.mp3",
+      "cue": "vo.0",
+      "volume": 1.3
+    },
+    {
+      "file": "kublai-v2/vo/line1.mp3",
+      "cue": "vo.1",
+      "volume": 1.02
+    },
+    {
+      "file": "kublai-v2/vo/line2.mp3",
+      "cue": "vo.2",
+      "volume": 1.3
+    },
+    {
+      "file": "kublai-v2/vo/line3.mp3",
+      "cue": "vo.3",
+      "volume": 1.32
+    },
+    {
+      "file": "kublai-v2/vo/line4.mp3",
+      "cue": "vo.4",
+      "volume": 1.16
+    },
+    {
+      "file": "kublai-v2/vo/line5.mp3",
+      "cue": "vo.5",
+      "volume": 1.32
+    },
+    {
+      "file": "kublai-v2/vo/line6.mp3",
+      "cue": "vo.6",
+      "volume": 1.135
+    },
+    {
+      "file": "kublai-v2/vo/line7a.mp3",
+      "cue": "vo.7a",
+      "volume": 1.16
+    },
+    {
+      "file": "kublai-v2/vo/line7b.mp3",
+      "cue": "vo.7b",
+      "volume": 1.0
+    },
+    {
+      "file": "kublai/brand-voice-ending.mp3",
+      "cue": "outro.voice",
+      "volume": 1.12
+    }
+  ],
+  "voiceDialogue": [
+    {
+      "file": "kublai-v2/vo-dialogue/c0.mp3",
+      "cue": "dlg.c0",
+      "volume": 1.16
+    },
+    {
+      "file": "kublai-v2/vo-dialogue/a1.mp3",
+      "cue": "dlg.a1",
+      "volume": 1.1
+    },
+    {
+      "file": "kublai-v2/vo-dialogue/c2.mp3",
+      "cue": "dlg.c2",
+      "volume": 1.01
+    },
+    {
+      "file": "kublai-v2/vo-dialogue/a2.mp3",
+      "cue": "dlg.a2",
+      "volume": 1.01
+    },
+    {
+      "file": "kublai-v2/vo-dialogue/c3.mp3",
+      "cue": "dlg.c3",
+      "volume": 1.22
+    },
+    {
+      "file": "kublai-v2/vo-dialogue/a3.mp3",
+      "cue": "dlg.a3",
+      "volume": 1.41
+    },
+    {
+      "file": "kublai-v2/vo-dialogue/c4.mp3",
+      "cue": "dlg.c4",
+      "volume": 1.12
+    },
+    {
+      "file": "kublai-v2/vo-dialogue/a4.mp3",
+      "cue": "dlg.a4",
+      "volume": 1.11
+    },
+    {
+      "file": "kublai-v2/vo-dialogue/c5.mp3",
+      "cue": "dlg.c5",
+      "volume": 1.32
+    },
+    {
+      "file": "kublai-v2/vo-dialogue/a5.mp3",
+      "cue": "dlg.a5",
+      "volume": 1.16
+    },
+    {
+      "file": "kublai-v2/vo-dialogue/c6.mp3",
+      "cue": "dlg.c6",
+      "volume": 1.23
+    },
+    {
+      "file": "kublai-v2/vo-dialogue/a6.mp3",
+      "cue": "dlg.a6",
+      "volume": 1.32
+    },
+    {
+      "file": "kublai-v2/vo-dialogue/c7.mp3",
+      "cue": "dlg.c7",
+      "volume": 1.1
+    },
+    {
+      "file": "kublai-v2/vo-dialogue/a7.mp3",
+      "cue": "dlg.a7",
+      "volume": 1.12
+    },
+    {
+      "file": "kublai-v2/vo-dialogue/c8.mp3",
+      "cue": "dlg.c8",
+      "volume": 0.94
+    },
+    {
+      "file": "kublai/brand-voice-ending.mp3",
+      "cue": "outro.voice",
+      "volume": 1.12
+    }
+  ],
+  "whooshes": [
+    {
+      "id": "R01",
+      "name": "Riser into the 24/7 hit",
+      "cue": "intro.punch",
+      "offset": -2.0,
+      "dur": 2.0,
+      "kind": "riser",
+      "gain": 0.18,
+      "pan": 0,
+      "send": 0.3,
+      "level": 1
+    },
+    {
+      "id": "W01",
+      "name": "Intro fly-through",
+      "cue": "intro.exit",
+      "offset": 0,
+      "dur": 1.0,
+      "kind": "whoosh",
+      "band": [
+        300,
+        2500,
+        500
+      ],
+      "gain": 0.5,
+      "pan": "arc",
+      "level": 1
+    },
+    {
+      "id": "R02",
+      "name": "Riser into the sunrise drop",
+      "cue": "reply.flip",
+      "offset": -0.9,
+      "dur": 1.5,
+      "kind": "riser",
+      "gain": 0.22,
+      "pan": 0,
+      "send": 0.3,
+      "level": 1
+    },
+    {
+      "id": "W02",
+      "name": "Phone flip (sunrise)",
+      "cue": "reply.flip",
+      "offset": 0,
+      "dur": 0.7,
+      "kind": "whoosh",
+      "band": [
+        600,
+        4000,
+        900
+      ],
+      "gain": 0.4,
+      "pan": [
+        -0.5,
+        0.5
+      ],
+      "level": 1
+    },
+    {
+      "id": "W03",
+      "name": "Product cards burst out",
+      "cue": "carousel.burst",
+      "offset": 0,
+      "dur": 0.5,
+      "kind": "whoosh",
+      "band": [
+        800,
+        5000,
+        1200
+      ],
+      "gain": 0.35,
+      "pan": 0,
+      "level": 1
+    },
+    {
+      "id": "W04",
+      "name": "Cards dock into the carousel",
+      "cue": "carousel.dock",
+      "offset": 0,
+      "dur": 0.45,
+      "kind": "whoosh",
+      "band": [
+        3000,
+        1500,
+        400
+      ],
+      "gain": 0.3,
+      "pan": 0,
+      "level": 1
+    },
+    {
+      "id": "W05",
+      "name": "Carousel swipe",
+      "cue": "carousel.swipe",
+      "offset": 0.1,
+      "dur": 0.35,
+      "kind": "swipe",
+      "gain": 0.25,
+      "pan": [
+        0.4,
+        -0.4
+      ],
+      "level": 1
+    },
+    {
+      "id": "W06",
+      "name": "Whip pan to the calendar",
+      "cue": "carousel.whip",
+      "offset": 0,
+      "dur": 0.85,
+      "kind": "whoosh",
+      "band": [
+        300,
+        5000,
+        600
+      ],
+      "shape": 1.2,
+      "gain": 0.55,
+      "pan": [
+        -0.8,
+        0.8
+      ],
+      "level": 1
+    },
+    {
+      "id": "W07",
+      "name": "11:30 chip flies to the calendar",
+      "cue": "booking.flight",
+      "offset": 0,
+      "dur": 0.8,
+      "kind": "whoosh",
+      "band": [
+        1200,
+        4500,
+        2000
+      ],
+      "gain": 0.25,
+      "pan": [
+        0,
+        0.6
+      ],
+      "level": 1
+    },
+    {
+      "id": "W08",
+      "name": "Calendar tiles flip away",
+      "cue": "booking.exit",
+      "offset": 0.1,
+      "dur": 1.1,
+      "kind": "whoosh",
+      "band": [
+        2000,
+        900,
+        300
+      ],
+      "gain": 0.35,
+      "pan": 0,
+      "level": 1
+    },
+    {
+      "id": "W09",
+      "name": "Feed scroll",
+      "cue": "comment.scroll",
+      "offset": 0,
+      "dur": 1.4,
+      "kind": "whoosh",
+      "band": [
+        4000,
+        2500,
+        400
+      ],
+      "gain": 0.35,
+      "pan": 0,
+      "level": 1
+    },
+    {
+      "id": "W10",
+      "name": "Paper plane to the DM",
+      "cue": "comment.plane",
+      "offset": 0,
+      "dur": 0.8,
+      "kind": "whoosh",
+      "band": [
+        1000,
+        5000,
+        2500
+      ],
+      "gain": 0.3,
+      "pan": [
+        -0.4,
+        0.6
+      ],
+      "level": 1
+    },
+    {
+      "id": "W11",
+      "name": "Camera trucks to the CRM scene",
+      "cue": "comment.exit",
+      "offset": 0,
+      "dur": 1.1,
+      "kind": "whoosh",
+      "band": [
+        500,
+        3000,
+        600
+      ],
+      "gain": 0.4,
+      "pan": [
+        0.7,
+        -0.7
+      ],
+      "level": 1
+    },
+    {
+      "id": "W12",
+      "name": "Chat swaps to Нараа",
+      "cue": "lead.swap",
+      "offset": -0.1,
+      "dur": 0.4,
+      "kind": "swipe",
+      "gain": 0.22,
+      "pan": 0.1,
+      "level": 1
+    },
+    {
+      "id": "W13",
+      "name": "Phone number flies to the CRM",
+      "cue": "lead.fly1",
+      "offset": 0,
+      "dur": 0.65,
+      "kind": "whoosh",
+      "band": [
+        1500,
+        5500,
+        3000
+      ],
+      "gain": 0.25,
+      "pan": [
+        -0.2,
+        0.5
+      ],
+      "level": 1
+    },
+    {
+      "id": "W14",
+      "name": "Address flies to the CRM",
+      "cue": "lead.fly2",
+      "offset": 0,
+      "dur": 0.65,
+      "kind": "whoosh",
+      "band": [
+        1500,
+        5500,
+        3000
+      ],
+      "gain": 0.25,
+      "pan": [
+        -0.2,
+        0.5
+      ],
+      "level": 1
+    },
+    {
+      "id": "W15",
+      "name": "Dive into the app",
+      "cue": "lead.dive",
+      "offset": 0,
+      "dur": 1.2,
+      "kind": "whoosh",
+      "band": [
+        300,
+        3000,
+        400
+      ],
+      "shape": 1.2,
+      "gain": 0.55,
+      "pan": 0,
+      "level": 1
+    },
+    {
+      "id": "W16",
+      "name": "Test chat clears",
+      "cue": "test.clear",
+      "offset": 0,
+      "dur": 0.5,
+      "kind": "swipe",
+      "gain": 0.2,
+      "pan": 0,
+      "level": 1
+    },
+    {
+      "id": "W17",
+      "name": "Crash zoom on the wrong answer",
+      "cue": "fix.error",
+      "offset": -0.08,
+      "dur": 0.3,
+      "kind": "whoosh",
+      "band": [
+        600,
+        3000,
+        900
+      ],
+      "gain": 0.4,
+      "pan": 0,
+      "level": 1
+    },
+    {
+      "id": "W18",
+      "name": "Editor panel slides in",
+      "cue": "fix.editor",
+      "offset": 0,
+      "dur": 0.6,
+      "kind": "whoosh",
+      "band": [
+        800,
+        3500,
+        1000
+      ],
+      "gain": 0.3,
+      "pan": [
+        0.8,
+        0.4
+      ],
+      "level": 1
+    },
+    {
+      "id": "R03",
+      "name": "Riser into «Хэрэглэх» (Apply)",
+      "cue": "fix.apply",
+      "offset": -2.0,
+      "dur": 2.0,
+      "kind": "riser",
+      "gain": 0.22,
+      "pan": 0,
+      "send": 0.3,
+      "level": 1
+    },
+    {
+      "id": "W19",
+      "name": "Diff strike-through",
+      "cue": "fix.strike",
+      "offset": 0,
+      "dur": 0.35,
+      "kind": "whoosh",
+      "band": [
+        3000,
+        6000,
+        4000
+      ],
+      "gain": 0.12,
+      "pan": 0.5,
+      "level": 1
+    },
+    {
+      "id": "W20",
+      "name": "Apply pulse into the chat",
+      "cue": "fix.apply",
+      "offset": 0.02,
+      "dur": 0.45,
+      "kind": "whoosh",
+      "band": [
+        2000,
+        5000,
+        1500
+      ],
+      "gain": 0.25,
+      "pan": [
+        0.5,
+        -0.5
+      ],
+      "level": 1
+    },
+    {
+      "id": "W21",
+      "name": "«Шинэ тест» divider",
+      "cue": "fix.divider",
+      "offset": 0,
+      "dur": 0.35,
+      "kind": "swipe",
+      "gain": 0.12,
+      "pan": 0,
+      "level": 1
+    },
+    {
+      "id": "W22",
+      "name": "Pull back to the ending",
+      "cue": "fix.pullback",
+      "offset": 0,
+      "dur": 1.5,
+      "kind": "whoosh",
+      "band": [
+        2500,
+        1200,
+        300
+      ],
+      "gain": 0.4,
+      "pan": 0,
+      "level": 1
+    },
+    {
+      "id": "R04",
+      "name": "Riser into the ending logo",
+      "cue": "outro.converge",
+      "offset": -1.4,
+      "dur": 1.4,
+      "kind": "riser",
+      "gain": 0.16,
+      "pan": 0,
+      "send": 0.3,
+      "level": 1
+    }
+  ]
+}

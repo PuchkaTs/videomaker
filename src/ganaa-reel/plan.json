@@ -1,0 +1,59 @@
+{
+ "_": "GanaaReel «Яагаад танд агент хэрэгтэй вэ?» for real-estate agent М.Гантуяа (Силвер агент, 9099-9884). Edit, then npm run build:ganaa-reel. Voice lines: npm run voice:ganaa-reel. A line's 'take' picks an alternate file (e.g. \"take2\").",
+ "voices": {
+  "N": {
+   "name": "Mandukai",
+   "id": "UpomOl2r1953iSzRTZp3"
+  }
+ },
+ "lines": [
+  {
+   "id": "V1",
+   "voice": "N",
+   "text": "Яагаад танд агент хэрэгтэй вэ?"
+  },
+  {
+   "id": "V2",
+   "voice": "N",
+   "text": "Та байраа зарах гэж байна уу? Эсвэл мөрөөдлийн байраа хайж байна уу?"
+  },
+  {
+   "id": "V3",
+   "voice": "N",
+   "text": "Нэгт, зах зээлийн судалгаанд үндэслэн зөв үнэлгээг тогтооно."
+  },
+  {
+   "id": "V4",
+   "voice": "N",
+   "text": "Хоёрт, цаг хэмнэнэ. Зар, дуудлага, байр үзүүлэхийг би хариуцна."
+  },
+  {
+   "id": "V5",
+   "voice": "N",
+   "text": "Гуравт, эрсдэлээс хамгаална. Бичиг баримт, өмчлөгчийг бүгдийг шалгаж баталгаажуулна."
+  },
+  {
+   "id": "V6",
+   "voice": "N",
+   "text": "Дөрөвт, 1800 агенттай сүлжээнд байршуулж, худалдан авагчид хурдан хүргэнэ.",
+   "tts": "Дөрөвт, мянга найман зуун агенттай сүлжээнд байршуулж, худалдан авагчид хурдан хүргэнэ."
+  },
+  {
+   "id": "V7",
+   "voice": "N",
+   "text": "Тавд, үнэ, нөхцөл дээр хоёр талыг зөвшилцөлд хүргэнэ."
+  },
+  {
+   "id": "V8",
+   "voice": "N",
+   "text": "Силвер агент Гантуяа. Таны үл хөдлөх хөрөнгө — миний хариуцлагатай."
+  }
+ ],
+ "media": {
+  "herClip": "ganaa-reel/clips/her-alpha.webm",
+  "herClipSeconds": "10",
+  "sell": "ganaa-reel/img/sell.jpg",
+  "buy": "ganaa-reel/img/buy.jpg"
+ },
+ "_media": "herClip: Wan 3.0 clip of her (smile, nod), cut out per frame with macOS Vision, played forward then backward (10 s VP9 with alpha). sell/buy: apartment images for S2."
+}

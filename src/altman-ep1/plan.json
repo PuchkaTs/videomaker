@@ -1,0 +1,753 @@
+{
+ "_": "Altman series, episode 1 («Гарааны бизнес эхлүүлэх хамгийн сайн үе»), from Y Combinator's 'Sam Altman: Never a Better Time to Do a Startup' (Startup School 2026, youtube ZIaOBAjvc38). Edit this file, then npm run build:altman-ep1. 'from' is seconds in the original video. A beat lasts lead + pre + voice + post (or 'hold'); its cuts share that time in proportion to 'len', so keep each share inside its camera shot (shots are listed in docs/altman-series/ep1-storyboard.md). Cuts are framed by x, zoom and cy as in the Jensen reel. part/next drive the episode badge and the end card.",
+ "credit": "Эх сурвалж: Y Combinator · Startup School 2026",
+ "part": "1-р анги",
+ "next": {
+  "kicker": "2-р анги удахгүй",
+  "title": "ТУРШЛАГА БИШ,|ХЭРЭГСЭЛ ЯЛНА"
+ },
+ "voices": {
+  "N": {
+   "name": "Mandukai",
+   "id": "UpomOl2r1953iSzRTZp3"
+  },
+  "G": {
+   "name": "Kublai",
+   "id": "LICDjZcDcyJwTAyvJ7mk"
+  }
+ },
+ "lines": [
+  {
+   "id": "N1",
+   "voice": "N",
+   "text": "OpenAI-г удирддаг Сэм Алтман залуу үүсгэн байгуулагчдад хэлэв: гарааны бизнес эхлүүлэх хамгийн сайн үе яг одоо.",
+   "tts": "Оупэн Эй Айг удирддаг Сэм Алтман залуу үүсгэн байгуулагчдад хэлэв: гарааны бизнес эхлүүлэх хамгийн сайн үе яг одоо.",
+   "captionMap": [
+    [
+     "Оупэн Эй Айг",
+     "OpenAI-г"
+    ]
+   ]
+  },
+  {
+   "id": "N2",
+   "voice": "N",
+   "text": "Тэр танхимд ирээдүйн триллионер сууж байна гэж мөрийцсөн. Яагаад гэдгийг нь сонсоорой."
+  },
+  {
+   "id": "N3",
+   "voice": "N",
+   "text": "2005 онд Алтман Y Combinator-ын анхны элсэлтэд байв. Тэр үед гарааны бизнес огт нэр хүндтэй зүйл биш байлаа.",
+   "tts": "Хоёр мянга таван онд Алтман Уай Комбинаторын анхны элсэлтэд байв. Тэр үед гарааны бизнес огт нэр хүндтэй зүйл биш байлаа.",
+   "captionMap": [
+    [
+     "Хоёр мянга таван",
+     "2005"
+    ],
+    [
+     "Уай Комбинаторын",
+     "Y Combinator-ын"
+    ]
+   ]
+  },
+  {
+   "id": "G1",
+   "voice": "G",
+   "text": "Бид Кембрижийн нэг жижигхэн байшинд нуугдаж суудаг байлаа. Пол Грэм бидэнд өөрөө оройн хоол хийж өгдөг байсан."
+  },
+  {
+   "id": "G2",
+   "voice": "G",
+   "text": "Тэр үед компани бүрийн гурван сар зүтгэж бүтээснийг өнөөдөр код бичдэг хиймэл оюун хэдхэн минутад хийчихнэ. Ердөө хорин жилийн өмнө шүү дээ."
+  },
+  {
+   "id": "N4",
+   "voice": "N",
+   "text": "Үүнийг сонсоод хоёр янзаар бодож болно гэж тэр хэлсэн."
+  },
+  {
+   "id": "G3",
+   "voice": "G",
+   "text": "Нэг бол «ганцхан даалгавар бүхэл бүтэн компани болчихлоо» гээд гунигла. Эсвэл «би дэлхийн хамгийн зоримог, галзуу компанийг эхлүүлж чадна» гэж бод."
+  },
+  {
+   "id": "G4",
+   "voice": "G",
+   "text": "Салбар бүрийн мэргэжилтэн надтай хамт ажиллана. Өмнө нь боломжгүй байсан хэцүү технологийг ч бүтээж болно."
+  },
+  {
+   "id": "N5",
+   "voice": "N",
+   "text": "Y Combinator-ын тэргүүн Гарри Таны хэлснээр хүнд технологийн компаниудын эзлэх хувь олон жил 5–10 хувь байсан бол одоо 25-д хүрч байна.",
+   "tts": "Уай Комбинаторын тэргүүн Гарри Таны хэлснээр хүнд технологийн компаниудын эзлэх хувь олон жил тав, арван хувь байсан бол одоо хорин тавд хүрч байна.",
+   "captionMap": [
+    [
+     "Уай Комбинаторын",
+     "Y Combinator-ын"
+    ],
+    [
+     "тав, арван",
+     "5–10"
+    ],
+    [
+     "хорин тавд",
+     "25-д"
+    ]
+   ]
+  },
+  {
+   "id": "G5",
+   "voice": "G",
+   "text": "Гурван сарын ажил дээр олон агент нэмбэл гайхалтай зүйл бүтнэ. Гарааны бизнесийн алтан үе ирнэ гэж би бодож байна."
+  },
+  {
+   "id": "N6",
+   "voice": "N",
+   "text": "Гэвч залуусын дунд өөр яриа тарсан. Хиймэл оюуны том компанид орохгүй бол үүрд доод давхаргад үлдэнэ гэх."
+  },
+  {
+   "id": "G6",
+   "voice": "G",
+   "text": "Хэрэв тэр үнэн байсан бол дэлхий маш муу газар болох байсан."
+  },
+  {
+   "id": "G7",
+   "voice": "G",
+   "text": "Өнөөдөр байгуулагдсан компаниуд өмнөх үеийнхээс хавьгүй үнэ цэнтэй, хавьгүй нөлөөтэй болно гэж би мөрийцнө."
+  },
+  {
+   "id": "N7",
+   "voice": "N",
+   "text": "Хиймэл оюун бүхнийг залгина гэсэн айдас нэг хэсэг ноёлж байсан. Одоо байдал эргэсэн гэж тэр ажиглажээ."
+  },
+  {
+   "id": "G8",
+   "voice": "G",
+   "text": "Өмнө нь «бүх зүйл дууслаа» гэдэг байсан. Одоо «за, хийцгээе» гэдэг болсон."
+  },
+  {
+   "id": "G9",
+   "voice": "G",
+   "text": "Үүнийг жил бүр дахин хэлж чадна гэж найдаж байна. Гэхдээ түүхийн яг энэ агшны хувьд бол эргэлзээгүй үнэн."
+  },
+  {
+   "id": "N8",
+   "voice": "N",
+   "text": "Хоёрдугаар ангид: туршлага биш, хэрэгсэл ялна. Дагаад хүлээж байгаарай."
+  }
+ ],
+ "clips": {
+  "c01": {
+   "file": "altman-ep1/src/c01.mp4",
+   "start": 5,
+   "end": 121.9
+  },
+  "c02": {
+   "file": "altman-ep1/src/c02.mp4",
+   "start": 414,
+   "end": 573.9
+  },
+  "c03": {
+   "file": "altman-ep1/src/c03.mp4",
+   "start": 1856,
+   "end": 1883.9
+  }
+ },
+ "beats": [
+  {
+   "id": "N1",
+   "name": "Hook",
+   "lead": 0.9,
+   "pre": 0.1,
+   "voice": "N1",
+   "post": 0.25,
+   "source": "under",
+   "score": "soft",
+   "label": "Сэм Алтман · OpenAI-ийн захирал",
+   "headline": {
+    "text": "ГАРААНЫ БИЗНЕС|ЭХЛҮҮЛЭХ|ХАМГИЙН САЙН ҮЕ",
+    "tone": "accent",
+    "big": true
+   },
+   "cuts": [
+    {
+     "clip": "c01",
+     "from": 31.45,
+     "len": 3.4,
+     "x": 1107,
+     "zoom": 1.38,
+     "cy": 390
+    },
+    {
+     "clip": "c01",
+     "from": 9.0,
+     "len": 2.6,
+     "x": 960,
+     "mute": true
+    },
+    {
+     "clip": "c02",
+     "from": 444.0,
+     "len": 2.8,
+     "x": 703,
+     "mute": true
+    }
+   ]
+  },
+  {
+   "id": "V1",
+   "name": "Never a better time",
+   "hold": 2.6,
+   "source": "full",
+   "score": "still",
+   "subtitle": [
+    {
+     "text": "Гарааны бизнес эхлүүлэхэд",
+     "at": 0.1,
+     "to": 1.2
+    },
+    {
+     "text": "одоогийнх шиг сайн үе байгаагүй.",
+     "at": 1.25,
+     "to": 2.5
+    }
+   ],
+   "cuts": [
+    {
+     "clip": "c03",
+     "from": 1867.15,
+     "len": 1,
+     "x": 1095
+    }
+   ]
+  },
+  {
+   "id": "N2",
+   "name": "The bet",
+   "pre": 0.25,
+   "voice": "N2",
+   "post": 0.2,
+   "source": "under",
+   "score": "mid",
+   "cuts": [
+    {
+     "clip": "c01",
+     "from": 11.5,
+     "len": 3,
+     "x": 960,
+     "mute": true,
+     "headline": {
+      "text": "ИРЭЭДҮЙН ТРИЛЛИОНЕР|ЭНЭ ТАНХИМД?",
+      "tone": "accent"
+     }
+    },
+    {
+     "clip": "c02",
+     "from": 526.6,
+     "len": 3,
+     "x": 700,
+     "headline": {
+      "text": "АЛТМАН|МӨРИЙЦСӨН",
+      "tone": "accent"
+     }
+    }
+   ]
+  },
+  {
+   "id": "N3",
+   "name": "2005",
+   "pre": 0.2,
+   "voice": "N3",
+   "post": 0.2,
+   "source": "under",
+   "score": "mid",
+   "cuts": [
+    {
+     "clip": "c01",
+     "from": 45.6,
+     "len": 3.4,
+     "x": 520,
+     "headline": {
+      "text": "2005 ОН:|АНХНЫ ЭЛСЭЛТ"
+     }
+    },
+    {
+     "clip": "c01",
+     "from": 52.4,
+     "len": 5.2,
+     "x": 1180,
+     "headline": {
+      "text": "ГАРААНЫ БИЗНЕС|НЭР ХҮНДГҮЙ БАЙВ"
+     }
+    }
+   ]
+  },
+  {
+   "id": "G1",
+   "name": "Hiding in Cambridge",
+   "pre": 0.2,
+   "voice": "G1",
+   "post": 0.2,
+   "source": "under",
+   "score": "mid",
+   "cuts": [
+    {
+     "clip": "c01",
+     "from": 60.2,
+     "len": 4,
+     "x": 1190,
+     "headline": {
+      "text": "ЖИЖИГХЭН БАЙШИНД|НУУГДАЖ СУУСАН"
+     }
+    },
+    {
+     "clip": "c01",
+     "from": 64.3,
+     "len": 4,
+     "x": 1200,
+     "headline": {
+      "text": "ПОЛ ГРЭМ ӨӨРӨӨ|ХООЛ ХИЙДЭГ БАЙВ"
+     },
+     "zoom": 1.25,
+     "cy": 430
+    }
+   ]
+  },
+  {
+   "id": "G2",
+   "name": "3 months in minutes",
+   "pre": 0.2,
+   "voice": "G2",
+   "post": 0.2,
+   "source": "under",
+   "score": "drive",
+   "cuts": [
+    {
+     "clip": "c01",
+     "from": 72.0,
+     "len": 5,
+     "x": 1210,
+     "headline": {
+      "text": "3 САРЫН АЖИЛ|ХЭДХЭН МИНУТАД",
+      "tone": "accent"
+     }
+    },
+    {
+     "clip": "c01",
+     "from": 80.3,
+     "len": 4,
+     "x": 1215,
+     "headline": {
+      "text": "ЕРДӨӨ|20 ЖИЛИЙН ӨМНӨ"
+     },
+     "zoom": 1.25,
+     "cy": 430
+    }
+   ]
+  },
+  {
+   "id": "N4",
+   "name": "Two ways",
+   "pre": 0.2,
+   "voice": "N4",
+   "post": 0.25,
+   "source": "under",
+   "score": "mid",
+   "cuts": [
+    {
+     "clip": "c01",
+     "from": 89.2,
+     "len": 1,
+     "x": 1215,
+     "headline": {
+      "text": "ХОЁР|СОНГОЛТ",
+      "tone": "accent"
+     }
+    }
+   ]
+  },
+  {
+   "id": "G3",
+   "name": "Sad or ambitious",
+   "pre": 0.2,
+   "voice": "G3",
+   "post": 0.2,
+   "source": "under",
+   "score": "drive",
+   "cuts": [
+    {
+     "clip": "c01",
+     "from": 96.9,
+     "len": 4.5,
+     "x": 1222,
+     "headline": {
+      "text": "НЭГ БОЛ|ГУНИГЛА"
+     }
+    },
+    {
+     "clip": "c01",
+     "from": 101.5,
+     "len": 5.5,
+     "x": 1222,
+     "headline": {
+      "text": "ЭСВЭЛ ХАМГИЙН|ЗОРИМОГ КОМПАНИ",
+      "tone": "accent"
+     },
+     "zoom": 1.25,
+     "cy": 430
+    }
+   ]
+  },
+  {
+   "id": "G4",
+   "name": "Experts in every field",
+   "pre": 0.2,
+   "voice": "G4",
+   "post": 0.2,
+   "source": "under",
+   "score": "drive",
+   "cuts": [
+    {
+     "clip": "c01",
+     "from": 115.0,
+     "len": 3.6,
+     "x": 1210,
+     "headline": {
+      "text": "САЛБАР БҮРИЙН|МЭРГЭЖИЛТЭН ХАЖУУД"
+     }
+    },
+    {
+     "clip": "c02",
+     "from": 450.0,
+     "len": 3.9,
+     "x": 703,
+     "headline": {
+      "text": "БОЛОМЖГҮЙ БАЙСАН|БОЛОМЖТОЙ БОЛСОН",
+      "tone": "accent"
+     }
+    }
+   ]
+  },
+  {
+   "id": "N5",
+   "name": "Hard tech share",
+   "pre": 0.2,
+   "voice": "N5",
+   "post": 0.2,
+   "source": "under",
+   "score": "mid",
+   "label": "Гарри Тан · Y Combinator-ын тэргүүн",
+   "cuts": [
+    {
+     "clip": "c02",
+     "from": 422.3,
+     "len": 4.6,
+     "x": 1095,
+     "headline": {
+      "text": "ХҮНД ТЕХНОЛОГИ:|5–10 ХУВЬ БАЙСАН"
+     }
+    },
+    {
+     "clip": "c02",
+     "from": 427.6,
+     "len": 4.4,
+     "x": 1095,
+     "headline": {
+      "text": "ОДОО|25 ХУВЬ",
+      "tone": "accent"
+     },
+     "zoom": 1.25,
+     "cy": 430
+    }
+   ]
+  },
+  {
+   "id": "G5",
+   "name": "Golden age",
+   "pre": 0.2,
+   "voice": "G5",
+   "post": 0.35,
+   "source": "under",
+   "score": "drive",
+   "cuts": [
+    {
+     "clip": "c02",
+     "from": 456.0,
+     "len": 4,
+     "x": 703,
+     "headline": {
+      "text": "3 САРЫН АЖИЛ|+ ОЛОН АГЕНТ"
+     }
+    },
+    {
+     "clip": "c02",
+     "from": 465.3,
+     "len": 4,
+     "x": 703,
+     "headline": {
+      "text": "АЛТАН ҮЕ|ИРЖ БАЙНА",
+      "tone": "accent"
+     },
+     "zoom": 1.25,
+     "cy": 430
+    }
+   ]
+  },
+  {
+   "id": "N6",
+   "name": "The turn: underclass meme",
+   "pre": 0.2,
+   "voice": "N6",
+   "post": 0.2,
+   "source": "under",
+   "score": "tense",
+   "cuts": [
+    {
+     "clip": "c02",
+     "from": 499.85,
+     "len": 3.9,
+     "x": 560,
+     "headline": {
+      "text": "ЗАЛУУСЫН ДУНД|ӨӨР ЯРИА ТАРСАН",
+      "tone": "danger"
+     }
+    },
+    {
+     "clip": "c02",
+     "from": 504.95,
+     "len": 3.9,
+     "x": 700,
+     "headline": {
+      "text": "ҮҮРД ДООД|ДАВХАРГАД ҮЛДЭХ ҮҮ?",
+      "tone": "danger"
+     }
+    }
+   ]
+  },
+  {
+   "id": "V2",
+   "name": "So dumb, not true",
+   "hold": 2.2,
+   "source": "full",
+   "score": "still",
+   "subtitle": [
+    {
+     "text": "Ямар тэнэг яриа вэ.",
+     "at": 0.1,
+     "to": 1.15
+    },
+    {
+     "text": "Энэ бол худлаа.",
+     "at": 1.3,
+     "to": 2.15
+    }
+   ],
+   "cuts": [
+    {
+     "clip": "c02",
+     "from": 508.2,
+     "len": 1.25,
+     "x": 700,
+     "zoom": 1.25,
+     "cy": 430
+    },
+    {
+     "clip": "c02",
+     "from": 516.9,
+     "len": 0.95,
+     "x": 700
+    }
+   ]
+  },
+  {
+   "id": "G6",
+   "name": "A very bad place",
+   "pre": 0.2,
+   "voice": "G6",
+   "post": 0.25,
+   "source": "under",
+   "score": "mid",
+   "cuts": [
+    {
+     "clip": "c02",
+     "from": 517.9,
+     "len": 1,
+     "x": 700,
+     "headline": {
+      "text": "ХЭРЭВ ҮНЭН БОЛ|ДЭЛХИЙ МУУ ГАЗАР"
+     }
+    }
+   ]
+  },
+  {
+   "id": "V3",
+   "name": "Trillionaires",
+   "hold": 2.65,
+   "source": "full",
+   "score": "still",
+   "subtitle": [
+    {
+     "text": "Энэ танхимд",
+     "at": 0.1,
+     "to": 0.75
+    },
+    {
+     "text": "ирээдүйн триллионерууд",
+     "at": 0.8,
+     "to": 1.65
+    },
+    {
+     "text": "сууж байгаа гэж мөрийцье.",
+     "at": 1.7,
+     "to": 2.55
+    }
+   ],
+   "cuts": [
+    {
+     "clip": "c02",
+     "from": 530.15,
+     "len": 1,
+     "x": 700,
+     "zoom": 1.25,
+     "cy": 430
+    }
+   ]
+  },
+  {
+   "id": "G7",
+   "name": "More valuable",
+   "pre": 0.25,
+   "voice": "G7",
+   "post": 0.2,
+   "source": "under",
+   "score": "drive",
+   "headline": {
+    "text": "ӨНӨӨДРИЙН КОМПАНИ|ИЛҮҮ ҮНЭ ЦЭНТЭЙ",
+    "tone": "accent"
+   },
+   "cuts": [
+    {
+     "clip": "c02",
+     "from": 533.0,
+     "len": 2.2,
+     "x": 700
+    },
+    {
+     "clip": "c02",
+     "from": 535.85,
+     "len": 2.8,
+     "x": 560
+    },
+    {
+     "clip": "c02",
+     "from": 541.1,
+     "len": 3,
+     "x": 703
+    }
+   ]
+  },
+  {
+   "id": "N7",
+   "name": "Fear turned",
+   "pre": 0.2,
+   "voice": "N7",
+   "post": 0.2,
+   "source": "under",
+   "score": "mid",
+   "cuts": [
+    {
+     "clip": "c02",
+     "from": 544.0,
+     "len": 3.5,
+     "x": 703,
+     "headline": {
+      "text": "\"ХИЙМЭЛ ОЮУН|БҮХНИЙГ ЗАЛГИНА\""
+     }
+    },
+    {
+     "clip": "c02",
+     "from": 556.0,
+     "len": 3.5,
+     "x": 703,
+     "headline": {
+      "text": "ОДОО БАЙДАЛ|ЭРГЭСЭН",
+      "tone": "accent"
+     },
+     "zoom": 1.25,
+     "cy": 430
+    }
+   ]
+  },
+  {
+   "id": "G8",
+   "name": "Let's go do it",
+   "pre": 0.25,
+   "voice": "G8",
+   "post": 0.2,
+   "source": "under",
+   "score": "drive",
+   "cuts": [
+    {
+     "clip": "c02",
+     "from": 562.9,
+     "len": 1,
+     "x": 703,
+     "headline": {
+      "text": "\"ЗА,|ХИЙЦГЭЭЕ\"",
+      "tone": "accent"
+     }
+    }
+   ]
+  },
+  {
+   "id": "G9",
+   "name": "Certainly true now",
+   "pre": 0.2,
+   "voice": "G9",
+   "post": 0.4,
+   "source": "under",
+   "score": "soft",
+   "headline": {
+    "text": "ЯГ ОДОО|ХАМГИЙН САЙН ҮЕ",
+    "tone": "accent"
+   },
+   "cuts": [
+    {
+     "clip": "c03",
+     "from": 1869.75,
+     "len": 4.6,
+     "x": 1095
+    },
+    {
+     "clip": "c03",
+     "from": 1861.0,
+     "len": 2.6,
+     "x": 1095,
+     "zoom": 1.25,
+     "cy": 430,
+     "mute": true
+    }
+   ]
+  },
+  {
+   "id": "END",
+   "name": "End card and part 2 teaser",
+   "pre": 1.6,
+   "voice": "N8",
+   "post": 1.4,
+   "source": "mute",
+   "graphic": "end",
+   "score": "end",
+   "cuts": [
+    {
+     "clip": "c02",
+     "from": 548.0,
+     "len": 1,
+     "x": 703,
+     "mute": true
+    }
+   ]
+  }
+ ],
+ "turn": "N6"
+}

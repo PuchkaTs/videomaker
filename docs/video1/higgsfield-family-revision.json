@@ -1,0 +1,20 @@
+{
+  "id": "08c8a165-0d47-4e6f-8a74-5b6890032e4f",
+  "type": "video",
+  "status": "completed",
+  "model": "seedance_2_5",
+  "params": {
+    "prompt": "Use the input image as a STRICT locked first-frame composition and keep it throughout the whole video. Exactly FIVE jars sit together entirely in the RIGHT 65 percent of this wide panoramic frame. The LEFT 35 percent remains empty ivory background and bare surface for editorial copy. All five jars including the outermost red jar and outermost green jar are fully visible, with ample margin outside BOTH jar edges. Do not recenter the product cluster. Camera is LOCKED OFF, absolutely no dolly, zoom, tracking or orbit. Only a very faint natural movement of the soft background shadow. All product jars and labels remain stationary and unchanged, same exact relative sizes, Cyrillic lettering, logos, lids, label colors. Preserve the original ivory stone plinths. No cropping of products at any time. No added jars, no text overlays, no logos, no cuts. Silent premium studio still-life video.",
+    "aspect_ratio": "21:9",
+    "duration": 9,
+    "reference_images": [
+      "8f0e1407-9b86-47a6-821d-0345fb7cda3f"
+    ],
+    "mode": "omni_reference",
+    "resolution": "1080p",
+    "generate_audio": false
+  },
+  "url": "https://d8j0ntlcm91z4.cloudfront.net/user_33650nzlW7PdDEVy2z1RQ06dD1v/hf_20260922_155507_08c8a165-0d47-4e6f-8a74-5b6890032e4f.mp4",
+  "localFile": "public/video1/generated/scene09-product-family-v2.mp4",
+  "supersedes": "scene09-product-family.mp4"
+}

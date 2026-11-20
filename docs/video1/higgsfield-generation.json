@@ -1,0 +1,117 @@
+{
+  "date": "2026-09-22",
+  "model": "seedance_2_5",
+  "commonPrompt": " Animate the supplied reference as the first frame. Restrained premium Mongolian nutrition-brand film, warm natural light, smooth continuous shot. Preserve the exact subjects, set, colors and composition. No added typography, captions, diagrams, logos, people or objects; no cuts, no exaggerated motion, no morphing. Silent output.",
+  "specs": [
+    {
+      "index": 21,
+      "nodeId": "10:67",
+      "file": "scene02-researcher",
+      "duration": 6,
+      "prompt": "The same Mongolian male researcher gently examines the raised milk tube, with minute natural breathing and a slight thoughtful head movement. Hands keep a firm realistic grip; sample remains upright without spilling. Very slow 3-percent camera push-in. Keep all laboratory equipment and yak wall photograph fixed."
+    },
+    {
+      "index": 22,
+      "nodeId": "10:71",
+      "file": "scene02-sampling",
+      "duration": 8,
+      "prompt": "Macro laboratory sample preparation. The gloved hand gently operates the micropipette once into the existing open sample tube; tiny realistic fluid motion, no splash. Glass of milk and pale-yellow whey tube stay in place. Almost locked-off camera, soft changing glass highlights."
+    },
+    {
+      "index": 6,
+      "nodeId": "11:67",
+      "file": "scene06-protein",
+      "duration": 4,
+      "prompt": "Slow poetic macro drift through the existing pale protein-like forms and fine connecting threads. Minimal parallax, preserve form and spacing. Abstract conceptual imagery only, no scientific results, diagrams or additional particles."
+    },
+    {
+      "index": 7,
+      "nodeId": "11:119",
+      "file": "scene07-powder",
+      "duration": 4,
+      "prompt": "Tactile close-up of the existing ivory nutrition powder, subtle camera drift and soft light grazing the texture. Keep existing objects exactly as shown. No additional pouring, no dramatic flying dust."
+    },
+    {
+      "index": 9,
+      "nodeId": "66:2",
+      "file": "scene09-product-family",
+      "duration": 9,
+      "prompt": "Premium studio tableau of exactly the five existing product jars on ivory stone plinths. All jars remain completely rigid, same lids, label typography, logos, colors, relative sizes and placement. Camera virtually locked, extremely subtle slow 2-percent push and soft studio-light movement on the background. Labels must not warp or change. Left negative space stays empty. Do not add a sixth jar."
+    },
+    {
+      "index": 14,
+      "nodeId": "13:76",
+      "file": "scene14-breakfast",
+      "duration": 13,
+      "prompt": "The same Mongolian family shares a calm breakfast. Small natural breathing, gentle eye contact and one subtle hand movement near the existing cup. Preserve all identities, ages, clothing, number of people and objects. Smooth almost imperceptible camera push-in, no talking to camera, no drinking performance or health transformation."
+    },
+    {
+      "index": 17,
+      "nodeId": "13:255",
+      "file": "scene17-milk-ripple",
+      "duration": 5,
+      "prompt": "A single delicate milk droplet falls into the existing ivory milk surface, sending slow concentric ripples outward. Preserve emerald environment and cream material. Elegant realistic high-speed macro, restrained fluid dynamics, no huge splash."
+    },
+    {
+      "index": 18,
+      "nodeId": "13:314",
+      "file": "scene18-hero",
+      "duration": 5,
+      "prompt": "The exact existing Amin Chanar hero jar stands rigidly on its ivory limestone pedestal in the emerald studio. Very slow subtle camera push-in, soft grazing highlight across the pedestal, preserve the entire label, logo, jar shape and lid pixel appearance as faithfully as possible. No rotation, no deformation, no changing lettering. Keep left copy space empty."
+    }
+  ],
+  "batches": [
+    {
+      "jobs": [
+        {
+          "index": 21,
+          "job_id": "78eb2ffe-ac1d-47c2-bd93-7506c33a953b",
+          "status": "pending"
+        },
+        {
+          "index": 22,
+          "job_id": "bf3f9104-83ad-4b95-a985-d26041c82721",
+          "status": "pending"
+        },
+        {
+          "index": 6,
+          "job_id": "8f8fe068-2b73-43fd-b2c0-66eecb66668e",
+          "status": "pending"
+        },
+        {
+          "index": 7,
+          "job_id": "a01fb22a-1059-4221-8c0a-6c4acf4293e0",
+          "status": "pending"
+        },
+        {
+          "index": 9,
+          "job_id": "0d78e031-84d0-42a9-8429-a312f5cfc4f3",
+          "status": "pending"
+        },
+        {
+          "index": 14,
+          "job_id": "ebd01154-da43-40d8-8d8d-5e32b05497cc",
+          "status": "pending"
+        }
+      ],
+      "submitted_count": 6,
+      "failed_count": 0
+    },
+    {
+      "jobs": [
+        {
+          "index": 17,
+          "job_id": "7a474a1e-dcf5-4e33-8446-dddb84d6c6f8",
+          "status": "pending"
+        },
+        {
+          "index": 18,
+          "job_id": "06feb70d-2d79-4802-a70a-bd26edbab237",
+          "status": "pending"
+        }
+      ],
+      "submitted_count": 2,
+      "failed_count": 0
+    }
+  ]
+}

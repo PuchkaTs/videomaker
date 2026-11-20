@@ -1,0 +1,1239 @@
+{
+ "_": "Jensen reel («Хиймэл оюун ганц хүнээс хамаарч болох уу?»). Edit this file, then run npm run build:jensen-reel (writes cues.json + stems; add -- --short for the 90-second cut, which lays out only the beats in 'short'). 'from' is seconds in the original YouTube video. A beat lasts lead + pre + voice + post (or 'hold'); its cuts share that time in proportion to 'len', so keep each share inside its camera shot. Every cut is framed by x (source pixel at the panel's centre, default 960), zoom (1 = a 4:5 crop filling the panel; under 1 shows more of the frame on black, for cards and pages) and cy. \"mute\": true plays no film sound (b-roll that carries Bloomberg's narration or music). era: oct | nov is the timeline tag; score names the music preset; turn is the beat that gets the riser and hit.",
+ "credit": "Эх сурвалж: Bloomberg Originals · The Circuit",
+ "voices": {
+  "N": {
+   "name": "Mandukai",
+   "id": "UpomOl2r1953iSzRTZp3"
+  },
+  "G": {
+   "name": "Kublai",
+   "id": "LICDjZcDcyJwTAyvJ7mk"
+  }
+ },
+ "lines": [
+  {
+   "id": "N1",
+   "voice": "N",
+   "text": "Хиймэл оюуны бараг бүх том компани энэ хүний чип дээр тогтдог. Одоо тэр тагнуулын дуулианы төвд байна."
+  },
+  {
+   "id": "N2",
+   "voice": "N",
+   "text": "Bloomberg-ийн мэдээлснээр Хуан гэр бүлээс гадуурх харилцаатай байснаа хүлээн зөвшөөрсөн. Америкийн албаныхан тэр эмэгтэйг Хятадын тагнуул гэж сэжиглэж байна.",
+   "tts": "Блүмбэргийн мэдээлснээр Хуан гэр бүлээс гадуурх харилцаатай байснаа хүлээн зөвшөөрсөн. Америкийн албаныхан тэр эмэгтэйг Хятадын тагнуул гэж сэжиглэж байна.",
+   "captionMap": [
+    [
+     "Блүмбэргийн",
+     "Bloomberg-ийн"
+    ]
+   ]
+  },
+  {
+   "id": "N3",
+   "voice": "N",
+   "text": "Одоо түүнийг компани нь ч, Америкийн засгийн газар ч шалгаж байна. Тэр ажилтнууддаа захидал бичсэн. Юу гэж бичсэнийг төгсгөлд нь үзнэ."
+  },
+  {
+   "id": "N4",
+   "voice": "N",
+   "text": "Гэтэл хэдхэн долоо хоногийн өмнө бүх зүйл огт өөр байв. Дөрвөн өдөр, дөрвөн улс. Очсон газар бүрд нь хүмүүс түүнийг бүчиж авч байлаа."
+  },
+  {
+   "id": "N5",
+   "voice": "N",
+   "text": "Тайваньд төрсөн. Америкт зоогийн газарт аяга угааж байсан. 1993 онд NVIDIA-г байгуулсан.",
+   "tts": "Тайваньд төрсөн. Америкт зоогийн газарт аяга угааж байсан. Мянга есөн зуун ерэн гурван онд Энвидиаг байгуулсан.",
+   "captionMap": [
+    [
+     "Мянга есөн зуун ерэн гурван",
+     "1993"
+    ],
+    [
+     "Энвидиаг",
+     "NVIDIA-г"
+    ]
+   ]
+  },
+  {
+   "id": "N6",
+   "voice": "N",
+   "text": "Тэр үед NVIDIA тоглоомын график чип хийдэг байв. Харин судлаачид тэр чипээр хиймэл оюун сургаж болохыг олж мэдэв.",
+   "tts": "Тэр үед Энвидиа тоглоомын график чип хийдэг байв. Харин судлаачид тэр чипээр хиймэл оюун сургаж болохыг олж мэдэв.",
+   "captionMap": [
+    [
+     "Энвидиа",
+     "NVIDIA"
+    ]
+   ]
+  },
+  {
+   "id": "N7",
+   "voice": "N",
+   "text": "Хуан бүхнээ үүнд дэнчин тавьсан. Өнөөдөр OpenAI, Google, Meta, Microsoft бүгдийн цөмд NVIDIA бий.",
+   "tts": "Хуан бүхнээ үүнд дэнчин тавьсан. Өнөөдөр Оупэн Эй Ай, Гүүгл, Мета, Майкрософт бүгдийн цөмд Энвидиа бий.",
+   "captionMap": [
+    [
+     "Оупэн Эй Ай,",
+     "OpenAI,"
+    ],
+    [
+     "Гүүгл,",
+     "Google,"
+    ],
+    [
+     "Мета,",
+     "Meta,"
+    ],
+    [
+     "Майкрософт",
+     "Microsoft"
+    ],
+    [
+     "Энвидиа",
+     "NVIDIA"
+    ]
+   ]
+  },
+  {
+   "id": "N8",
+   "voice": "N",
+   "text": "Тэр төрийн тэргүүнүүдтэй шууд утсаар ярьдаг хүн болсон."
+  },
+  {
+   "id": "G1",
+   "voice": "G",
+   "text": "Хиймэл оюун хүн төрөлхтнийг мөхөөнө гэж үү? Миний хариулт: бүх зүйл бидний хяналтад байгаа. Чадавхыг ахиулах, аюулгүй болгох хоёр бол нэг ажил."
+  },
+  {
+   "id": "N9",
+   "voice": "N",
+   "text": "OpenAI, Anthropic хоёр хиймэл оюун нь санаанд оромгүй үйлдэл хийснийг зарласан. Тэд үүнийг хашиж чадахгүй гэж байна гэж сэтгүүлч хэлэхэд:",
+   "tts": "Оупэн Эй Ай, Антропик хоёр хиймэл оюун нь санаанд оромгүй үйлдэл хийснийг зарласан. Тэд үүнийг хашиж чадахгүй гэж байна гэж сэтгүүлч хэлэхэд:",
+   "captionMap": [
+    [
+     "Оупэн Эй Ай,",
+     "OpenAI,"
+    ],
+    [
+     "Антропик",
+     "Anthropic"
+    ]
+   ]
+  },
+  {
+   "id": "G2",
+   "voice": "G",
+   "text": "Агентыг хашиж, хянаж болно. Чадахгүй бол турших ёсгүй, ашиглалтад оруулах ёсгүй. Хашихгүй, хянахгүй хөгжүүлэх нь маш өндөр эрсдэлтэй."
+  },
+  {
+   "id": "N10",
+   "voice": "N",
+   "text": "Хиймэл оюун хүмүүсийг ажилгүй болгоно гэсэн айдас ч бий. Хуан үүнтэй санал нийлдэггүй."
+  },
+  {
+   "id": "G3",
+   "voice": "G",
+   "text": "Хиймэл оюун ажлын байр бий болгодог. Үүнийг барьж байгуулах хэрэгтэй учраас барилга, цахилгаан, шугам хоолойн ажил нэмэгдэж байна."
+  },
+  {
+   "id": "G4",
+   "voice": "G",
+   "text": "Хүн бүрийн ажил өөрчлөгдөнө. Өөрчлөлтийг эсэргүүцээд тэр алга болохгүй."
+  },
+  {
+   "id": "N11",
+   "voice": "N",
+   "text": "Гэвч хүн бүртэй ярьдаг хүнд эрсдэл дагалддаг."
+  },
+  {
+   "id": "N12",
+   "voice": "N",
+   "text": "Тэр эмэгтэй NVIDIA-гийн чипийг Зүүн өмнөд Азид хамгийн их авдаг компаниудын нэгд ажилладаг. Америкийн албаныхан уг компанийг Хятад руу чип нууцаар гаргасан гэж сэжиглэдэг.",
+   "tts": "Тэр эмэгтэй Энвидиагийн чипийг Зүүн өмнөд Азид хамгийн их авдаг компаниудын нэгд ажилладаг. Америкийн албаныхан уг компанийг Хятад руу чип нууцаар гаргасан гэж сэжиглэдэг.",
+   "captionMap": [
+    [
+     "Энвидиагийн",
+     "NVIDIA-гийн"
+    ]
+   ]
+  },
+  {
+   "id": "N13",
+   "voice": "N",
+   "text": "NVIDIA түүнийг огцруулах эсэхээ хэлэлцэж байгаа гэсэн мэдээлэл ч гарсан. Тэгээд тэр захидлаа бичсэн.",
+   "tts": "Энвидиа түүнийг огцруулах эсэхээ хэлэлцэж байгаа гэсэн мэдээлэл ч гарсан. Тэгээд тэр захидлаа бичсэн.",
+   "captionMap": [
+    [
+     "Энвидиа",
+     "NVIDIA"
+    ]
+   ]
+  },
+  {
+   "id": "G5",
+   "voice": "G",
+   "text": "Би гэр бүлээсээ, та бүхнээс уучлал гуйх ёстой. Би эхнэртээ үнэнч байгаагүй. Миний хийсэн зүйлд ямар ч шалтаг байхгүй."
+  },
+  {
+   "id": "N14",
+   "voice": "N",
+   "text": "NVIDIA-гийн удирдах зөвлөл компанийн нууц алдагдсан гэх үндэслэл байхгүй гэж мэдэгдсэн. Хятад үүнийг гүтгэлэг гэж нэрлэсэн.",
+   "tts": "Энвидиагийн удирдах зөвлөл компанийн нууц алдагдсан гэх үндэслэл байхгүй гэж мэдэгдсэн. Хятад үүнийг гүтгэлэг гэж нэрлэсэн.",
+   "captionMap": [
+    [
+     "Энвидиагийн",
+     "NVIDIA-гийн"
+    ]
+   ]
+  },
+  {
+   "id": "N15",
+   "voice": "N",
+   "text": "Дуулиан гарахаас өмнө тэрээр ирээдүйн тухай ингэж хэлж байв."
+  },
+  {
+   "id": "G6",
+   "voice": "G",
+   "text": "Эрсдэлийг би сайн мэднэ. Гэхдээ бидний бүтээх гайхалтай сайхан ирээдүйг харахгүй юм бол үүнийг юуны төлөө хийж байгаа юм бэ?"
+  }
+ ],
+ "clips": {
+  "c01": {
+   "file": "jensen-reel/src/c01.mp4",
+   "start": 0,
+   "end": 130
+  },
+  "c02": {
+   "file": "jensen-reel/src/c02.mp4",
+   "start": 185,
+   "end": 220
+  },
+  "c03": {
+   "file": "jensen-reel/src/c03.mp4",
+   "start": 280,
+   "end": 325
+  },
+  "c04": {
+   "file": "jensen-reel/src/c04.mp4",
+   "start": 400,
+   "end": 620
+  },
+  "c05": {
+   "file": "jensen-reel/src/c05.mp4",
+   "start": 805,
+   "end": 820
+  },
+  "c06": {
+   "file": "jensen-reel/src/c06.mp4",
+   "start": 970,
+   "end": 985
+  },
+  "c07": {
+   "file": "jensen-reel/src/c07.mp4",
+   "start": 1070,
+   "end": 1145
+  },
+  "c08": {
+   "file": "jensen-reel/src/c08.mp4",
+   "start": 1200,
+   "end": 1230
+  },
+  "c09": {
+   "file": "jensen-reel/src/c09.mp4",
+   "start": 1360,
+   "end": 1435
+  },
+  "c10": {
+   "file": "jensen-reel/src/c10.mp4",
+   "start": 1845,
+   "end": 1865
+  },
+  "c11": {
+   "file": "jensen-reel/src/c11.mp4",
+   "start": 2120,
+   "end": 2135
+  },
+  "c12": {
+   "file": "jensen-reel/src/c12.mp4",
+   "start": 2185,
+   "end": 2290
+  },
+  "c13": {
+   "file": "jensen-reel/src/c13.mp4",
+   "start": 2455,
+   "end": 2470
+  }
+ },
+ "beats": [
+  {
+   "id": "N1",
+   "name": "Hook",
+   "pre": 0.1,
+   "voice": "N1",
+   "post": 0.25,
+   "source": "under",
+   "lead": 0.9,
+   "score": "dark",
+   "label": "Женсен Хуан · NVIDIA-гийн гүйцэтгэх захирал",
+   "headline": {
+    "text": "ХИЙМЭЛ ОЮУН|ГАНЦ ХҮНЭЭС|ХАМААРЧ БОЛОХ УУ?",
+    "tone": "accent",
+    "big": true
+   },
+   "cuts": [
+    {
+     "clip": "c10",
+     "from": 1848.72,
+     "len": 2.6,
+     "x": 825
+    },
+    {
+     "clip": "c01",
+     "from": 13.7,
+     "len": 2.4,
+     "x": 1250,
+     "mute": true
+    },
+    {
+     "clip": "c09",
+     "from": 1409.0,
+     "len": 2.6,
+     "x": 865,
+     "mute": true
+    }
+   ]
+  },
+  {
+   "id": "V1",
+   "name": "They choose us",
+   "hold": 2.25,
+   "source": "full",
+   "score": "still",
+   "subtitle": [
+    {
+     "text": "Тэд биднээс хамаардаггүй.",
+     "at": 0.05,
+     "to": 1.1
+    },
+    {
+     "text": "Тэд биднийг сонгодог.",
+     "at": 1.15,
+     "to": 2.1
+    }
+   ],
+   "cuts": [
+    {
+     "clip": "c01",
+     "from": 122.8,
+     "len": 1,
+     "x": 860
+    }
+   ]
+  },
+  {
+   "id": "N2",
+   "name": "Affair and suspicion",
+   "pre": 0.3,
+   "voice": "N2",
+   "post": 0.3,
+   "source": "under",
+   "era": "nov",
+   "score": "tense",
+   "cuts": [
+    {
+     "clip": "c06",
+     "from": 970.3,
+     "len": 5,
+     "x": 1000,
+     "mute": true,
+     "headline": {
+      "text": "ГЭР БҮЛЭЭС ГАДУУРХ|ХАРИЛЦААГАА ХҮЛЭЭВ",
+      "tone": "danger"
+     }
+    },
+    {
+     "clip": "c07",
+     "from": 1083.0,
+     "len": 5,
+     "x": 960,
+     "zoom": 0.5625,
+     "mute": true,
+     "headline": {
+      "text": "АМЕРИКИЙН СЭЖИГ:|ХЯТАДЫН ТАГНУУЛ",
+      "tone": "danger"
+     }
+    }
+   ]
+  },
+  {
+   "id": "N3",
+   "name": "Two investigations",
+   "pre": 0.3,
+   "voice": "N3",
+   "post": 0.3,
+   "source": "under",
+   "era": "nov",
+   "score": "tense",
+   "cuts": [
+    {
+     "clip": "c01",
+     "from": 96.5,
+     "len": 3,
+     "x": 960,
+     "zoom": 0.5625,
+     "mute": true,
+     "headline": {
+      "text": "ХОЁР ШАЛГАЛТ|ЭХЭЛСЭН",
+      "tone": "danger"
+     }
+    },
+    {
+     "clip": "c01",
+     "from": 37.3,
+     "len": 2.4,
+     "x": 800,
+     "mute": true,
+     "headline": {
+      "text": "ХОЁР ШАЛГАЛТ|ЭХЭЛСЭН",
+      "tone": "danger"
+     }
+    },
+    {
+     "clip": "c07",
+     "from": 1117.3,
+     "len": 3.2,
+     "x": 960,
+     "zoom": 0.5625,
+     "mute": true,
+     "headline": {
+      "text": "ТЭР ЗАХИДАЛ БИЧСЭН|ЮУ ГЭЖ?",
+      "tone": "accent"
+     }
+    }
+   ]
+  },
+  {
+   "id": "N4",
+   "name": "Weeks earlier",
+   "pre": 0.3,
+   "voice": "N4",
+   "post": 0.3,
+   "source": "under",
+   "era": "oct",
+   "score": "mid",
+   "cuts": [
+    {
+     "clip": "c01",
+     "from": 54.8,
+     "len": 2.7,
+     "x": 980,
+     "mute": true,
+     "headline": {
+      "text": "ХЭДХЭН ДОЛОО ХОНОГИЙН|ӨМНӨ"
+     }
+    },
+    {
+     "clip": "c01",
+     "from": 59.15,
+     "len": 2.4,
+     "x": 960,
+     "zoom": 0.62,
+     "mute": true,
+     "headline": {
+      "text": "4 ӨДӨР,|4 УЛС",
+      "tone": "accent"
+     }
+    },
+    {
+     "clip": "c02",
+     "from": 197.8,
+     "len": 3.6,
+     "x": 960,
+     "mute": true,
+     "headline": {
+      "text": "ХҮМҮҮС ТҮҮНИЙГ|БҮЧИЖ АВЧ БАЙЛАА"
+     }
+    }
+   ]
+  },
+  {
+   "id": "N5",
+   "name": "Bio",
+   "pre": 0.3,
+   "voice": "N5",
+   "post": 0.3,
+   "source": "under",
+   "era": "oct",
+   "score": "mid",
+   "cuts": [
+    {
+     "clip": "c04",
+     "from": 456.5,
+     "len": 1.6,
+     "x": 925,
+     "mute": true,
+     "headline": {
+      "text": "ТАЙВАНЬД|ТӨРСӨН"
+     }
+    },
+    {
+     "clip": "c04",
+     "from": 462.5,
+     "len": 2.4,
+     "x": 920,
+     "mute": true,
+     "headline": {
+      "text": "АЯГА УГААГЧ|БАЙСАН"
+     }
+    },
+    {
+     "clip": "c04",
+     "from": 474.5,
+     "len": 2.0,
+     "x": 960,
+     "mute": true,
+     "headline": {
+      "text": "1993 ОН:|NVIDIA",
+      "tone": "accent"
+     }
+    }
+   ]
+  },
+  {
+   "id": "V2",
+   "name": "$200",
+   "hold": 5.15,
+   "source": "full",
+   "era": "oct",
+   "score": "still",
+   "label": "Архивын бичлэг",
+   "labelFor": 5,
+   "headline": {
+    "text": "$200-ААР|ЭХЭЛСЭН",
+    "tone": "accent"
+   },
+   "subtitle": [
+    {
+     "text": "200 доллараар би 15 хувийг авсан.",
+     "at": 0.05,
+     "to": 2.0
+    },
+    {
+     "text": "NVIDIA-гийн 20 хувь байсан байх.",
+     "at": 2.3,
+     "to": 5.0
+    }
+   ],
+   "cuts": [
+    {
+     "clip": "c04",
+     "from": 480.13,
+     "len": 1,
+     "x": 980
+    }
+   ]
+  },
+  {
+   "id": "N6",
+   "name": "Game chips",
+   "pre": 0.3,
+   "voice": "N6",
+   "post": 0.3,
+   "source": "under",
+   "era": "oct",
+   "score": "mid",
+   "cuts": [
+    {
+     "clip": "c04",
+     "from": 485.6,
+     "len": 3,
+     "x": 800,
+     "mute": true,
+     "headline": {
+      "text": "ТОГЛООМЫН|ГРАФИК ЧИП"
+     }
+    },
+    {
+     "clip": "c04",
+     "from": 495.0,
+     "len": 2.4,
+     "x": 960,
+     "mute": true,
+     "headline": {
+      "text": "ТОГЛООМЫН|ГРАФИК ЧИП"
+     }
+    },
+    {
+     "clip": "c04",
+     "from": 506.4,
+     "len": 2.6,
+     "x": 960,
+     "mute": true,
+     "headline": {
+      "text": "ТОГЛООМЫН ЧИПЭЭС|ХИЙМЭЛ ОЮУН РУУ",
+      "tone": "accent"
+     },
+     "zoom": 0.7
+    }
+   ]
+  },
+  {
+   "id": "N7",
+   "name": "All in",
+   "pre": 0.3,
+   "voice": "N7",
+   "post": 0.3,
+   "source": "under",
+   "era": "oct",
+   "score": "drive",
+   "cuts": [
+    {
+     "clip": "c04",
+     "from": 509.6,
+     "len": 3.0,
+     "x": 1000,
+     "mute": true,
+     "headline": {
+      "text": "БҮХНЭЭ|ДЭНЧИН ТАВЬСАН"
+     }
+    },
+    {
+     "clip": "c04",
+     "from": 522.8,
+     "len": 4.2,
+     "x": 980,
+     "zoom": 0.62,
+     "mute": true,
+     "headline": {
+      "text": "БҮГДИЙН ЦӨМД|NVIDIA",
+      "tone": "accent"
+     }
+    },
+    {
+     "clip": "c04",
+     "from": 527.35,
+     "len": 2.0,
+     "x": 960,
+     "mute": true,
+     "headline": {
+      "text": "БҮГДИЙН ЦӨМД|NVIDIA",
+      "tone": "accent"
+     }
+    }
+   ]
+  },
+  {
+   "id": "V3",
+   "name": "Mr. President",
+   "hold": 1.9,
+   "source": "full",
+   "era": "oct",
+   "score": "still",
+   "subtitle": [
+    {
+     "text": "Ноён Ерөнхийлөгч өө.",
+     "at": 1.05,
+     "to": 1.8
+    }
+   ],
+   "cuts": [
+    {
+     "clip": "c04",
+     "from": 545.0,
+     "len": 1,
+     "x": 520,
+     "zoom": 1.5,
+     "cy": 560
+    }
+   ]
+  },
+  {
+   "id": "N8",
+   "name": "Heads of state",
+   "pre": 0.3,
+   "voice": "N8",
+   "post": 0.3,
+   "source": "under",
+   "era": "oct",
+   "score": "drive",
+   "headline": {
+    "text": "ТӨРИЙН ТЭРГҮҮНҮҮДТЭЙ|ШУУД ЯРЬДАГ",
+    "tone": "accent"
+   },
+   "cuts": [
+    {
+     "clip": "c04",
+     "from": 537.3,
+     "len": 1.2,
+     "x": 480,
+     "mute": true
+    },
+    {
+     "clip": "c04",
+     "from": 538.75,
+     "len": 1.0,
+     "x": 960,
+     "mute": true
+    },
+    {
+     "clip": "c04",
+     "from": 540.05,
+     "len": 0.9,
+     "x": 960,
+     "mute": true
+    },
+    {
+     "clip": "c04",
+     "from": 612.5,
+     "len": 2.0,
+     "x": 900,
+     "zoom": 0.75,
+     "mute": true
+    }
+   ]
+  },
+  {
+   "id": "G1",
+   "name": "In our control",
+   "pre": 0.3,
+   "voice": "G1",
+   "post": 0.3,
+   "source": "under",
+   "era": "oct",
+   "score": "mid",
+   "cuts": [
+    {
+     "clip": "c03",
+     "from": 303.0,
+     "len": 5,
+     "x": 870,
+     "headline": {
+      "text": "ХҮН ТӨРӨЛХТӨН|МӨХӨХ ҮҮ?"
+     }
+    },
+    {
+     "clip": "c03",
+     "from": 316.3,
+     "len": 4,
+     "x": 840,
+     "zoom": 1.3,
+     "cy": 430,
+     "headline": {
+      "text": "ХИЙМЭЛ ОЮУН|БИДНИЙ ХЯНАЛТАД",
+      "tone": "accent"
+     }
+    }
+   ]
+  },
+  {
+   "id": "N9",
+   "name": "Incidents",
+   "pre": 0.3,
+   "voice": "N9",
+   "post": 0.3,
+   "source": "under",
+   "era": "oct",
+   "score": "tense",
+   "cuts": [
+    {
+     "clip": "c08",
+     "from": 1206.6,
+     "len": 3.2,
+     "x": 860,
+     "mute": true,
+     "headline": {
+      "text": "САНААНД ОРОМГҮЙ|ҮЙЛДЭЛ ХИЙСЭН"
+     }
+    },
+    {
+     "clip": "c08",
+     "from": 1213.1,
+     "len": 2.0,
+     "x": 1005,
+     "mute": true,
+     "headline": {
+      "text": "САНААНД ОРОМГҮЙ|ҮЙЛДЭЛ ХИЙСЭН"
+     }
+    },
+    {
+     "clip": "c09",
+     "from": 1397.6,
+     "len": 4.4,
+     "x": 1075,
+     "headline": {
+      "text": "ХАШИЖ ЧАДАХГҮЙ|ГЭЖ ҮҮ?",
+      "tone": "danger"
+     }
+    }
+   ]
+  },
+  {
+   "id": "V4",
+   "name": "Nonsense",
+   "hold": 2.35,
+   "source": "full",
+   "era": "oct",
+   "score": "still",
+   "subtitle": [
+    {
+     "text": "Үгүй, энэ бол зохиомол яриа.",
+     "at": 0.1,
+     "to": 1.2
+    },
+    {
+     "text": "Утгагүй.",
+     "at": 1.85,
+     "to": 2.3
+    }
+   ],
+   "cuts": [
+    {
+     "clip": "c09",
+     "from": 1368.35,
+     "len": 1,
+     "x": 870
+    }
+   ]
+  },
+  {
+   "id": "G2",
+   "name": "Contain and monitor",
+   "pre": 0.3,
+   "voice": "G2",
+   "post": 0.3,
+   "source": "under",
+   "era": "oct",
+   "score": "mid",
+   "cuts": [
+    {
+     "clip": "c09",
+     "from": 1374.9,
+     "len": 4,
+     "x": 900,
+     "headline": {
+      "text": "ХАШИЖ, ХЯНАЖ|БОЛНО"
+     }
+    },
+    {
+     "clip": "c09",
+     "from": 1387.3,
+     "len": 2.2,
+     "x": 960,
+     "headline": {
+      "text": "ЧАДАХГҮЙ БОЛ|ТУРШИЖ БОЛОХГҮЙ",
+      "tone": "accent"
+     }
+    },
+    {
+     "clip": "c09",
+     "from": 1409.2,
+     "len": 3.4,
+     "x": 865,
+     "headline": {
+      "text": "МАШ ӨНДӨР|ЭРСДЭЛТЭЙ",
+      "tone": "danger"
+     }
+    }
+   ]
+  },
+  {
+   "id": "V5",
+   "name": "Then stop",
+   "hold": 6.75,
+   "source": "full",
+   "era": "oct",
+   "score": "still",
+   "subtitle": [
+    {
+     "text": "Энэ аль хэдийн болж байгаа бололтой.",
+     "at": 0.05,
+     "to": 1.8
+    },
+    {
+     "text": "Тэгвэл зогсох хэрэгтэй.",
+     "at": 2.25,
+     "to": 3.45
+    },
+    {
+     "text": "Маш энгийн.",
+     "at": 4.25,
+     "to": 5.6
+    }
+   ],
+   "cuts": [
+    {
+     "clip": "c09",
+     "from": 1425.25,
+     "len": 1.85,
+     "x": 1080
+    },
+    {
+     "clip": "c09",
+     "from": 1427.1,
+     "len": 4.2,
+     "x": 850
+    },
+    {
+     "clip": "c09",
+     "from": 1431.3,
+     "len": 0.7,
+     "x": 1080
+    }
+   ]
+  },
+  {
+   "id": "N10",
+   "name": "Jobs fear",
+   "pre": 0.3,
+   "voice": "N10",
+   "post": 0.3,
+   "source": "under",
+   "era": "oct",
+   "score": "mid",
+   "cuts": [
+    {
+     "clip": "c11",
+     "from": 2129.4,
+     "len": 2.8,
+     "x": 960,
+     "mute": true,
+     "headline": {
+      "text": "АЖИЛГҮЙ|БОЛОХ УУ?",
+      "tone": "danger"
+     }
+    },
+    {
+     "clip": "c12",
+     "from": 2198.4,
+     "len": 3.4,
+     "x": 1140,
+     "headline": {
+      "text": "АЖИЛГҮЙ|БОЛОХ УУ?",
+      "tone": "danger"
+     }
+    }
+   ]
+  },
+  {
+   "id": "G3",
+   "name": "Jobs created",
+   "pre": 0.3,
+   "voice": "G3",
+   "post": 0.3,
+   "source": "under",
+   "era": "oct",
+   "score": "mid",
+   "cuts": [
+    {
+     "clip": "c12",
+     "from": 2207.0,
+     "len": 4.4,
+     "x": 860,
+     "headline": {
+      "text": "ХИЙМЭЛ ОЮУН|АЖЛЫН БАЙР НЭМНЭ",
+      "tone": "accent"
+     }
+    },
+    {
+     "clip": "c12",
+     "from": 2224.3,
+     "len": 4.2,
+     "x": 855,
+     "headline": {
+      "text": "БАРИЛГА, ЦАХИЛГААН,|ШУГАМ ХООЛОЙ"
+     }
+    }
+   ]
+  },
+  {
+   "id": "G4",
+   "name": "Jobs change",
+   "pre": 0.3,
+   "voice": "G4",
+   "post": 0.3,
+   "source": "under",
+   "era": "oct",
+   "score": "drive",
+   "headline": {
+    "text": "ХҮН БҮРИЙН АЖИЛ|ӨӨРЧЛӨГДӨНӨ",
+    "tone": "accent"
+   },
+   "cuts": [
+    {
+     "clip": "c12",
+     "from": 2244.9,
+     "len": 1,
+     "x": 850
+    }
+   ]
+  },
+  {
+   "id": "N11",
+   "name": "The turn",
+   "pre": 0.3,
+   "voice": "N11",
+   "post": 0.4,
+   "source": "under",
+   "era": "nov",
+   "score": "dark",
+   "headline": {
+    "text": "ХҮН БҮРТЭЙ ЯРЬДАГ ХҮНД|ЭРСДЭЛ ДАГАЛДДАГ",
+    "tone": "danger"
+   },
+   "cuts": [
+    {
+     "clip": "c01",
+     "from": 9.65,
+     "len": 1,
+     "x": 700,
+     "mute": true
+    }
+   ]
+  },
+  {
+   "id": "N12",
+   "name": "Megaspeed",
+   "pre": 0.3,
+   "voice": "N12",
+   "post": 0.3,
+   "source": "under",
+   "era": "nov",
+   "score": "tense",
+   "cuts": [
+    {
+     "clip": "c01",
+     "from": 62.2,
+     "len": 2.0,
+     "x": 850,
+     "mute": true,
+     "headline": {
+      "text": "NVIDIA-ГИЙН ЧИПИЙГ|ХАМГИЙН ИХ АВДАГ"
+     }
+    },
+    {
+     "clip": "c07",
+     "from": 1132.1,
+     "len": 6,
+     "x": 960,
+     "zoom": 0.5625,
+     "mute": true,
+     "headline": {
+      "text": "ЧИП НУУЦААР ГАРГАСАН|ГЭЖ СЭЖИГЛЭВ",
+      "tone": "danger"
+     }
+    },
+    {
+     "clip": "c06",
+     "from": 982.7,
+     "len": 2.2,
+     "x": 850,
+     "mute": true,
+     "headline": {
+      "text": "ЧИП НУУЦААР ГАРГАСАН|ГЭЖ СЭЖИГЛЭВ",
+      "tone": "danger"
+     }
+    }
+   ]
+  },
+  {
+   "id": "N13",
+   "name": "Ouster reports",
+   "pre": 0.3,
+   "voice": "N13",
+   "post": 0.3,
+   "source": "under",
+   "era": "nov",
+   "score": "tense",
+   "cuts": [
+    {
+     "clip": "c01",
+     "from": 88.2,
+     "len": 3.2,
+     "x": 960,
+     "zoom": 0.5625,
+     "mute": true,
+     "headline": {
+      "text": "ОГЦРУУЛЖ МАГАДГҮЙ|ГЭСЭН МЭДЭЭЛЭЛ",
+      "tone": "danger"
+     }
+    },
+    {
+     "clip": "c07",
+     "from": 1117.3,
+     "len": 3.2,
+     "x": 960,
+     "zoom": 0.5625,
+     "mute": true,
+     "headline": {
+      "text": "ТЭГЭЭД ЗАХИДЛАА|БИЧСЭН"
+     }
+    }
+   ]
+  },
+  {
+   "id": "G5",
+   "name": "The letter",
+   "pre": 0.3,
+   "voice": "G5",
+   "post": 0.3,
+   "source": "mute",
+   "era": "nov",
+   "score": "still",
+   "graphic": "quote",
+   "label": "Ажилтнууддаа бичсэн захидлаас",
+   "labelFor": 60,
+   "headline": {
+    "text": "«МИНИЙ ХИЙСЭНД|ШАЛТАГ БАЙХГҮЙ»",
+    "tone": "danger"
+   },
+   "cuts": [
+    {
+     "clip": "c07",
+     "from": 1118.6,
+     "len": 1,
+     "x": 960,
+     "zoom": 0.5625,
+     "mute": true
+    }
+   ]
+  },
+  {
+   "id": "N14",
+   "name": "The other side",
+   "pre": 0.3,
+   "voice": "N14",
+   "post": 0.3,
+   "source": "under",
+   "era": "nov",
+   "score": "dark",
+   "cuts": [
+    {
+     "clip": "c01",
+     "from": 96.4,
+     "len": 4.4,
+     "x": 960,
+     "zoom": 0.5625,
+     "mute": true,
+     "headline": {
+      "text": "ЗӨВЛӨЛ: АЛДАГДСАН|ГЭХ ҮНДЭСЛЭЛ АЛГА"
+     }
+    },
+    {
+     "clip": "c01",
+     "from": 102.1,
+     "len": 2.6,
+     "x": 800,
+     "mute": true,
+     "headline": {
+      "text": "ХЯТАД:|ЭНЭ БОЛ ГҮТГЭЛЭГ",
+      "tone": "danger"
+     }
+    },
+    {
+     "clip": "c01",
+     "from": 110.6,
+     "len": 1.7,
+     "x": 960,
+     "mute": true,
+     "headline": {
+      "text": "ХЯТАД:|ЭНЭ БОЛ ГҮТГЭЛЭГ",
+      "tone": "danger"
+     }
+    }
+   ]
+  },
+  {
+   "id": "N15",
+   "name": "Before the scandal",
+   "pre": 0.3,
+   "voice": "N15",
+   "post": 0.3,
+   "source": "under",
+   "era": "oct",
+   "score": "soft",
+   "headline": {
+    "text": "ДУУЛИАНААС|ӨМНӨ"
+   },
+   "cuts": [
+    {
+     "clip": "c12",
+     "from": 2265.7,
+     "len": 1,
+     "x": 960,
+     "mute": true
+    }
+   ]
+  },
+  {
+   "id": "G6",
+   "name": "Optimism",
+   "pre": 0.3,
+   "voice": "G6",
+   "post": 0.5,
+   "source": "under",
+   "era": "oct",
+   "score": "soft",
+   "label": "Дуулианаас өмнө хэлсэн үг",
+   "labelFor": 60,
+   "cuts": [
+    {
+     "clip": "c12",
+     "from": 2272.35,
+     "len": 4.65,
+     "x": 850
+    },
+    {
+     "clip": "c12",
+     "from": 2277.0,
+     "len": 2.3,
+     "x": 1100
+    },
+    {
+     "clip": "c12",
+     "from": 2279.3,
+     "len": 1.93,
+     "x": 830
+    }
+   ],
+   "headline": {
+    "text": "САЙХАН ИРЭЭДҮЙГ|ХАРАХГҮЙ БОЛ ЯАХ ВЭ?",
+    "tone": "accent"
+   }
+  },
+  {
+   "id": "END",
+   "name": "End card",
+   "hold": 3.6,
+   "source": "mute",
+   "graphic": "end",
+   "score": "end",
+   "cuts": [
+    {
+     "clip": "c13",
+     "from": 2456.4,
+     "len": 1,
+     "x": 815,
+     "mute": true
+    }
+   ]
+  }
+ ],
+ "turn": "N11",
+ "short": [
+  "N1",
+  "V1",
+  "N2",
+  "N4",
+  "N7",
+  "G1",
+  "N10",
+  "G4",
+  "N11",
+  "N13",
+  "G5",
+  "N15",
+  "G6",
+  "END"
+ ]
+}

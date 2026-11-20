@@ -1,0 +1,61 @@
+{
+ "_": "BonsaiReel «Байгалийг гэртээ ургуул» for Бонсай мод mongolia. Edit, then npm run build:bonsai-reel (writes cues.json + stems). Voice lines: npm run voice:bonsai-reel. A line's 'take' picks an alternate file (e.g. \"take2\").",
+ "voices": {
+  "N": {
+   "name": "Mandukai",
+   "id": "UpomOl2r1953iSzRTZp3"
+  }
+ },
+ "lines": [
+  {
+   "id": "V1",
+   "voice": "N",
+   "text": "Гэрт тань амьд урлаг дутаж байна уу?"
+  },
+  {
+   "id": "V2",
+   "voice": "N",
+   "text": "Бонсай мод бол амьд урлаг."
+  },
+  {
+   "id": "V3",
+   "voice": "N",
+   "text": "Загвар бүр өвөрмөц, өөрийн гэсэн төрхтэй."
+  },
+  {
+   "id": "V4",
+   "voice": "N",
+   "text": "Гэр, ажлын өрөө, хоолны газар, зочид буудал. Хаана ч тавьсан тансаг харагдана."
+  },
+  {
+   "id": "V5",
+   "voice": "N",
+   "text": "Монгол даяар хүргэнэ."
+  },
+  {
+   "id": "V6",
+   "voice": "N",
+   "text": "Таалагдсан загвараа сонгоод сэтгэгдэл хэсэгт «1» гэж бичээрэй. Бонсай мод Монголиа. Байгалийг гэртээ ургуул.",
+   "tts": "Таалагдсан загвараа сонгоод сэтгэгдэл хэсэгт нэг гэж бичээрэй. Бонсай мод Монголиа. Байгалийг гэртээ ургуул."
+  }
+ ],
+ "media": {
+  "W1": "bonsai-reel/clips/w1.mp4",
+  "W2": "bonsai-reel/clips/w2.mp4",
+  "R1": "bonsai-reel/rooms/r1.jpg",
+  "R2": "bonsai-reel/rooms/r2.jpg",
+  "R3": "bonsai-reel/rooms/r3.jpg",
+  "R4": "bonsai-reel/rooms/r4.jpg",
+  "R1v": "bonsai-reel/clips/r1v.mp4",
+  "R2v": "bonsai-reel/clips/r2v.mp4",
+  "R3v": "bonsai-reel/clips/r3v.mp4",
+  "R4v": "bonsai-reel/clips/r4v.mp4"
+ },
+ "_media": "Wan 3.0 clips (1080p, watermark cropped off; originals in clips/raw) and Wan 2.7 Pro room images (rooms/raw has all 16 options). R1v–R4v are the room clips; a scene falls back to the still when one is missing. r2v is cut to its first 3 s and its right edge, because Wan added stray deer figures later in the clip.",
+ "mediaSeconds": {
+  "R1v": 5,
+  "R2v": 3,
+  "R3v": 5,
+  "R4v": 5
+ }
+}

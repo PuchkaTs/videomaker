@@ -1,0 +1,84 @@
+{
+  "note": "Voices a customer can choose on kublai.online/agent-reels. The ids (F01…M06) and names match REEL_VOICES in kublai_web/lib/agent-reels/types.ts. F01–F06 are all Mandukai: English voices sounded alike in Mongolian, so each of F02–F06 is her voice with a 'style' tag, which is put in front of every sentence of the text sent to eleven_v4 and never shown. 'native: false' marks voices that speak Mongolian through eleven_v4 and need the owner's ear.",
+  "sample": "Сайн байна уу? Таны зарыг би ингэж танилцуулна. Зайсанд гурван өрөө байр, дөрвөн зуун тавин сая төгрөг.",
+  "default": "F01",
+  "voices": {
+    "F01": {
+      "name": "Мандухай",
+      "voiceId": "UpomOl2r1953iSzRTZp3",
+      "source": "Mandukai mn",
+      "native": true
+    },
+    "F02": {
+      "name": "Сарнай",
+      "voiceId": "UpomOl2r1953iSzRTZp3",
+      "source": "Mandukai mn",
+      "native": true,
+      "style": "[whispers]"
+    },
+    "F03": {
+      "name": "Цэлмэг",
+      "voiceId": "UpomOl2r1953iSzRTZp3",
+      "source": "Mandukai mn",
+      "native": true,
+      "style": "[excited]"
+    },
+    "F04": {
+      "name": "Гэрэл",
+      "voiceId": "UpomOl2r1953iSzRTZp3",
+      "source": "Mandukai mn",
+      "native": true,
+      "style": "[calm]"
+    },
+    "F05": {
+      "name": "Одон",
+      "voiceId": "UpomOl2r1953iSzRTZp3",
+      "source": "Mandukai mn",
+      "native": true,
+      "style": "[cheerfully]"
+    },
+    "F06": {
+      "name": "Ариун",
+      "voiceId": "UpomOl2r1953iSzRTZp3",
+      "source": "Mandukai mn",
+      "native": true,
+      "style": "[serious]"
+    },
+    "M01": {
+      "name": "Кублай",
+      "voiceId": "LICDjZcDcyJwTAyvJ7mk",
+      "source": "Kublai mn",
+      "native": true
+    },
+    "M02": {
+      "name": "Сүх",
+      "voiceId": "dJy4ovDyOEaI4kHP7CFP",
+      "source": "Sukh",
+      "native": true
+    },
+    "M03": {
+      "name": "Сөхөө",
+      "voiceId": "ZY2eShwTXxMs91i4OIqr",
+      "source": "Sokoo",
+      "native": true
+    },
+    "M04": {
+      "name": "Баяр",
+      "voiceId": "nPczCjzI2devNBz1zQrb",
+      "source": "Brian",
+      "native": false
+    },
+    "M05": {
+      "name": "Тэмүүн",
+      "voiceId": "TX3LPaxmHKxFdv7VOQHJ",
+      "source": "Liam",
+      "native": false
+    },
+    "M06": {
+      "name": "Эрдэнэ",
+      "voiceId": "cjVigY5qzO86Huf0OWal",
+      "source": "Eric",
+      "native": false
+    }
+  }
+}

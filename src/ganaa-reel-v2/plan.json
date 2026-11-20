@@ -1,0 +1,68 @@
+{
+ "_": "GanaaReelV2: her edits to v1 (still photo, RE/MAX WIN, name block, six illustrated cards with her full text, services grid). Edit, then npm run build:ganaa-reel-v2. Voice lines: npm run voice:ganaa-reel-v2. V1 and V3 are hard links to the v1 takes. Plan: docs/ganaa-reel/storyboard-v2.md.",
+ "voices": {
+  "N": {
+   "name": "Mandukai",
+   "id": "UpomOl2r1953iSzRTZp3"
+  }
+ },
+ "lines": [
+  {
+   "id": "V1",
+   "voice": "N",
+   "text": "Яагаад танд агент хэрэгтэй вэ?"
+  },
+  {
+   "id": "V2",
+   "voice": "N",
+   "text": "Та орон сууцаа худалдах гэж байна уу? Эсвэл мөрөөдлийн орон сууцаа хайж байна уу?"
+  },
+  {
+   "id": "V3",
+   "voice": "N",
+   "text": "Нэгт, зах зээлийн судалгаанд үндэслэн зөв үнэлгээг тогтооно."
+  },
+  {
+   "id": "V4",
+   "voice": "N",
+   "text": "Хоёрт, цаг хэмнэнэ. Танд тохирох сонголтуудыг шүүж, зар, дуудлага, байр үзүүлэхийг хариуцна."
+  },
+  {
+   "id": "V5",
+   "voice": "N",
+   "text": "Гуравт, эрсдэлээс хамгаална. Бичиг баримт, өмчлөгчтэй холбоотой асуудлыг бүгдийг шалгаж баталгаажуулна."
+  },
+  {
+   "id": "V6",
+   "voice": "N",
+   "text": "Дөрөвт, мэргэжлийн зөвлөгөө өгнө. Зах зээлийн бодит үнэ цэнэ, хөрөнгө оруулалтын өгөөжийг тайлбарлана."
+  },
+  {
+   "id": "V7",
+   "voice": "N",
+   "text": "Тавд, мэргэжлийн баг хамт олон ажиллана. 1800 агенттай системд байршуулж, худалдан авагчид хурдан хүрнэ.",
+   "tts": "Тавд, мэргэжлийн баг хамт олон ажиллана. Мянга найман зуун агенттай системд байршуулж, худалдан авагчид хурдан хүрнэ."
+  },
+  {
+   "id": "V8",
+   "voice": "N",
+   "text": "Мөн үнэ, нөхцөл дээр худалдан авагч, худалдагчийг зөвшилцөлд хүргэхэд туслана."
+  },
+  {
+   "id": "V9",
+   "voice": "N",
+   "text": "Үл хөдлөх хөрөнгөө худалдах, түрээслэх бол хамтран ажиллаарай."
+  },
+  {
+   "id": "V10",
+   "voice": "N",
+   "text": "Силвер агент Гантуяа. Таны үл хөдлөх хөрөнгө — миний хариуцлага."
+  }
+ ],
+ "media": {
+  "sell": "ganaa-reel-v2/img/sell.jpg",
+  "buy": "ganaa-reel-v2/img/buy.jpg"
+ },
+ "_media": "sell/buy: apartment images for S2. No herClip: she asked that her photo not be animated.",
+ "logo": "ganaa-reel-v2/src/remax-win.png"
+}

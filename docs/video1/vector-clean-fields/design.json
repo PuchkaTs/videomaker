@@ -1,0 +1,681 @@
+{
+  "version": 3,
+  "date": "2026-09-22",
+  "fileKey": "4kVh528JCdBhKHkKmsRCXx",
+  "direction": "Vectors animate only on solid editorial cards or solid areas separate from imagery. No vectors overlay photos or generated video. Supersedes vector-placement/composition.json.",
+  "scope": "Figma design only. No Remotion animation or video generation performed.",
+  "approvedReferences": [
+    3,
+    8,
+    14
+  ],
+  "graphicOnlyLastFrames": [
+    1,
+    3,
+    6,
+    7,
+    8,
+    15
+  ],
+  "imageAndGraphicSeparateAreas": [
+    2,
+    4,
+    5,
+    9,
+    10,
+    11,
+    12,
+    14,
+    16,
+    17
+  ],
+  "productWithoutVectorDecoration": [
+    13,
+    18
+  ],
+  "notes": [
+    {
+      "n": 1,
+      "last": "An ivory editorial card pairs 20+ years with the mountain illustration. No image sits behind the artwork.",
+      "motion": "Establish the landscape, cut to ivory, then reveal the number and draw the mountain contours.",
+      "art": "112 px headline / 34 px support. Emerald and gold vectors on a solid ivory field.",
+      "board": "10:2"
+    },
+    {
+      "n": 2,
+      "last": "Research copy at left; generated milk-and-whey sampling fills the upper-right window, with the flask illustration on ivory below.",
+      "motion": "Slow push into the Mongolian dairy-research concept, then cut to the sampling close-up. Animate the flask and conceptual chain only inside the separate ivory area.",
+      "art": "Keep a clear division between the 270 px-high image window and the graphic field.",
+      "board": "10:54",
+      "assets": "public/video1/scene2/yak-milk-research-male-v2.png; public/video1/scene2/milk-whey-sampling-v1.png. AI-generated illustrative scenes; not actual company staff, facilities, or results. See docs/video1/scene2/generation.json."
+    },
+    {
+      "n": 3,
+      "last": "An oversized 2016 and a flag timeline share a clean ivory editorial card.",
+      "motion": "Draw the timeline and raise the flag; reveal the year and descriptor, then hold.",
+      "art": "Large year at left and a separate milestone illustration at right. No photography in the last frame.",
+      "board": "10:106"
+    },
+    {
+      "n": 4,
+      "last": "The year and capacity stay at left; production footage occupies the upper-right window, with processing vessels on green below.",
+      "motion": "Advance the year, settle the footage into its window, then draw the process route in the solid green area.",
+      "art": "132 px year / 64 px capacity. Ivory and gold illustration stays clear of the footage.",
+      "board": "10:159"
+    },
+    {
+      "n": 5,
+      "last": "Yak-milk copy sits at left; the pour plays in the upper-right window, and the yak illustration sits on ivory below.",
+      "motion": "Cut from the herd to the pour; reveal the yak and milk-drop artwork inside the separate ivory field.",
+      "art": "Keep the image unobstructed. Emerald and gold artwork belongs entirely below the image window.",
+      "board": "11:2"
+    },
+    {
+      "n": 6,
+      "last": "A solid emerald card pairs the large 75–98% statement with a conceptual protein-process illustration.",
+      "motion": "Leave the concept image before revealing the statistic. Draw the processing gate and nodes on the clean green card.",
+      "art": "128 px statistic / 38 px support. Conceptual particles only; no clinical plot or measured molecular model.",
+      "board": "11:54"
+    },
+    {
+      "n": 7,
+      "last": "A clean ivory card pairs 15–20 minutes with the separate clock illustration.",
+      "motion": "Leave the milk image, reveal the number and unit on ivory, then draw the clock and move its hands.",
+      "art": "154 px range / 52 px unit. All clock graphics stay on the solid card.",
+      "board": "11:106"
+    },
+    {
+      "n": 8,
+      "last": "A large 20 and a five-by-four grid of twenty blocks explain the count on ivory.",
+      "motion": "Reveal one block, then build the five-by-four grid. Bring in the number and supporting copy; hold.",
+      "art": "196 px number / 40 px descriptor. Exactly twenty blocks; the grid represents a count, not a chemical sequence.",
+      "board": "11:159"
+    },
+    {
+      "n": 9,
+      "last": "One approved product cutout sits at right; six growth petals accompany the large count on the clear ivory field at left.",
+      "motion": "Reveal the jar and number, then open six petals beside the count. Keep the graphic separate from the product.",
+      "art": "Preserve the approved jar; six petals express variety without inventing additional packages.",
+      "board": "12:2"
+    },
+    {
+      "n": 10,
+      "last": "The valley occupies an upper image strip. An ivory band below holds the local-value statement and ger illustration.",
+      "motion": "Settle the valley into the upper strip, reveal the headline below, then draw the local-value cycle on ivory.",
+      "art": "50 px headline / 28 px support. Image and illustration occupy separate horizontal zones.",
+      "board": "12:68"
+    },
+    {
+      "n": 11,
+      "last": "Filling footage occupies the upper-right window. The quality illustration sits on ivory below; standards remain text at left.",
+      "motion": "Hold the process footage, then draw the inspection route in the separate ivory field. Reveal standards as text.",
+      "art": "Keep checks out of the footage. They illustrate inspection steps, not certification badges.",
+      "board": "12:127"
+    },
+    {
+      "n": 12,
+      "last": "A grazing yak fills the upper strip. The organic statement and leaf illustration sit in a separate ivory band below.",
+      "motion": "Resolve the footage into the upper strip, reveal the statement, and grow the leaf only inside the ivory band.",
+      "art": "54 px headline / 32 px support. No vector over the yak image and no invented organic seal.",
+      "board": "12:187"
+    },
+    {
+      "n": 13,
+      "last": "The approved jar is large and unobstructed at right, with 80% and its descriptor on a clean green field at left.",
+      "motion": "Let the product settle; reveal the statistic, descriptor and event line in readable beats. No decorative vector overlay.",
+      "art": "132 px statistic / 38 px support. Keep the product clear; the podium illustration stays in the asset library.",
+      "board": "13:2"
+    },
+    {
+      "n": 14,
+      "last": "The family image stays above a spacious ivory title band, with the cup illustration beside the supporting copy.",
+      "motion": "Let the breakfast moment breathe, then reveal the ivory band. Animate the cup and drop entirely inside that band.",
+      "art": "52 px headline / 32 px support. Keep this approved composition; no graphics over the people.",
+      "board": "13:63"
+    },
+    {
+      "n": 15,
+      "last": "A clean green editorial card pairs collaboration copy with a small researcher-and-notebook illustration at right.",
+      "motion": "Transition from the laboratory image to the green card. Reveal the copy, then connect the researchers and notebook.",
+      "art": "Keep the illustration on solid green. No logos, endorsements or invented clinical results.",
+      "board": "13:122"
+    },
+    {
+      "n": 16,
+      "last": "Nature-and-science copy stays at left; equipment footage occupies the upper-right window, with the conceptual illustration on ivory below.",
+      "motion": "Settle footage into its window. Bring leaf and science nodes together within the separate ivory field.",
+      "art": "64 px condensed headline / 32 px support. No graphic layer crosses into the footage.",
+      "board": "13:182"
+    },
+    {
+      "n": 17,
+      "last": "The milk ripple occupies an upper strip. The slogan and drop illustration sit on ivory below.",
+      "motion": "Let the filmed ripple establish the scene; reveal the ivory slogan band, then animate the vector drop and rings within it.",
+      "art": "56 px slogan. Keep filmed and illustrated ripples in separate areas.",
+      "board": "13:242"
+    },
+    {
+      "n": 18,
+      "last": "The emerald commercial photo and approved jar close the film, with brand typography at left and no vector decoration over the photo.",
+      "motion": "Hold the commercial product image and reveal the brand typography. Finish with an uncluttered reading hold.",
+      "art": "Keep the product label and photograph clear. The arch illustration remains available in the asset library.",
+      "board": "13:301"
+    }
+  ],
+  "audit": {
+    "keyframes": 36,
+    "scenes": [
+      {
+        "scene": 1,
+        "frames": [
+          {
+            "id": "10:14",
+            "images": [
+              "10:15"
+            ],
+            "art": [],
+            "imageIntersections": [],
+            "outOfBounds": []
+          },
+          {
+            "id": "10:18",
+            "images": [],
+            "art": [
+              {
+                "id": "54:2",
+                "x": 485,
+                "y": 120,
+                "w": 470
+              }
+            ],
+            "imageIntersections": [],
+            "outOfBounds": []
+          }
+        ]
+      },
+      {
+        "scene": 2,
+        "frames": [
+          {
+            "id": "10:66",
+            "images": [
+              "10:67"
+            ],
+            "art": [],
+            "imageIntersections": [],
+            "outOfBounds": []
+          },
+          {
+            "id": "10:70",
+            "images": [
+              "10:71"
+            ],
+            "art": [
+              {
+                "id": "54:16",
+                "x": 478,
+                "y": 255,
+                "w": 540
+              }
+            ],
+            "imageIntersections": [],
+            "outOfBounds": []
+          }
+        ]
+      },
+      {
+        "scene": 3,
+        "frames": [
+          {
+            "id": "10:118",
+            "images": [],
+            "art": [],
+            "imageIntersections": [],
+            "outOfBounds": []
+          },
+          {
+            "id": "10:123",
+            "images": [],
+            "art": [
+              {
+                "id": "50:41",
+                "x": 480,
+                "y": 100,
+                "w": 480
+              }
+            ],
+            "imageIntersections": [],
+            "outOfBounds": []
+          }
+        ]
+      },
+      {
+        "scene": 4,
+        "frames": [
+          {
+            "id": "10:171",
+            "images": [
+              "10:172"
+            ],
+            "art": [],
+            "imageIntersections": [],
+            "outOfBounds": []
+          },
+          {
+            "id": "10:176",
+            "images": [
+              "10:177"
+            ],
+            "art": [
+              {
+                "id": "54:40",
+                "x": 485,
+                "y": 255,
+                "w": 520
+              }
+            ],
+            "imageIntersections": [],
+            "outOfBounds": []
+          }
+        ]
+      },
+      {
+        "scene": 5,
+        "frames": [
+          {
+            "id": "11:14",
+            "images": [
+              "11:15"
+            ],
+            "art": [],
+            "imageIntersections": [],
+            "outOfBounds": []
+          },
+          {
+            "id": "11:18",
+            "images": [
+              "11:19"
+            ],
+            "art": [
+              {
+                "id": "54:60",
+                "x": 462,
+                "y": 245,
+                "w": 540
+              }
+            ],
+            "imageIntersections": [],
+            "outOfBounds": []
+          }
+        ]
+      },
+      {
+        "scene": 6,
+        "frames": [
+          {
+            "id": "11:66",
+            "images": [
+              "11:67"
+            ],
+            "art": [],
+            "imageIntersections": [],
+            "outOfBounds": []
+          },
+          {
+            "id": "11:70",
+            "images": [],
+            "art": [
+              {
+                "id": "50:103",
+                "x": 535,
+                "y": 130,
+                "w": 460
+              }
+            ],
+            "imageIntersections": [],
+            "outOfBounds": []
+          }
+        ]
+      },
+      {
+        "scene": 7,
+        "frames": [
+          {
+            "id": "11:118",
+            "images": [
+              "11:119"
+            ],
+            "art": [],
+            "imageIntersections": [],
+            "outOfBounds": []
+          },
+          {
+            "id": "11:122",
+            "images": [],
+            "art": [
+              {
+                "id": "54:75",
+                "x": 540,
+                "y": 110,
+                "w": 430
+              }
+            ],
+            "imageIntersections": [],
+            "outOfBounds": []
+          }
+        ]
+      },
+      {
+        "scene": 8,
+        "frames": [
+          {
+            "id": "11:171",
+            "images": [],
+            "art": [],
+            "imageIntersections": [],
+            "outOfBounds": []
+          },
+          {
+            "id": "11:176",
+            "images": [],
+            "art": [
+              {
+                "id": "50:167",
+                "x": 480,
+                "y": 105,
+                "w": 480
+              }
+            ],
+            "imageIntersections": [],
+            "outOfBounds": []
+          }
+        ]
+      },
+      {
+        "scene": 9,
+        "frames": [
+          {
+            "id": "12:14",
+            "images": [
+              "12:15"
+            ],
+            "art": [],
+            "imageIntersections": [],
+            "outOfBounds": []
+          },
+          {
+            "id": "12:18",
+            "images": [
+              "12:24"
+            ],
+            "art": [
+              {
+                "id": "50:213",
+                "x": 165,
+                "y": 98,
+                "w": 350
+              }
+            ],
+            "imageIntersections": [],
+            "outOfBounds": []
+          }
+        ]
+      },
+      {
+        "scene": 10,
+        "frames": [
+          {
+            "id": "12:80",
+            "images": [
+              "12:81"
+            ],
+            "art": [],
+            "imageIntersections": [],
+            "outOfBounds": []
+          },
+          {
+            "id": "12:84",
+            "images": [
+              "12:85"
+            ],
+            "art": [
+              {
+                "id": "54:102",
+                "x": 580,
+                "y": 300,
+                "w": 400
+              }
+            ],
+            "imageIntersections": [],
+            "outOfBounds": []
+          }
+        ]
+      },
+      {
+        "scene": 11,
+        "frames": [
+          {
+            "id": "12:139",
+            "images": [
+              "12:140"
+            ],
+            "art": [],
+            "imageIntersections": [],
+            "outOfBounds": []
+          },
+          {
+            "id": "12:143",
+            "images": [
+              "12:144"
+            ],
+            "art": [
+              {
+                "id": "54:116",
+                "x": 473,
+                "y": 275,
+                "w": 540
+              }
+            ],
+            "imageIntersections": [],
+            "outOfBounds": []
+          }
+        ]
+      },
+      {
+        "scene": 12,
+        "frames": [
+          {
+            "id": "12:199",
+            "images": [
+              "12:200"
+            ],
+            "art": [],
+            "imageIntersections": [],
+            "outOfBounds": []
+          },
+          {
+            "id": "12:203",
+            "images": [
+              "12:204"
+            ],
+            "art": [
+              {
+                "id": "54:130",
+                "x": 600,
+                "y": 300,
+                "w": 330
+              }
+            ],
+            "imageIntersections": [],
+            "outOfBounds": []
+          }
+        ]
+      },
+      {
+        "scene": 13,
+        "frames": [
+          {
+            "id": "13:14",
+            "images": [
+              "13:15"
+            ],
+            "art": [],
+            "imageIntersections": [],
+            "outOfBounds": []
+          },
+          {
+            "id": "13:18",
+            "images": [
+              "13:25"
+            ],
+            "art": [],
+            "imageIntersections": [],
+            "outOfBounds": []
+          }
+        ]
+      },
+      {
+        "scene": 14,
+        "frames": [
+          {
+            "id": "13:75",
+            "images": [
+              "13:76"
+            ],
+            "art": [],
+            "imageIntersections": [],
+            "outOfBounds": []
+          },
+          {
+            "id": "13:79",
+            "images": [
+              "13:80"
+            ],
+            "art": [
+              {
+                "id": "50:294",
+                "x": 610,
+                "y": 370,
+                "w": 320
+              }
+            ],
+            "imageIntersections": [],
+            "outOfBounds": []
+          }
+        ]
+      },
+      {
+        "scene": 15,
+        "frames": [
+          {
+            "id": "13:134",
+            "images": [
+              "13:135"
+            ],
+            "art": [],
+            "imageIntersections": [],
+            "outOfBounds": []
+          },
+          {
+            "id": "13:138",
+            "images": [],
+            "art": [
+              {
+                "id": "50:310",
+                "x": 644,
+                "y": 110,
+                "w": 380
+              }
+            ],
+            "imageIntersections": [],
+            "outOfBounds": []
+          }
+        ]
+      },
+      {
+        "scene": 16,
+        "frames": [
+          {
+            "id": "13:194",
+            "images": [
+              "13:195"
+            ],
+            "art": [],
+            "imageIntersections": [],
+            "outOfBounds": []
+          },
+          {
+            "id": "13:198",
+            "images": [
+              "13:199"
+            ],
+            "art": [
+              {
+                "id": "54:148",
+                "x": 528,
+                "y": 275,
+                "w": 460
+              }
+            ],
+            "imageIntersections": [],
+            "outOfBounds": []
+          }
+        ]
+      },
+      {
+        "scene": 17,
+        "frames": [
+          {
+            "id": "13:254",
+            "images": [
+              "13:255"
+            ],
+            "art": [],
+            "imageIntersections": [],
+            "outOfBounds": []
+          },
+          {
+            "id": "13:258",
+            "images": [
+              "13:259"
+            ],
+            "art": [
+              {
+                "id": "54:170",
+                "x": 600,
+                "y": 285,
+                "w": 350
+              }
+            ],
+            "imageIntersections": [],
+            "outOfBounds": []
+          }
+        ]
+      },
+      {
+        "scene": 18,
+        "frames": [
+          {
+            "id": "13:313",
+            "images": [
+              "13:314"
+            ],
+            "art": [],
+            "imageIntersections": [],
+            "outOfBounds": []
+          },
+          {
+            "id": "13:317",
+            "images": [
+              "13:318"
+            ],
+            "art": [],
+            "imageIntersections": [],
+            "outOfBounds": []
+          }
+        ]
+      }
+    ],
+    "textOverflow": []
+  }
+}

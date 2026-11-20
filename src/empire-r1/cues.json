@@ -1,0 +1,64 @@
+{
+  "duration": 60.16,
+  "source": "empire-r1/r1.mp4",
+  "sfx": "empire-r1/sfx.wav",
+  "t": {
+    "hookSheen": 0.35,
+    "hookBar": 1.15,
+    "hookOut": 3.55,
+
+    "faq": 3.95,
+    "tooth": 4.35,
+    "q1": 7.1,
+    "cavity": 7.3,
+    "q2": 8.85,
+    "gumRed": 9.0,
+    "qOut": 12.1,
+    "answer": 12.42,
+    "heal": 12.7,
+    "answerOut": 13.3,
+
+    "four": 13.5,
+    "fourWord": 16.12,
+
+    "tip1": 17.45,
+    "tip1Title": 18.58,
+    "rule": 21.44,
+    "minutes": 23.38,
+    "daily": 24.12,
+    "gums": 28.12,
+
+    "tip2": 33.15,
+    "tip2Title": 33.4,
+    "floss": 34.84,
+
+    "tip3": 37.1,
+    "tip3Title": 37.36,
+    "acid": 40.72,
+    "risk": 42.72,
+
+    "tip4": 43.75,
+    "tip4Title": 43.96,
+    "checkup": 47.64,
+    "prevent": 48.86,
+
+    "outro": 51.85,
+    "merge": 52.1,
+    "slogan": 52.75,
+    "panel": 55.4,
+    "sheen": 57.3,
+    "end": 60.16
+  },
+  "flights": [
+    [3.45, 4.5],
+    [11.95, 13.0],
+    [13.25, 13.9],
+    [16.0, 17.0],
+    [17.35, 18.4],
+    [33.0, 33.9],
+    [36.95, 37.85],
+    [43.6, 44.5],
+    [51.75, 53.3],
+    [55.3, 56.7]
+  ]
+}

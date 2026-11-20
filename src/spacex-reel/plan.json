@@ -1,0 +1,100 @@
+{
+  "_": "SpaceX reel. Edit this file, then run npm run build:spacex-reel (writes cues.json + stems). 'from' is seconds in the original YouTube video. A beat lasts lead + pre + voice + post (or 'hold'); its cuts share that time in proportion to 'len'. 'shots' lists the camera cuts inside each downloaded clip (seconds into the clip) and how to frame them: elon = 4:5 crop centred on x, wide = 1.6x crop on Elon in the two-shot, herb = crop on Herbert, anim = 4:5 crop of a SpaceX animation centred on x, fit = a wide graphic shown nearly whole.",
+  "credit": "Эх сурвалж: SpaceX · Brighter with Herbert",
+  "voices": {
+    "N": {"name": "Uyanga", "id": "2cecqSnkajrth9sJSoEH"},
+    "G": {"name": "Ganbold", "id": "RbMF2tQ1nCK38TfvNGLk"}
+  },
+  "lines": [
+    {"id": "N1", "voice": "N", "text": "Илон Маск сар дээрээс хиймэл дагуулыг пуужингүйгээр сансарт харвахаар төлөвлөж байна. Яагаад?"},
+    {"id": "G1", "voice": "G", "text": "Соёл иргэншлийн хөгжлийг хэр их эрчим хүч ашиглаж байгаагаар нь хэмждэг. Нэгдүгээр түвшин гаригийнхаа, хоёрдугаарт одныхоо, гуравдугаарт галактикийнхаа эрчим хүчийг ашиглана."},
+    {"id": "G2", "voice": "G", "text": "Одоо бид нарны эрчим хүчний их наядны нэгээс ч бага хэсгийг ашиглаж байна. Энэ хэмжүүрт бид бүртгэгдэхгүй ч байна."},
+    {"id": "G3", "voice": "G", "text": "Харь гаригийнхан бидэнтэй ярихаар шийдэх үед бид ядаж ичмээргүй хэмжээний эрчим хүч ашигладаг байх хэрэгтэй."},
+    {"id": "N2", "voice": "N", "text": "Үүний тулд гурван зүйл хэрэгтэй: сансарт асар их ачаа гаргах, асар их нарны эрчим хүч, асар олон чип."},
+    {"id": "G4", "voice": "G", "text": "Хэрэв онгоцоо нислэг бүрийн дараа хаядаг байсан бол нисэх хэтэрхий үнэтэй болж, бараг хэн ч нисэхгүй байх байсан."},
+    {"id": "G5", "voice": "G", "text": "Энэ бол урьд өмнө бүтээгдсэн хамгийн том, хамгийн хүнд нисдэг биет. Сарны пуужин Сатурн V-гээс хоёр дахин их түлхэлттэй. Цаашдаа цаг тутам нисэх төлөвтэй.", "tts": "Энэ бол урьд өмнө бүтээгдсэн хамгийн том, хамгийн хүнд нисдэг биет. Сарны пуужин Сатурн таваас хоёр дахин их түлхэлттэй. Цаашдаа цаг тутам нисэх төлөвтэй.", "captionMap": [["Сатурн таваас", "Сатурн V-гээс"]]},
+    {"id": "N3", "voice": "N", "text": "Өнөөдөр жилд 2500 орчим тонн ачаа тойрог замд гардаг бол гурван жилийн дотор сая тонн болгох зорилготой.", "tts": "Өнөөдөр жилд хоёр мянга таван зуун орчим тонн ачаа тойрог замд гардаг бол гурван жилийн дотор сая тонн болгох зорилготой.", "captionMap": [["хоёр мянга таван зуун", "2500"]]},
+    {"id": "G6", "voice": "G", "text": "Хиймэл оюуны хиймэл дагуул Starlink-ээс ч энгийн. Үндсэндээ нарны хавтан, хөргөгч, лазер холбоо. Сансарт байрлах нэг тавиур компьютер гэж ойлгож болно.", "tts": "Хиймэл оюуны хиймэл дагуул Старлинкаас ч энгийн. Үндсэндээ нарны хавтан, хөргөгч, лазер холбоо. Сансарт байрлах нэг тавиур компьютер гэж ойлгож болно.", "captionMap": [["Старлинкаас", "Starlink-ээс"]]},
+    {"id": "G7", "voice": "G", "text": "Ирэх оны эцэс гэхэд жилд нэг гигаватт хүчин чадлыг сансарт гаргаж, жил бүр арав дахин өсгөнө. Тераватт гэдэг нь Америкийн цахилгааны хэрэглээнээс хоёр дахин их."},
+    {"id": "G8", "voice": "G", "text": "Яагаад жижгээр бодох вэ? Дараагийн мянга дахин өсөлтөд хүрэх цорын ганц зам бол сар. Нарны хавтан, хөргөгчөө сар дээр үйлдвэрлээд, цахилгаан соронзон буугаар хиймэл дагуулыг пуужингүйгээр сансарт харвана."},
+    {"id": "G9", "voice": "G", "text": "Хүн бүр сар руу ядаж нэг удаа очих ёстой гэж бодож байна."}
+  ],
+  "clips": {
+    "c01": {"file": "spacex-reel/src/c01.mp4", "start": 1708, "end": 1822, "shots": [[0, "wide"], [2.92, "anim", 960], [110.28, "elon", 780]]},
+    "c02": {"file": "spacex-reel/src/c02.mp4", "start": 97, "end": 133, "shots": [[0, "kard", 960], [24, "kard", 1450]]},
+    "c03": {"file": "spacex-reel/src/c03.mp4", "start": 295, "end": 332, "shots": [[0, "elon", 780], [9.01, "wide"], [21.6, "herb", 1520], [26.73, "elon", 800], [33.95, "wide"]]},
+    "c04": {"file": "spacex-reel/src/c04.mp4", "start": 445, "end": 482, "shots": [[0, "wide"], [3.17, "elon", 780], [23.77, "herb", 1520], [35.62, "elon", 780]]},
+    "c05": {"file": "spacex-reel/src/c05.mp4", "start": 505, "end": 545, "shots": [[0, "elon", 780], [0.63, "fit", 960], [6.21, "elon", 780], [10.72, "wide"], [17.23, "herb", 1520], [38.29, "anim", 960]]},
+    "c06": {"file": "spacex-reel/src/c06.mp4", "start": 579, "end": 598, "shots": [[0, "anim", 960], [0.88, "wide"], [16.27, "herb", 1520], [17.77, "wide"]]},
+    "c08": {"file": "spacex-reel/src/c08.mp4", "start": 784, "end": 818, "shots": [[0, "wide"], [4.92, "fit", 1180], [31.36, "herb", 1520]]},
+    "c09": {"file": "spacex-reel/src/c09.mp4", "start": 904, "end": 956, "shots": [[0, "anim", 940], [5.84, "elon", 780], [35.49, "wide"], [43.59, "elon", 780], [49.67, "herb", 1520]]},
+    "c10": {"file": "spacex-reel/src/c10.mp4", "start": 1137, "end": 1153, "shots": [[0, "elon", 780]]},
+    "c11": {"file": "spacex-reel/src/c11.mp4", "start": 1568, "end": 1619, "shots": [[0, "elon", 780], [2.88, "wide"], [14.43, "elon", 780], [20.35, "three", 820], [27.4, "elon", 780], [37.33, "wide"], [44.96, "elon", 780], [47.46, "wide"]]},
+    "c12": {"file": "spacex-reel/src/c12.mp4", "start": 1639, "end": 1712, "shots": [[0, "herb", 1520], [2.92, "wide"], [7.55, "herb", 1520], [9.34, "elon", 780], [65.31, "wide"], [71.91, "herb", 1520]]},
+    "c13": {"file": "spacex-reel/src/c13.mp4", "start": 1837, "end": 1853, "shots": [[0, "elon", 780], [6.55, "herb", 1520], [10.84, "elon", 780], [13.05, "herb", 1520], [14.93, "wide"]]},
+    "c14": {"file": "spacex-reel/src/c14.mp4", "start": 543, "end": 581, "shots": [[0, "anim", 960], [24.27, "anim", 1000], [36.87, "wide"]]}
+  },
+  "beats": [
+    {"id": "S3", "name": "Бүртгэгдэхгүй", "lead": 0.9, "pre": 0.1, "voice": "G2", "post": 0.3, "source": "under", "label": "Илон Маск",
+     "cuts": [
+       {"clip": "c03", "from": 298.2, "len": 5, "headline": {"text": "НАРНЫ ЭРЧИМ ХҮЧНИЙ|ИХ НАЯДНЫ НЭГ Ч БИШ"}},
+       {"clip": "c03", "from": 322.0, "len": 4, "headline": {"text": "БИД БҮРТГЭГДЭХГҮЙ Ч|БАЙНА", "tone": "accent"}}
+     ]},
+    {"id": "S4", "name": "Харь гаригийнхан", "pre": 0.35, "voice": "G3", "post": 0.1, "source": "under",
+     "headline": {"text": "ХАРЬ ГАРИГИЙНХАН|БИДЭНТЭЙ ЯРИХАД"},
+     "cuts": [{"clip": "c04", "from": 450.0, "len": 1}]},
+    {"id": "S4b", "name": "Инээд", "hold": 3.3, "source": "full",
+     "subtitle": {"text": "Одоо яг тийм байгаа", "at": 1.9, "to": 3.3},
+     "cuts": [{"clip": "c04", "from": 465.4, "len": 1}]},
+    {"id": "S5", "name": "Гурван зүйл", "pre": 0.3, "voice": "N2", "post": 0.35, "source": "mute", "graphic": "needs",
+     "headline": {"text": "ГУРВАН ЗҮЙЛ|ХЭРЭГТЭЙ"},
+     "cuts": [
+       {"clip": "c05", "from": 511.4, "len": 4.3},
+       {"clip": "c05", "from": 516.0, "len": 3}
+     ]},
+    {"id": "S6", "name": "Онгоц", "pre": 0.35, "voice": "G4", "post": 0.2, "source": "under",
+     "headline": {"text": "ДАХИН НИСДЭГ|ПУУЖИН"},
+     "cuts": [{"clip": "c06", "from": 588.6, "len": 1}]},
+    {"id": "S6b", "name": "Starship", "pre": 0.2, "voice": "G5", "post": 0.3, "source": "mute",
+     "cuts": [
+       {"clip": "c14", "from": 543.4, "len": 5, "headline": {"text": "ХАМГИЙН ТОМ|НИСДЭГ БИЕТ"}},
+       {"clip": "c14", "from": 552.2, "len": 3.5, "headline": {"text": "САТУРН V-ГЭЭС|2 ДАХИН ХҮЧТЭЙ", "tone": "accent"}},
+       {"clip": "c14", "from": 567.6, "len": 4, "headline": {"text": "ЦАГ ТУТАМ|НИСНЭ"}}
+     ]},
+    {"id": "S7", "name": "Сая тонн", "pre": 0.2, "voice": "N3", "post": 0.35, "source": "mute",
+     "headline": {"text": "2500 ТОНН →|САЯ ТОНН", "tone": "accent"},
+     "cuts": [{"clip": "c08", "from": 790.0, "len": 1}]},
+    {"id": "S8", "name": "AI хиймэл дагуул", "pre": 0.3, "voice": "G6", "post": 0.3, "source": "under",
+     "cuts": [
+       {"clip": "c09", "from": 904.2, "len": 4.6, "headline": {"text": "ХИЙМЭЛ ОЮУНЫ|ХИЙМЭЛ ДАГУУЛ"}},
+       {"clip": "c09", "from": 914.0, "len": 3.5, "headline": {"text": "НАРНЫ ХАВТАН +|ХӨРГӨГЧ + ЛАЗЕР"}},
+       {"clip": "c10", "from": 1142.6, "len": 3.5, "headline": {"text": "САНСАР ДАХЬ|КОМПЬЮТЕР", "tone": "accent"}}
+     ]},
+    {"id": "S9", "name": "Тераватт", "pre": 0.3, "voice": "G7", "post": 0.35, "source": "under", "label": "«Амлалт биш, хамгийн сайн таамаг»",
+     "cuts": [
+       {"clip": "c11", "from": 1583.6, "len": 4.5, "headline": {"text": "ЖИЛ БҮР|10 ДАХИН"}},
+       {"clip": "c11", "from": 1596.0, "len": 4.5, "headline": {"text": "1 ГИГАВАТТ →|1 ТЕРАВАТТ"}},
+       {"clip": "c11", "from": 1606.0, "len": 3.5, "headline": {"text": "АМЕРИКААС|2 ДАХИН ИХ", "tone": "accent"}}
+     ]},
+    {"id": "S10", "name": "Сар", "pre": 0.35, "voice": "G8", "post": 0.2, "source": "under",
+     "cuts": [
+       {"clip": "c12", "from": 1642.0, "len": 3, "headline": {"text": "ЯАГААД ЖИЖГЭЭР|БОДОХ ВЭ?"}},
+       {"clip": "c12", "from": 1660.5, "len": 4, "headline": {"text": "ЦОРЫН ГАНЦ ЗАМ:|САР", "tone": "accent"}},
+       {"clip": "c01", "from": 1750.0, "len": 3.5, "headline": {"text": "САР ДЭЭР|ҮЙЛДВЭРЛЭНЭ"}},
+       {"clip": "c01", "from": 1768.0, "len": 3.5, "headline": {"text": "ЦАХИЛГААН СОРОНЗОН|БУУГААР ХАРВАНА", "tone": "accent"}}
+     ]},
+    {"id": "S10b", "name": "Харвалт", "hold": 4.2, "source": "mute",
+     "cuts": [
+       {"clip": "c01", "from": 1774.0, "len": 2.2},
+       {"clip": "c01", "from": 1790.0, "len": 2.0}
+     ]},
+    {"id": "S11", "name": "Хүн бүр", "pre": 0.3, "voice": "G9", "post": 0.4, "source": "under",
+     "headline": {"text": "ХҮН БҮР САР РУУ|ЯДАЖ НЭГ УДАА", "tone": "accent"},
+     "cuts": [
+       {"clip": "c13", "from": 1839.0, "len": 2},
+       {"clip": "c13", "from": 1847.9, "len": 2.1}
+     ]},
+    {"id": "S12", "name": "Төгсгөл", "hold": 3.6, "source": "mute", "graphic": "end",
+     "cuts": [{"clip": "c01", "from": 1806.0, "len": 1}]}
+  ]
+}

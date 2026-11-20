@@ -1,0 +1,17 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "videomaker-studio",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["remotion", "studio", "src/index.ts", "--port", "3020", "--no-open"],
+      "port": 3020
+    },
+    {
+      "name": "kublai-web-dev-project",
+      "runtimeExecutable": "sh",
+      "runtimeArgs": ["-c", "cd /Users/purevdorj/dev/kublai_web && set -a && . ./.env.kublai-dev.local && set +a && exec npm run dev -- --port 3100"],
+      "port": 3100
+    }
+  ]
+}

@@ -1,0 +1,2630 @@
+[
+  {
+    "id": "10:18",
+    "bg": {
+      "type": "SOLID",
+      "visible": true,
+      "opacity": 1,
+      "blendMode": "NORMAL",
+      "color": {
+        "r": 0.9529411792755127,
+        "g": 0.9372549057006836,
+        "b": 0.8901960849761963
+      },
+      "boundVariables": {}
+    },
+    "texts": [
+      {
+        "id": "10:21",
+        "text": "АМИН ЧАНАР",
+        "x": 48,
+        "y": 32,
+        "w": 350,
+        "h": 27,
+        "size": 24,
+        "font": {
+          "family": "Noto Sans",
+          "style": "Bold",
+          "variationSettings": {
+            "wght": 700,
+            "wdth": 100,
+            "CTGR": 0
+          }
+        },
+        "color": {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.03921568766236305,
+            "g": 0.1882352977991104,
+            "b": 0.1568627506494522
+          },
+          "boundVariables": {}
+        },
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 112.00000047683716
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 5
+        },
+        "align": "LEFT"
+      },
+      {
+        "id": "10:22",
+        "text": "20+ жил",
+        "x": 48,
+        "y": 138,
+        "w": 530,
+        "h": 132,
+        "size": 112,
+        "font": {
+          "family": "Noto Sans",
+          "style": "Display Bold",
+          "variationSettings": {
+            "wght": 700,
+            "wdth": 100,
+            "CTGR": 100
+          }
+        },
+        "color": {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.03921568766236305,
+            "g": 0.1882352977991104,
+            "b": 0.1568627506494522
+          },
+          "boundVariables": {}
+        },
+        "lineHeight": {
+          "unit": "PIXELS",
+          "value": 132
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": -1.5
+        },
+        "align": "LEFT"
+      },
+      {
+        "id": "10:23",
+        "text": "Судалгаа. Шинжлэх ухаан.\nАмин чанар.",
+        "x": 48,
+        "y": 288,
+        "w": 530,
+        "h": 80,
+        "size": 34,
+        "font": {
+          "family": "Noto Sans",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "wdth": 100,
+            "CTGR": 0
+          }
+        },
+        "color": {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.03921568766236305,
+            "g": 0.1882352977991104,
+            "b": 0.1568627506494522
+          },
+          "boundVariables": {}
+        },
+        "lineHeight": {
+          "unit": "PIXELS",
+          "value": 40
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "align": "LEFT"
+      }
+    ],
+    "art": [
+      {
+        "id": "54:2",
+        "x": 485,
+        "y": 120,
+        "w": 470,
+        "h": 264.375
+      }
+    ]
+  },
+  {
+    "id": "10:70",
+    "bg": {
+      "type": "SOLID",
+      "visible": true,
+      "opacity": 1,
+      "blendMode": "NORMAL",
+      "color": {
+        "r": 0.9529411792755127,
+        "g": 0.9372549057006836,
+        "b": 0.8901960849761963
+      },
+      "boundVariables": {}
+    },
+    "texts": [
+      {
+        "id": "10:73",
+        "text": "АМИН ЧАНАР",
+        "x": 48,
+        "y": 32,
+        "w": 350,
+        "h": 27,
+        "size": 24,
+        "font": {
+          "family": "Noto Sans",
+          "style": "Bold",
+          "variationSettings": {
+            "wght": 700,
+            "wdth": 100,
+            "CTGR": 0
+          }
+        },
+        "color": {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.03921568766236305,
+            "g": 0.1882352977991104,
+            "b": 0.1568627506494522
+          },
+          "boundVariables": {}
+        },
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 112.00000047683716
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 5
+        },
+        "align": "LEFT"
+      },
+      {
+        "id": "10:74",
+        "text": "Амин хүчил.\nПептид.",
+        "x": 48,
+        "y": 132,
+        "w": 464,
+        "h": 152,
+        "size": 68,
+        "font": {
+          "family": "Noto Sans",
+          "style": "Display Bold",
+          "variationSettings": {
+            "wght": 700,
+            "wdth": 100,
+            "CTGR": 100
+          }
+        },
+        "color": {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.03921568766236305,
+            "g": 0.1882352977991104,
+            "b": 0.1568627506494522
+          },
+          "boundVariables": {}
+        },
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 112.00000047683716
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": -1.5
+        },
+        "align": "LEFT"
+      },
+      {
+        "id": "10:75",
+        "text": "Судалгаанаас\nэхэлсэн түүх",
+        "x": 48,
+        "y": 302,
+        "w": 464,
+        "h": 82,
+        "size": 34,
+        "font": {
+          "family": "Noto Sans",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "wdth": 100,
+            "CTGR": 0
+          }
+        },
+        "color": {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.03921568766236305,
+            "g": 0.1882352977991104,
+            "b": 0.1568627506494522
+          },
+          "boundVariables": {}
+        },
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 120.00000476837158
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "align": "LEFT"
+      }
+    ],
+    "art": [
+      {
+        "id": "54:16",
+        "x": 478,
+        "y": 255,
+        "w": 540,
+        "h": 303.75
+      }
+    ]
+  },
+  {
+    "id": "10:123",
+    "bg": {
+      "type": "SOLID",
+      "visible": true,
+      "opacity": 1,
+      "blendMode": "NORMAL",
+      "color": {
+        "r": 0.9529411792755127,
+        "g": 0.9372549057006836,
+        "b": 0.8901960849761963
+      },
+      "boundVariables": {}
+    },
+    "texts": [
+      {
+        "id": "10:126",
+        "text": "АМИН ЧАНАР",
+        "x": 48,
+        "y": 32,
+        "w": 350,
+        "h": 27,
+        "size": 24,
+        "font": {
+          "family": "Noto Sans",
+          "style": "Bold",
+          "variationSettings": {
+            "wght": 700,
+            "wdth": 100,
+            "CTGR": 0
+          }
+        },
+        "color": {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.03921568766236305,
+            "g": 0.1882352977991104,
+            "b": 0.1568627506494522
+          },
+          "boundVariables": {}
+        },
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 112.00000047683716
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 5
+        },
+        "align": "LEFT"
+      },
+      {
+        "id": "10:127",
+        "text": "2016",
+        "x": 48,
+        "y": 86,
+        "w": 864,
+        "h": 213,
+        "size": 190,
+        "font": {
+          "family": "Noto Sans",
+          "style": "Display Bold",
+          "variationSettings": {
+            "wght": 700,
+            "wdth": 100,
+            "CTGR": 100
+          }
+        },
+        "color": {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.03921568766236305,
+            "g": 0.1882352977991104,
+            "b": 0.1568627506494522
+          },
+          "boundVariables": {}
+        },
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 112.00000047683716
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": -1.5
+        },
+        "align": "LEFT"
+      },
+      {
+        "id": "10:128",
+        "text": "Амин чанар нэрээр\nбүтээгдэхүүн үйлдвэрлэх эрх",
+        "x": 48,
+        "y": 317,
+        "w": 864,
+        "h": 86,
+        "size": 36,
+        "font": {
+          "family": "Noto Sans",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "wdth": 100,
+            "CTGR": 0
+          }
+        },
+        "color": {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.03921568766236305,
+            "g": 0.1882352977991104,
+            "b": 0.1568627506494522
+          },
+          "boundVariables": {}
+        },
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 120.00000476837158
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "align": "LEFT"
+      }
+    ],
+    "art": [
+      {
+        "id": "50:41",
+        "x": 480,
+        "y": 100,
+        "w": 480,
+        "h": 270
+      }
+    ]
+  },
+  {
+    "id": "10:176",
+    "bg": {
+      "type": "SOLID",
+      "visible": true,
+      "opacity": 1,
+      "blendMode": "NORMAL",
+      "color": {
+        "r": 0.03921568766236305,
+        "g": 0.1882352977991104,
+        "b": 0.1568627506494522
+      },
+      "boundVariables": {}
+    },
+    "texts": [
+      {
+        "id": "10:179",
+        "text": "АМИН ЧАНАР",
+        "x": 48,
+        "y": 32,
+        "w": 350,
+        "h": 27,
+        "size": 24,
+        "font": {
+          "family": "Noto Sans",
+          "style": "Bold",
+          "variationSettings": {
+            "wght": 700,
+            "wdth": 100,
+            "CTGR": 0
+          }
+        },
+        "color": {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.9843137264251709,
+            "g": 0.9725490212440491,
+            "b": 0.9411764740943909
+          },
+          "boundVariables": {}
+        },
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 112.00000047683716
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 5
+        },
+        "align": "LEFT"
+      },
+      {
+        "id": "15:89",
+        "text": "Үйлдвэрийн хүчин чадал",
+        "x": 48,
+        "y": 445,
+        "w": 450,
+        "h": 34,
+        "size": 30,
+        "font": {
+          "family": "Noto Sans",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "wdth": 100,
+            "CTGR": 0
+          }
+        },
+        "color": {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.9843137264251709,
+            "g": 0.9725490212440491,
+            "b": 0.9411764740943909
+          },
+          "boundVariables": {}
+        },
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 112.00000047683716
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": -1.5
+        },
+        "align": "LEFT"
+      },
+      {
+        "id": "10:180",
+        "text": "2017",
+        "x": 48,
+        "y": 86,
+        "w": 456,
+        "h": 148,
+        "size": 132,
+        "font": {
+          "family": "Noto Sans",
+          "style": "Display Bold",
+          "variationSettings": {
+            "wght": 700,
+            "wdth": 100,
+            "CTGR": 100
+          }
+        },
+        "color": {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.9843137264251709,
+            "g": 0.9725490212440491,
+            "b": 0.9411764740943909
+          },
+          "boundVariables": {}
+        },
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 112.00000047683716
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": -1.5
+        },
+        "align": "LEFT"
+      },
+      {
+        "id": "10:181",
+        "text": "Үйлдвэрлэлд\nшинэ алхам",
+        "x": 48,
+        "y": 252,
+        "w": 456,
+        "h": 86,
+        "size": 36,
+        "font": {
+          "family": "Noto Sans",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "wdth": 100,
+            "CTGR": 0
+          }
+        },
+        "color": {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.9843137264251709,
+            "g": 0.9725490212440491,
+            "b": 0.9411764740943909
+          },
+          "boundVariables": {}
+        },
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 120.00000476837158
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "align": "LEFT"
+      },
+      {
+        "id": "10:182",
+        "text": "3 тонн",
+        "x": 48,
+        "y": 356,
+        "w": 456,
+        "h": 72,
+        "size": 64,
+        "font": {
+          "family": "Noto Sans",
+          "style": "Bold",
+          "variationSettings": {
+            "wght": 700,
+            "wdth": 100,
+            "CTGR": 0
+          }
+        },
+        "color": {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.9843137264251709,
+            "g": 0.9725490212440491,
+            "b": 0.9411764740943909
+          },
+          "boundVariables": {}
+        },
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 112.00000047683716
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": -1.5
+        },
+        "align": "LEFT"
+      }
+    ],
+    "art": [
+      {
+        "id": "54:40",
+        "x": 485,
+        "y": 255,
+        "w": 520,
+        "h": 292.5
+      }
+    ]
+  },
+  {
+    "id": "11:18",
+    "bg": {
+      "type": "SOLID",
+      "visible": true,
+      "opacity": 1,
+      "blendMode": "NORMAL",
+      "color": {
+        "r": 0.9529411792755127,
+        "g": 0.9372549057006836,
+        "b": 0.8901960849761963
+      },
+      "boundVariables": {}
+    },
+    "texts": [
+      {
+        "id": "11:21",
+        "text": "АМИН ЧАНАР",
+        "x": 48,
+        "y": 32,
+        "w": 350,
+        "h": 27,
+        "size": 24,
+        "font": {
+          "family": "Noto Sans",
+          "style": "Bold",
+          "variationSettings": {
+            "wght": 700,
+            "wdth": 100,
+            "CTGR": 0
+          }
+        },
+        "color": {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.03921568766236305,
+            "g": 0.1882352977991104,
+            "b": 0.1568627506494522
+          },
+          "boundVariables": {}
+        },
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 112.00000047683716
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 5
+        },
+        "align": "LEFT"
+      },
+      {
+        "id": "11:22",
+        "text": "Сарлагийн\nсүү",
+        "x": 48,
+        "y": 126,
+        "w": 436,
+        "h": 180,
+        "size": 80,
+        "font": {
+          "family": "Noto Sans",
+          "style": "Display Bold",
+          "variationSettings": {
+            "wght": 700,
+            "wdth": 100,
+            "CTGR": 100
+          }
+        },
+        "color": {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.03921568766236305,
+            "g": 0.1882352977991104,
+            "b": 0.1568627506494522
+          },
+          "boundVariables": {}
+        },
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 112.00000047683716
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": -1.5
+        },
+        "align": "LEFT"
+      },
+      {
+        "id": "11:23",
+        "text": "Байгалийн үнэт\nтүүхий эд",
+        "x": 48,
+        "y": 324,
+        "w": 436,
+        "h": 82,
+        "size": 34,
+        "font": {
+          "family": "Noto Sans",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "wdth": 100,
+            "CTGR": 0
+          }
+        },
+        "color": {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.03921568766236305,
+            "g": 0.1882352977991104,
+            "b": 0.1568627506494522
+          },
+          "boundVariables": {}
+        },
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 120.00000476837158
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "align": "LEFT"
+      }
+    ],
+    "art": [
+      {
+        "id": "54:60",
+        "x": 462,
+        "y": 245,
+        "w": 540,
+        "h": 303.75
+      }
+    ]
+  },
+  {
+    "id": "11:70",
+    "bg": {
+      "type": "SOLID",
+      "visible": true,
+      "opacity": 1,
+      "blendMode": "NORMAL",
+      "color": {
+        "r": 0.03921568766236305,
+        "g": 0.1882352977991104,
+        "b": 0.1568627506494522
+      },
+      "boundVariables": {}
+    },
+    "texts": [
+      {
+        "id": "11:73",
+        "text": "АМИН ЧАНАР",
+        "x": 48,
+        "y": 32,
+        "w": 350,
+        "h": 27,
+        "size": 24,
+        "font": {
+          "family": "Noto Sans",
+          "style": "Bold",
+          "variationSettings": {
+            "wght": 700,
+            "wdth": 100,
+            "CTGR": 0
+          }
+        },
+        "color": {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.9843137264251709,
+            "g": 0.9725490212440491,
+            "b": 0.9411764740943909
+          },
+          "boundVariables": {}
+        },
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 112.00000047683716
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 5
+        },
+        "align": "LEFT"
+      },
+      {
+        "id": "11:74",
+        "text": "75–98%",
+        "x": 48,
+        "y": 150,
+        "w": 600,
+        "h": 152,
+        "size": 128,
+        "font": {
+          "family": "Noto Sans",
+          "style": "Display Bold",
+          "variationSettings": {
+            "wght": 700,
+            "wdth": 100,
+            "CTGR": 100
+          }
+        },
+        "color": {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.9843137264251709,
+            "g": 0.9725490212440491,
+            "b": 0.9411764740943909
+          },
+          "boundVariables": {}
+        },
+        "lineHeight": {
+          "unit": "PIXELS",
+          "value": 152
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": -1.5
+        },
+        "align": "LEFT"
+      },
+      {
+        "id": "11:75",
+        "text": "Сүүний уургийн\nзадлан боловсруулалт",
+        "x": 48,
+        "y": 320,
+        "w": 864,
+        "h": 92,
+        "size": 38,
+        "font": {
+          "family": "Noto Sans",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "wdth": 100,
+            "CTGR": 0
+          }
+        },
+        "color": {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.9843137264251709,
+            "g": 0.9725490212440491,
+            "b": 0.9411764740943909
+          },
+          "boundVariables": {}
+        },
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 120.00000476837158
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "align": "LEFT"
+      }
+    ],
+    "art": [
+      {
+        "id": "50:103",
+        "x": 535,
+        "y": 130,
+        "w": 460,
+        "h": 258.75
+      }
+    ]
+  },
+  {
+    "id": "11:122",
+    "bg": {
+      "type": "SOLID",
+      "visible": true,
+      "opacity": 1,
+      "blendMode": "NORMAL",
+      "color": {
+        "r": 0.9529411792755127,
+        "g": 0.9372549057006836,
+        "b": 0.8901960849761963
+      },
+      "boundVariables": {}
+    },
+    "texts": [
+      {
+        "id": "11:125",
+        "text": "АМИН ЧАНАР",
+        "x": 48,
+        "y": 32,
+        "w": 350,
+        "h": 27,
+        "size": 24,
+        "font": {
+          "family": "Noto Sans",
+          "style": "Bold",
+          "variationSettings": {
+            "wght": 700,
+            "wdth": 100,
+            "CTGR": 0
+          }
+        },
+        "color": {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.03921568766236305,
+            "g": 0.1882352977991104,
+            "b": 0.1568627506494522
+          },
+          "boundVariables": {}
+        },
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 112.00000047683716
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 5
+        },
+        "align": "LEFT"
+      },
+      {
+        "id": "11:126",
+        "text": "15–20",
+        "x": 48,
+        "y": 118,
+        "w": 590,
+        "h": 172,
+        "size": 154,
+        "font": {
+          "family": "Noto Sans",
+          "style": "Display Bold",
+          "variationSettings": {
+            "wght": 700,
+            "wdth": 100,
+            "CTGR": 100
+          }
+        },
+        "color": {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.03921568766236305,
+            "g": 0.1882352977991104,
+            "b": 0.1568627506494522
+          },
+          "boundVariables": {}
+        },
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 112.00000047683716
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": -1.5
+        },
+        "align": "LEFT"
+      },
+      {
+        "id": "11:127",
+        "text": "минут",
+        "x": 48,
+        "y": 308,
+        "w": 590,
+        "h": 62,
+        "size": 52,
+        "font": {
+          "family": "Noto Sans",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "wdth": 100,
+            "CTGR": 0
+          }
+        },
+        "color": {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.03921568766236305,
+            "g": 0.1882352977991104,
+            "b": 0.1568627506494522
+          },
+          "boundVariables": {}
+        },
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 120.00000476837158
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "align": "LEFT"
+      },
+      {
+        "id": "11:128",
+        "text": "Шимэгдэх хугацаа",
+        "x": 48,
+        "y": 388,
+        "w": 590,
+        "h": 38,
+        "size": 34,
+        "font": {
+          "family": "Noto Sans",
+          "style": "Bold",
+          "variationSettings": {
+            "wght": 700,
+            "wdth": 100,
+            "CTGR": 0
+          }
+        },
+        "color": {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.03921568766236305,
+            "g": 0.1882352977991104,
+            "b": 0.1568627506494522
+          },
+          "boundVariables": {}
+        },
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 112.00000047683716
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": -1.5
+        },
+        "align": "LEFT"
+      }
+    ],
+    "art": [
+      {
+        "id": "54:75",
+        "x": 540,
+        "y": 110,
+        "w": 430,
+        "h": 241.875
+      }
+    ]
+  },
+  {
+    "id": "11:176",
+    "bg": {
+      "type": "SOLID",
+      "visible": true,
+      "opacity": 1,
+      "blendMode": "NORMAL",
+      "color": {
+        "r": 0.9529411792755127,
+        "g": 0.9372549057006836,
+        "b": 0.8901960849761963
+      },
+      "boundVariables": {}
+    },
+    "texts": [
+      {
+        "id": "11:179",
+        "text": "АМИН ЧАНАР",
+        "x": 48,
+        "y": 32,
+        "w": 350,
+        "h": 27,
+        "size": 24,
+        "font": {
+          "family": "Noto Sans",
+          "style": "Bold",
+          "variationSettings": {
+            "wght": 700,
+            "wdth": 100,
+            "CTGR": 0
+          }
+        },
+        "color": {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.03921568766236305,
+            "g": 0.1882352977991104,
+            "b": 0.1568627506494522
+          },
+          "boundVariables": {}
+        },
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 112.00000047683716
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 5
+        },
+        "align": "LEFT"
+      },
+      {
+        "id": "11:180",
+        "text": "20",
+        "x": 48,
+        "y": 84,
+        "w": 530,
+        "h": 220,
+        "size": 196,
+        "font": {
+          "family": "Noto Sans",
+          "style": "Display Bold",
+          "variationSettings": {
+            "wght": 700,
+            "wdth": 100,
+            "CTGR": 100
+          }
+        },
+        "color": {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.03921568766236305,
+            "g": 0.1882352977991104,
+            "b": 0.1568627506494522
+          },
+          "boundVariables": {}
+        },
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 112.00000047683716
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": -1.5
+        },
+        "align": "LEFT"
+      },
+      {
+        "id": "11:181",
+        "text": "төрлийн\nамин хүчил",
+        "x": 48,
+        "y": 322,
+        "w": 530,
+        "h": 96,
+        "size": 40,
+        "font": {
+          "family": "Noto Sans",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "wdth": 100,
+            "CTGR": 0
+          }
+        },
+        "color": {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.03921568766236305,
+            "g": 0.1882352977991104,
+            "b": 0.1568627506494522
+          },
+          "boundVariables": {}
+        },
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 120.00000476837158
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "align": "LEFT"
+      },
+      {
+        "id": "11:182",
+        "text": "Эрдэс бодис",
+        "x": 48,
+        "y": 436,
+        "w": 530,
+        "h": 36,
+        "size": 32,
+        "font": {
+          "family": "Noto Sans",
+          "style": "Bold",
+          "variationSettings": {
+            "wght": 700,
+            "wdth": 100,
+            "CTGR": 0
+          }
+        },
+        "color": {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.03921568766236305,
+            "g": 0.1882352977991104,
+            "b": 0.1568627506494522
+          },
+          "boundVariables": {}
+        },
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 112.00000047683716
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": -1.5
+        },
+        "align": "LEFT"
+      }
+    ],
+    "art": [
+      {
+        "id": "50:167",
+        "x": 480,
+        "y": 105,
+        "w": 480,
+        "h": 270
+      }
+    ]
+  },
+  {
+    "id": "12:18",
+    "bg": {
+      "type": "SOLID",
+      "visible": true,
+      "opacity": 1,
+      "blendMode": "NORMAL",
+      "color": {
+        "r": 0.9529411792755127,
+        "g": 0.9372549057006836,
+        "b": 0.8901960849761963
+      },
+      "boundVariables": {}
+    },
+    "texts": [
+      {
+        "id": "12:21",
+        "text": "АМИН ЧАНАР",
+        "x": 48,
+        "y": 32,
+        "w": 350,
+        "h": 27,
+        "size": 24,
+        "font": {
+          "family": "Noto Sans",
+          "style": "Bold",
+          "variationSettings": {
+            "wght": 700,
+            "wdth": 100,
+            "CTGR": 0
+          }
+        },
+        "color": {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.03921568766236305,
+            "g": 0.1882352977991104,
+            "b": 0.1568627506494522
+          },
+          "boundVariables": {}
+        },
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 112.00000047683716
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 5
+        },
+        "align": "LEFT"
+      },
+      {
+        "id": "12:22",
+        "text": "6",
+        "x": 48,
+        "y": 104,
+        "w": 280,
+        "h": 184,
+        "size": 164,
+        "font": {
+          "family": "Noto Sans",
+          "style": "Display Bold",
+          "variationSettings": {
+            "wght": 700,
+            "wdth": 100,
+            "CTGR": 100
+          }
+        },
+        "color": {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.03921568766236305,
+            "g": 0.1882352977991104,
+            "b": 0.1568627506494522
+          },
+          "boundVariables": {}
+        },
+        "lineHeight": {
+          "unit": "PIXELS",
+          "value": 184
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": -1.5
+        },
+        "align": "LEFT"
+      },
+      {
+        "id": "12:23",
+        "text": "төрлийн\nбүтээгдэхүүн",
+        "x": 48,
+        "y": 302,
+        "w": 280,
+        "h": 78,
+        "size": 32,
+        "font": {
+          "family": "Noto Sans",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "wdth": 100,
+            "CTGR": 0
+          }
+        },
+        "color": {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.03921568766236305,
+            "g": 0.1882352977991104,
+            "b": 0.1568627506494522
+          },
+          "boundVariables": {}
+        },
+        "lineHeight": {
+          "unit": "PIXELS",
+          "value": 39
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "align": "LEFT"
+      }
+    ],
+    "art": []
+  },
+  {
+    "id": "12:84",
+    "bg": {
+      "type": "SOLID",
+      "visible": true,
+      "opacity": 1,
+      "blendMode": "NORMAL",
+      "color": {
+        "r": 0.9529411792755127,
+        "g": 0.9372549057006836,
+        "b": 0.8901960849761963
+      },
+      "boundVariables": {}
+    },
+    "texts": [
+      {
+        "id": "12:88",
+        "text": "Монгол түүхий эд.\nМонгол үнэ цэнэ.",
+        "x": 48,
+        "y": 322,
+        "w": 592,
+        "h": 118,
+        "size": 50,
+        "font": {
+          "family": "Noto Sans",
+          "style": "Display Bold",
+          "variationSettings": {
+            "wght": 700,
+            "wdth": 100,
+            "CTGR": 100
+          }
+        },
+        "color": {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.03921568766236305,
+            "g": 0.1882352977991104,
+            "b": 0.1568627506494522
+          },
+          "boundVariables": {}
+        },
+        "lineHeight": {
+          "unit": "PIXELS",
+          "value": 59
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": -1.5
+        },
+        "align": "LEFT"
+      },
+      {
+        "id": "12:89",
+        "text": "Малчдын хөдөлмөрийг дэмжинэ",
+        "x": 48,
+        "y": 454,
+        "w": 592,
+        "h": 33,
+        "size": 28,
+        "font": {
+          "family": "Noto Sans",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "wdth": 100,
+            "CTGR": 0
+          }
+        },
+        "color": {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.03921568766236305,
+            "g": 0.1882352977991104,
+            "b": 0.1568627506494522
+          },
+          "boundVariables": {}
+        },
+        "lineHeight": {
+          "unit": "PIXELS",
+          "value": 33
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "align": "LEFT"
+      }
+    ],
+    "art": [
+      {
+        "id": "54:102",
+        "x": 580,
+        "y": 300,
+        "w": 400,
+        "h": 225
+      }
+    ]
+  },
+  {
+    "id": "12:143",
+    "bg": {
+      "type": "SOLID",
+      "visible": true,
+      "opacity": 1,
+      "blendMode": "NORMAL",
+      "color": {
+        "r": 0.9529411792755127,
+        "g": 0.9372549057006836,
+        "b": 0.8901960849761963
+      },
+      "boundVariables": {}
+    },
+    "texts": [
+      {
+        "id": "12:146",
+        "text": "АМИН ЧАНАР",
+        "x": 48,
+        "y": 32,
+        "w": 350,
+        "h": 27,
+        "size": 24,
+        "font": {
+          "family": "Noto Sans",
+          "style": "Bold",
+          "variationSettings": {
+            "wght": 700,
+            "wdth": 100,
+            "CTGR": 0
+          }
+        },
+        "color": {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.03921568766236305,
+            "g": 0.1882352977991104,
+            "b": 0.1568627506494522
+          },
+          "boundVariables": {}
+        },
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 112.00000047683716
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 5
+        },
+        "align": "LEFT"
+      },
+      {
+        "id": "12:147",
+        "text": "Чанар.\nАлхам бүрд.",
+        "x": 48,
+        "y": 104,
+        "w": 464,
+        "h": 166,
+        "size": 74,
+        "font": {
+          "family": "Noto Sans",
+          "style": "Display Bold",
+          "variationSettings": {
+            "wght": 700,
+            "wdth": 100,
+            "CTGR": 100
+          }
+        },
+        "color": {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.03921568766236305,
+            "g": 0.1882352977991104,
+            "b": 0.1568627506494522
+          },
+          "boundVariables": {}
+        },
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 112.00000047683716
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": -1.5
+        },
+        "align": "LEFT"
+      },
+      {
+        "id": "12:148",
+        "text": "ISO 9001:2015\nISO 22000:2018",
+        "x": 48,
+        "y": 288,
+        "w": 464,
+        "h": 76,
+        "size": 32,
+        "font": {
+          "family": "Noto Sans",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "wdth": 100,
+            "CTGR": 0
+          }
+        },
+        "color": {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.03921568766236305,
+            "g": 0.1882352977991104,
+            "b": 0.1568627506494522
+          },
+          "boundVariables": {}
+        },
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 120.00000476837158
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "align": "LEFT"
+      },
+      {
+        "id": "12:149",
+        "text": "HACCP   GMP   GHP",
+        "x": 48,
+        "y": 382,
+        "w": 464,
+        "h": 31,
+        "size": 28,
+        "font": {
+          "family": "Noto Sans",
+          "style": "Bold",
+          "variationSettings": {
+            "wght": 700,
+            "wdth": 100,
+            "CTGR": 0
+          }
+        },
+        "color": {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.03921568766236305,
+            "g": 0.1882352977991104,
+            "b": 0.1568627506494522
+          },
+          "boundVariables": {}
+        },
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 112.00000047683716
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": -1.5
+        },
+        "align": "LEFT"
+      }
+    ],
+    "art": [
+      {
+        "id": "54:116",
+        "x": 473,
+        "y": 275,
+        "w": 540,
+        "h": 303.75
+      }
+    ]
+  },
+  {
+    "id": "12:203",
+    "bg": {
+      "type": "SOLID",
+      "visible": true,
+      "opacity": 1,
+      "blendMode": "NORMAL",
+      "color": {
+        "r": 0.9529411792755127,
+        "g": 0.9372549057006836,
+        "b": 0.8901960849761963
+      },
+      "boundVariables": {}
+    },
+    "texts": [
+      {
+        "id": "12:207",
+        "text": "Үндэсний\nорганик",
+        "x": 48,
+        "y": 308,
+        "w": 592,
+        "h": 128,
+        "size": 54,
+        "font": {
+          "family": "Noto Sans",
+          "style": "Display Bold",
+          "variationSettings": {
+            "wght": 700,
+            "wdth": 100,
+            "CTGR": 100
+          }
+        },
+        "color": {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.03921568766236305,
+            "g": 0.1882352977991104,
+            "b": 0.1568627506494522
+          },
+          "boundVariables": {}
+        },
+        "lineHeight": {
+          "unit": "PIXELS",
+          "value": 64
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": -1.5
+        },
+        "align": "LEFT"
+      },
+      {
+        "id": "12:208",
+        "text": "Баталгаажуулалт",
+        "x": 48,
+        "y": 450,
+        "w": 592,
+        "h": 38,
+        "size": 32,
+        "font": {
+          "family": "Noto Sans",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "wdth": 100,
+            "CTGR": 0
+          }
+        },
+        "color": {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.03921568766236305,
+            "g": 0.1882352977991104,
+            "b": 0.1568627506494522
+          },
+          "boundVariables": {}
+        },
+        "lineHeight": {
+          "unit": "PIXELS",
+          "value": 38
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "align": "LEFT"
+      }
+    ],
+    "art": [
+      {
+        "id": "54:130",
+        "x": 600,
+        "y": 300,
+        "w": 330,
+        "h": 185.625
+      }
+    ]
+  },
+  {
+    "id": "13:18",
+    "bg": {
+      "type": "SOLID",
+      "visible": true,
+      "opacity": 1,
+      "blendMode": "NORMAL",
+      "color": {
+        "r": 0.03921568766236305,
+        "g": 0.1882352977991104,
+        "b": 0.1568627506494522
+      },
+      "boundVariables": {}
+    },
+    "texts": [
+      {
+        "id": "13:21",
+        "text": "АМИН ЧАНАР",
+        "x": 48,
+        "y": 32,
+        "w": 350,
+        "h": 27,
+        "size": 24,
+        "font": {
+          "family": "Noto Sans",
+          "style": "Bold",
+          "variationSettings": {
+            "wght": 700,
+            "wdth": 100,
+            "CTGR": 0
+          }
+        },
+        "color": {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.9843137264251709,
+            "g": 0.9725490212440491,
+            "b": 0.9411764740943909
+          },
+          "boundVariables": {}
+        },
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 112.00000047683716
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 5
+        },
+        "align": "LEFT"
+      },
+      {
+        "id": "13:22",
+        "text": "80%",
+        "x": 48,
+        "y": 118,
+        "w": 432,
+        "h": 148,
+        "size": 132,
+        "font": {
+          "family": "Noto Sans",
+          "style": "Display Bold",
+          "variationSettings": {
+            "wght": 700,
+            "wdth": 100,
+            "CTGR": 100
+          }
+        },
+        "color": {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.9843137264251709,
+            "g": 0.9725490212440491,
+            "b": 0.9411764740943909
+          },
+          "boundVariables": {}
+        },
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 112.00000047683716
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": -1.5
+        },
+        "align": "LEFT"
+      },
+      {
+        "id": "13:23",
+        "text": "Пептидийн\nагууламж",
+        "x": 48,
+        "y": 284,
+        "w": 432,
+        "h": 92,
+        "size": 38,
+        "font": {
+          "family": "Noto Sans",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "wdth": 100,
+            "CTGR": 0
+          }
+        },
+        "color": {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.9843137264251709,
+            "g": 0.9725490212440491,
+            "b": 0.9411764740943909
+          },
+          "boundVariables": {}
+        },
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 120.00000476837158
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "align": "LEFT"
+      },
+      {
+        "id": "13:24",
+        "text": "Ард түмний\nхүнс 2026",
+        "x": 48,
+        "y": 394,
+        "w": 432,
+        "h": 68,
+        "size": 30,
+        "font": {
+          "family": "Noto Sans",
+          "style": "Bold",
+          "variationSettings": {
+            "wght": 700,
+            "wdth": 100,
+            "CTGR": 0
+          }
+        },
+        "color": {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.9843137264251709,
+            "g": 0.9725490212440491,
+            "b": 0.9411764740943909
+          },
+          "boundVariables": {}
+        },
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 112.00000047683716
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": -1.5
+        },
+        "align": "LEFT"
+      }
+    ],
+    "art": []
+  },
+  {
+    "id": "13:79",
+    "bg": {
+      "type": "SOLID",
+      "visible": true,
+      "opacity": 1,
+      "blendMode": "NORMAL",
+      "color": {
+        "r": 0.9529411792755127,
+        "g": 0.9372549057006836,
+        "b": 0.8901960849761963
+      },
+      "boundVariables": {}
+    },
+    "texts": [
+      {
+        "id": "13:83",
+        "text": "Өдөр бүрийн шим тэжээл",
+        "x": 48,
+        "y": 329,
+        "w": 864,
+        "h": 58,
+        "size": 52,
+        "font": {
+          "family": "Noto Sans",
+          "style": "Display Bold",
+          "variationSettings": {
+            "wght": 700,
+            "wdth": 100,
+            "CTGR": 100
+          }
+        },
+        "color": {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.03921568766236305,
+            "g": 0.1882352977991104,
+            "b": 0.1568627506494522
+          },
+          "boundVariables": {}
+        },
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 112.00000047683716
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": -1.5
+        },
+        "align": "LEFT"
+      },
+      {
+        "id": "13:84",
+        "text": "Хоол тэжээлийн дэмжлэг",
+        "x": 48,
+        "y": 405,
+        "w": 864,
+        "h": 38,
+        "size": 32,
+        "font": {
+          "family": "Noto Sans",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "wdth": 100,
+            "CTGR": 0
+          }
+        },
+        "color": {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.03921568766236305,
+            "g": 0.1882352977991104,
+            "b": 0.1568627506494522
+          },
+          "boundVariables": {}
+        },
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 120.00000476837158
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "align": "LEFT"
+      }
+    ],
+    "art": [
+      {
+        "id": "50:294",
+        "x": 610,
+        "y": 370,
+        "w": 320,
+        "h": 180
+      }
+    ]
+  },
+  {
+    "id": "13:138",
+    "bg": {
+      "type": "SOLID",
+      "visible": true,
+      "opacity": 1,
+      "blendMode": "NORMAL",
+      "color": {
+        "r": 0.03921568766236305,
+        "g": 0.1882352977991104,
+        "b": 0.1568627506494522
+      },
+      "boundVariables": {}
+    },
+    "texts": [
+      {
+        "id": "13:141",
+        "text": "АМИН ЧАНАР",
+        "x": 48,
+        "y": 32,
+        "w": 350,
+        "h": 27,
+        "size": 24,
+        "font": {
+          "family": "Noto Sans",
+          "style": "Bold",
+          "variationSettings": {
+            "wght": 700,
+            "wdth": 100,
+            "CTGR": 0
+          }
+        },
+        "color": {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.9843137264251709,
+            "g": 0.9725490212440491,
+            "b": 0.9411764740943909
+          },
+          "boundVariables": {}
+        },
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 112.00000047683716
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 5
+        },
+        "align": "LEFT"
+      },
+      {
+        "id": "13:142",
+        "text": "Судалгаа.\nХамтын ажиллагаа.",
+        "x": 48,
+        "y": 108,
+        "w": 864,
+        "h": 148,
+        "size": 66,
+        "font": {
+          "family": "Noto Sans",
+          "style": "Display Bold",
+          "variationSettings": {
+            "wght": 700,
+            "wdth": 100,
+            "CTGR": 100
+          }
+        },
+        "color": {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.9843137264251709,
+            "g": 0.9725490212440491,
+            "b": 0.9411764740943909
+          },
+          "boundVariables": {}
+        },
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 112.00000047683716
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": -1.5
+        },
+        "align": "LEFT"
+      },
+      {
+        "id": "13:143",
+        "text": "Клиник судалгаа, ажиглалт",
+        "x": 48,
+        "y": 274,
+        "w": 864,
+        "h": 43,
+        "size": 36,
+        "font": {
+          "family": "Noto Sans",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "wdth": 100,
+            "CTGR": 0
+          }
+        },
+        "color": {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.9843137264251709,
+            "g": 0.9725490212440491,
+            "b": 0.9411764740943909
+          },
+          "boundVariables": {}
+        },
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 120.00000476837158
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "align": "LEFT"
+      },
+      {
+        "id": "13:144",
+        "text": "УНТЭ • ХСҮТ • Хатанбаатар\nШинон Мед • Ачтан",
+        "x": 48,
+        "y": 335,
+        "w": 864,
+        "h": 62,
+        "size": 28,
+        "font": {
+          "family": "Noto Sans",
+          "style": "Bold",
+          "variationSettings": {
+            "wght": 700,
+            "wdth": 100,
+            "CTGR": 0
+          }
+        },
+        "color": {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.9843137264251709,
+            "g": 0.9725490212440491,
+            "b": 0.9411764740943909
+          },
+          "boundVariables": {}
+        },
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 112.00000047683716
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": -1.5
+        },
+        "align": "LEFT"
+      }
+    ],
+    "art": [
+      {
+        "id": "50:310",
+        "x": 644,
+        "y": 110,
+        "w": 380,
+        "h": 213.75
+      }
+    ]
+  },
+  {
+    "id": "13:198",
+    "bg": {
+      "type": "SOLID",
+      "visible": true,
+      "opacity": 1,
+      "blendMode": "NORMAL",
+      "color": {
+        "r": 0.9529411792755127,
+        "g": 0.9372549057006836,
+        "b": 0.8901960849761963
+      },
+      "boundVariables": {}
+    },
+    "texts": [
+      {
+        "id": "13:201",
+        "text": "АМИН ЧАНАР",
+        "x": 48,
+        "y": 32,
+        "w": 350,
+        "h": 27,
+        "size": 24,
+        "font": {
+          "family": "Noto Sans",
+          "style": "Bold",
+          "variationSettings": {
+            "wght": 700,
+            "wdth": 100,
+            "CTGR": 0
+          }
+        },
+        "color": {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.03921568766236305,
+            "g": 0.1882352977991104,
+            "b": 0.1568627506494522
+          },
+          "boundVariables": {}
+        },
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 112.00000047683716
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 5
+        },
+        "align": "LEFT"
+      },
+      {
+        "id": "13:202",
+        "text": "Байгаль.\nШинжлэх ухаан.\nАмин чанар.",
+        "x": 48,
+        "y": 112,
+        "w": 490,
+        "h": 216,
+        "size": 64,
+        "font": {
+          "family": "Noto Sans",
+          "style": "Display Condensed Bold",
+          "variationSettings": {
+            "wght": 700,
+            "wdth": 75,
+            "CTGR": 100
+          }
+        },
+        "color": {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.03921568766236305,
+            "g": 0.1882352977991104,
+            "b": 0.1568627506494522
+          },
+          "boundVariables": {}
+        },
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 112.00000047683716
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": -1.5
+        },
+        "align": "LEFT"
+      },
+      {
+        "id": "13:203",
+        "text": "Монгол түүхий эдээс\n— танд",
+        "x": 48,
+        "y": 346,
+        "w": 490,
+        "h": 76,
+        "size": 32,
+        "font": {
+          "family": "Noto Sans",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "wdth": 100,
+            "CTGR": 0
+          }
+        },
+        "color": {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.03921568766236305,
+            "g": 0.1882352977991104,
+            "b": 0.1568627506494522
+          },
+          "boundVariables": {}
+        },
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 120.00000476837158
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "align": "LEFT"
+      }
+    ],
+    "art": [
+      {
+        "id": "54:148",
+        "x": 528,
+        "y": 275,
+        "w": 460,
+        "h": 258.75
+      }
+    ]
+  },
+  {
+    "id": "13:258",
+    "bg": {
+      "type": "SOLID",
+      "visible": true,
+      "opacity": 1,
+      "blendMode": "NORMAL",
+      "color": {
+        "r": 0.9529411792755127,
+        "g": 0.9372549057006836,
+        "b": 0.8901960849761963
+      },
+      "boundVariables": {}
+    },
+    "texts": [
+      {
+        "id": "13:262",
+        "text": "Бага багаар\nрашаан болтугай.",
+        "x": 48,
+        "y": 328,
+        "w": 600,
+        "h": 132,
+        "size": 56,
+        "font": {
+          "family": "Noto Sans",
+          "style": "Display Bold",
+          "variationSettings": {
+            "wght": 700,
+            "wdth": 100,
+            "CTGR": 100
+          }
+        },
+        "color": {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.03921568766236305,
+            "g": 0.1882352977991104,
+            "b": 0.1568627506494522
+          },
+          "boundVariables": {}
+        },
+        "lineHeight": {
+          "unit": "PIXELS",
+          "value": 66
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": -1.5
+        },
+        "align": "LEFT"
+      }
+    ],
+    "art": [
+      {
+        "id": "54:170",
+        "x": 600,
+        "y": 285,
+        "w": 350,
+        "h": 196.875
+      }
+    ]
+  },
+  {
+    "id": "13:317",
+    "bg": {
+      "type": "SOLID",
+      "visible": true,
+      "opacity": 1,
+      "blendMode": "NORMAL",
+      "color": {
+        "r": 0.03921568766236305,
+        "g": 0.1882352977991104,
+        "b": 0.1568627506494522
+      },
+      "boundVariables": {}
+    },
+    "texts": [
+      {
+        "id": "13:321",
+        "text": "АМИН\nЧАНАР",
+        "x": 48,
+        "y": 116,
+        "w": 416,
+        "h": 192,
+        "size": 86,
+        "font": {
+          "family": "Noto Sans",
+          "style": "Display Bold",
+          "variationSettings": {
+            "wght": 700,
+            "wdth": 100,
+            "CTGR": 100
+          }
+        },
+        "color": {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.9843137264251709,
+            "g": 0.9725490212440491,
+            "b": 0.9411764740943909
+          },
+          "boundVariables": {}
+        },
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 112.00000047683716
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": -1.5
+        },
+        "align": "LEFT"
+      },
+      {
+        "id": "13:322",
+        "text": "Бага Рашаант компани",
+        "x": 48,
+        "y": 326,
+        "w": 416,
+        "h": 36,
+        "size": 30,
+        "font": {
+          "family": "Noto Sans",
+          "style": "Regular",
+          "variationSettings": {
+            "wght": 400,
+            "wdth": 100,
+            "CTGR": 0
+          }
+        },
+        "color": {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.9843137264251709,
+            "g": 0.9725490212440491,
+            "b": 0.9411764740943909
+          },
+          "boundVariables": {}
+        },
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 120.00000476837158
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": 0
+        },
+        "align": "LEFT"
+      },
+      {
+        "id": "13:323",
+        "text": "Сарлагийн сүүний\nуургийн пептид",
+        "x": 48,
+        "y": 380,
+        "w": 416,
+        "h": 72,
+        "size": 32,
+        "font": {
+          "family": "Noto Sans",
+          "style": "Bold",
+          "variationSettings": {
+            "wght": 700,
+            "wdth": 100,
+            "CTGR": 0
+          }
+        },
+        "color": {
+          "type": "SOLID",
+          "visible": true,
+          "opacity": 1,
+          "blendMode": "NORMAL",
+          "color": {
+            "r": 0.9843137264251709,
+            "g": 0.9725490212440491,
+            "b": 0.9411764740943909
+          },
+          "boundVariables": {}
+        },
+        "lineHeight": {
+          "unit": "PERCENT",
+          "value": 112.00000047683716
+        },
+        "letterSpacing": {
+          "unit": "PERCENT",
+          "value": -1.5
+        },
+        "align": "LEFT"
+      }
+    ],
+    "art": []
+  }
+]

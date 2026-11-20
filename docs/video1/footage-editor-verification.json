@@ -1,0 +1,19 @@
+{
+  "url": "http://127.0.0.1:3011",
+  "usedPlacements": 36,
+  "usedSources": 31,
+  "replacementLibrarySources": 84,
+  "checks": {
+    "typescript": "pass",
+    "automatedTests": "7/7",
+    "timeline": "4765 frames / 31 current sources verified",
+    "browser": "frame step, mark, save, reload, swap, two undos, late-frame rejection",
+    "remotionIntegration": "Source frame 11 at 25 fps produced source time 0.4 at composition frame 0. A swap updated the Remotion video source.",
+    "exportSmoke": "work/production/footage-inpoint-smoke.png",
+    "api": "Missing-token write rejected; media byte ranges verified",
+    "layout": "No horizontal overflow at 1280px; apply action visible",
+    "testSelectionsRestored": true
+  },
+  "savedSelectionsFile": "src/video1/footage-edits.json",
+  "renderNote": "Existing MP4 is unchanged. Render after applying user selections."
+}

@@ -1,0 +1,396 @@
+{
+  "status": "Superseded by ../vector-clean-fields/design.json. The user rejected vectors over images; use separate solid graphic fields.",
+  "date": "2026-09-22",
+  "scope": "Static placement on all 18 scene last keyframes. First keyframes remain clear as lead-in images. Remotion implementation and generated video production are pending.",
+  "layerOrder": [
+    "Background generated or supplied video",
+    "Readability tint and editorial panels",
+    "Editable vector graphics",
+    "Approved product cutout where separate from background",
+    "Editable headlines and supporting copy"
+  ],
+  "placements": [
+    {
+      "scene": 1,
+      "id": "10:18",
+      "x": 630,
+      "y": -12,
+      "w": 330,
+      "light": true,
+      "plate": null
+    },
+    {
+      "scene": 2,
+      "id": "10:70",
+      "x": 478,
+      "y": 130,
+      "w": 540,
+      "light": true,
+      "plate": [
+        548,
+        0,
+        412,
+        540
+      ]
+    },
+    {
+      "scene": 3,
+      "id": "10:123",
+      "x": 480,
+      "y": 100,
+      "w": 480,
+      "light": false,
+      "plate": null
+    },
+    {
+      "scene": 4,
+      "id": "10:176",
+      "x": 485,
+      "y": 125,
+      "w": 520,
+      "light": true,
+      "plate": [
+        540,
+        0,
+        420,
+        540
+      ]
+    },
+    {
+      "scene": 5,
+      "id": "11:18",
+      "x": 462,
+      "y": 130,
+      "w": 540,
+      "light": true,
+      "plate": [
+        530,
+        0,
+        430,
+        540
+      ]
+    },
+    {
+      "scene": 6,
+      "id": "11:70",
+      "x": 540,
+      "y": -45,
+      "w": 440,
+      "light": true,
+      "plate": null
+    },
+    {
+      "scene": 7,
+      "id": "11:122",
+      "x": 556,
+      "y": 105,
+      "w": 400,
+      "light": true,
+      "plate": null
+    },
+    {
+      "scene": 8,
+      "id": "11:176",
+      "x": 480,
+      "y": 105,
+      "w": 480,
+      "light": false,
+      "plate": null
+    },
+    {
+      "scene": 9,
+      "id": "12:18",
+      "x": 165,
+      "y": 98,
+      "w": 350,
+      "light": false,
+      "plate": null
+    },
+    {
+      "scene": 10,
+      "id": "12:84",
+      "x": 610,
+      "y": 12,
+      "w": 350,
+      "light": true,
+      "plate": null
+    },
+    {
+      "scene": 11,
+      "id": "12:143",
+      "x": 473,
+      "y": 120,
+      "w": 540,
+      "light": true,
+      "plate": [
+        548,
+        0,
+        412,
+        540
+      ]
+    },
+    {
+      "scene": 12,
+      "id": "12:203",
+      "x": 577,
+      "y": 28,
+      "w": 420,
+      "light": true,
+      "plate": null
+    },
+    {
+      "scene": 13,
+      "id": "13:18",
+      "x": 338,
+      "y": 70,
+      "w": 760,
+      "light": true,
+      "plate": null
+    },
+    {
+      "scene": 14,
+      "id": "13:79",
+      "x": 610,
+      "y": 370,
+      "w": 320,
+      "light": false,
+      "plate": null
+    },
+    {
+      "scene": 15,
+      "id": "13:138",
+      "x": 644,
+      "y": 110,
+      "w": 380,
+      "light": true,
+      "plate": null
+    },
+    {
+      "scene": 16,
+      "id": "13:198",
+      "x": 528,
+      "y": 140,
+      "w": 460,
+      "light": true,
+      "plate": [
+        584,
+        0,
+        376,
+        540
+      ]
+    },
+    {
+      "scene": 17,
+      "id": "13:258",
+      "x": 400,
+      "y": 240,
+      "w": 560,
+      "light": true,
+      "plate": null
+    },
+    {
+      "scene": 18,
+      "id": "13:317",
+      "x": 200,
+      "y": -25,
+      "w": 1050,
+      "light": true,
+      "plate": null
+    }
+  ],
+  "audit": {
+    "sceneCount": 18,
+    "scenes": [
+      {
+        "scene": "10:18",
+        "overlay": "50:2",
+        "width": 330,
+        "x": 630,
+        "y": -12,
+        "visibleShapes": 8,
+        "outOfBounds": []
+      },
+      {
+        "scene": "10:70",
+        "overlay": "50:17",
+        "width": 540,
+        "x": 478,
+        "y": 130,
+        "visibleShapes": 11,
+        "outOfBounds": []
+      },
+      {
+        "scene": "10:123",
+        "overlay": "50:41",
+        "width": 480,
+        "x": 480,
+        "y": 100,
+        "visibleShapes": 12,
+        "outOfBounds": []
+      },
+      {
+        "scene": "10:176",
+        "overlay": "50:67",
+        "width": 520,
+        "x": 485,
+        "y": 125,
+        "visibleShapes": 11,
+        "outOfBounds": []
+      },
+      {
+        "scene": "11:18",
+        "overlay": "50:88",
+        "width": 540,
+        "x": 462,
+        "y": 130,
+        "visibleShapes": 8,
+        "outOfBounds": []
+      },
+      {
+        "scene": "11:70",
+        "overlay": "50:103",
+        "width": 440,
+        "x": 540,
+        "y": -45,
+        "visibleShapes": 16,
+        "outOfBounds": []
+      },
+      {
+        "scene": "11:122",
+        "overlay": "50:140",
+        "width": 400,
+        "x": 556,
+        "y": 105,
+        "visibleShapes": 18,
+        "outOfBounds": []
+      },
+      {
+        "scene": "11:176",
+        "overlay": "50:167",
+        "width": 480,
+        "x": 480,
+        "y": 105,
+        "visibleShapes": 22,
+        "outOfBounds": []
+      },
+      {
+        "scene": "12:18",
+        "overlay": "50:213",
+        "width": 350,
+        "x": 165,
+        "y": 98,
+        "visibleShapes": 9,
+        "outOfBounds": []
+      },
+      {
+        "scene": "12:84",
+        "overlay": "50:233",
+        "width": 350,
+        "x": 610,
+        "y": 12,
+        "visibleShapes": 7,
+        "outOfBounds": []
+      },
+      {
+        "scene": "12:143",
+        "overlay": "50:248",
+        "width": 540,
+        "x": 473,
+        "y": 120,
+        "visibleShapes": 8,
+        "outOfBounds": []
+      },
+      {
+        "scene": "12:203",
+        "overlay": "50:262",
+        "width": 420,
+        "x": 577,
+        "y": 28,
+        "visibleShapes": 9,
+        "outOfBounds": []
+      },
+      {
+        "scene": "13:18",
+        "overlay": "50:280",
+        "width": 760,
+        "x": 338,
+        "y": 70,
+        "visibleShapes": 7,
+        "outOfBounds": []
+      },
+      {
+        "scene": "13:79",
+        "overlay": "50:294",
+        "width": 320,
+        "x": 610,
+        "y": 370,
+        "visibleShapes": 7,
+        "outOfBounds": []
+      },
+      {
+        "scene": "13:138",
+        "overlay": "50:310",
+        "width": 380,
+        "x": 644,
+        "y": 110,
+        "visibleShapes": 9,
+        "outOfBounds": []
+      },
+      {
+        "scene": "13:198",
+        "overlay": "50:326",
+        "width": 460,
+        "x": 528,
+        "y": 140,
+        "visibleShapes": 10,
+        "outOfBounds": []
+      },
+      {
+        "scene": "13:258",
+        "overlay": "50:348",
+        "width": 560,
+        "x": 400,
+        "y": 240,
+        "visibleShapes": 5,
+        "outOfBounds": []
+      },
+      {
+        "scene": "13:317",
+        "overlay": "50:360",
+        "width": 1545,
+        "x": -52,
+        "y": -183,
+        "visibleShapes": 2,
+        "outOfBounds": []
+      }
+    ]
+  },
+  "overrides": {
+    "scene13": {
+      "productNode": "13:25",
+      "x": 543,
+      "y": 24,
+      "width": 350,
+      "height": 350,
+      "aboveVector": true
+    },
+    "scene18": {
+      "vectorWidth": 1545,
+      "x": -52,
+      "y": -183,
+      "hiddenGroups": [
+        "horizon-left",
+        "horizon-right",
+        "origin-sun"
+      ],
+      "baseRingYOffset": 36
+    }
+  },
+  "paletteMapping": {
+    "light": {
+      "#0A3028": "#FBF8F0",
+      "#124B3A": "#FBF8F0",
+      "#F3EFE3": "#124B3A"
+    }
+  }
+}

@@ -1,0 +1,151 @@
+{
+  "date": "2026-09-22",
+  "tool": "Built-in image_gen",
+  "asset": "public/video1/productFamily/standards-badges-generated-v1.png",
+  "dimensions": [
+    2172,
+    724
+  ],
+  "alpha": true,
+  "prompt": "Use case: logo-brand / standards badge strip.\nCreate ONE cohesive horizontal badge-strip image containing exactly FIVE regenerated standards badges, using the five badges at the top of the supplied reference as the identity reference. Ignore the products, blue poster, brand logo and other writing.\nRedesign the five badges for the Amin Chanar premium ivory-and-emerald commercial. Perfectly front-facing circles, identical diameters, precisely aligned on one horizontal baseline, generous even gaps, no perspective tilt or skew. The strip is wide, roughly 5:1, with all five badges fully visible and a modest transparent margin. Output genuine transparent background (alpha), no checkerboard or colored rectangle.\nStyle: beautifully crisp minimal flat graphic artwork, ivory circular interiors, thin deep emerald #0A3028 double rings, restrained warm-gold #D6BA75 accent, subtle understated check motif inherited from the reference. Emerald lettering. No glossy blue plastic, bevels, dimensional extrusion, ribbons, laurels, drop shadows or tiny circular microtype. The large main labels must remain exceptionally legible when small.\nExact main labels, LEFT TO RIGHT:\n1. \"ISO\" on first line, \"9001:2015\" on second line.\n2. \"ISO\" on first line, \"22000:2018\" on second line.\n3. \"HACCP\"\n4. \"GMP\"\n5. \"GHP\"\nThese exact five labels are the only text in the entire image. Use sturdy, clean sans-serif typography, numerals and punctuation perfectly correct. Put the small gold check above each main label, with identical placement and no overlap. Do not add certificate numbers, certifier names, claims, endorsements, official ISO globe symbols, dates beyond those supplied, extra badges or any other words. This is a clean graphic recreation of the five supplied badge identities, not a certificate document. One polished unified strip ready to place on an ivory design panel.",
+  "status": "Replaces the original tilted blue badge masks in both scene 9 keyframes. Stylized badge graphics based on user-supplied reference.",
+  "regions": [
+    {
+      "name": "ISO 9001:2015",
+      "x": 38,
+      "y": 149,
+      "width": 404,
+      "height": 404
+    },
+    {
+      "name": "ISO 22000:2018",
+      "x": 460,
+      "y": 149,
+      "width": 404,
+      "height": 404
+    },
+    {
+      "name": "HACCP",
+      "x": 882,
+      "y": 149,
+      "width": 404,
+      "height": 404
+    },
+    {
+      "name": "GMP",
+      "x": 1304,
+      "y": 149,
+      "width": 404,
+      "height": 404
+    },
+    {
+      "name": "GHP",
+      "x": 1726,
+      "y": 149,
+      "width": 404,
+      "height": 404
+    }
+  ],
+  "figmaAudit": {
+    "mutatedNodeIds": [
+      "12:35",
+      "12:49",
+      "12:56",
+      "12:63"
+    ],
+    "frames": [
+      {
+        "id": "12:14",
+        "badges": [
+          {
+            "id": "69:7",
+            "name": "Generated standards badge / ISO 9001:2015",
+            "x": 220,
+            "y": 447,
+            "width": 88,
+            "height": 88
+          },
+          {
+            "id": "69:8",
+            "name": "Generated standards badge / ISO 22000:2018",
+            "x": 332,
+            "y": 447,
+            "width": 88,
+            "height": 88
+          },
+          {
+            "id": "69:9",
+            "name": "Generated standards badge / HACCP",
+            "x": 444,
+            "y": 447,
+            "width": 88,
+            "height": 88
+          },
+          {
+            "id": "69:10",
+            "name": "Generated standards badge / GMP",
+            "x": 556,
+            "y": 447,
+            "width": 88,
+            "height": 88
+          },
+          {
+            "id": "69:11",
+            "name": "Generated standards badge / GHP",
+            "x": 668,
+            "y": 447,
+            "width": 88,
+            "height": 88
+          }
+        ],
+        "oldVisible": []
+      },
+      {
+        "id": "12:18",
+        "badges": [
+          {
+            "id": "69:2",
+            "name": "Generated standards badge / ISO 9001:2015",
+            "x": 220,
+            "y": 447,
+            "width": 88,
+            "height": 88
+          },
+          {
+            "id": "69:3",
+            "name": "Generated standards badge / ISO 22000:2018",
+            "x": 332,
+            "y": 447,
+            "width": 88,
+            "height": 88
+          },
+          {
+            "id": "69:4",
+            "name": "Generated standards badge / HACCP",
+            "x": 444,
+            "y": 447,
+            "width": 88,
+            "height": 88
+          },
+          {
+            "id": "69:5",
+            "name": "Generated standards badge / GMP",
+            "x": 556,
+            "y": 447,
+            "width": 88,
+            "height": 88
+          },
+          {
+            "id": "69:6",
+            "name": "Generated standards badge / GHP",
+            "x": 668,
+            "y": 447,
+            "width": 88,
+            "height": 88
+          }
+        ],
+        "oldVisible": []
+      }
+    ]
+  }
+}

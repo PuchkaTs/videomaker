@@ -1,0 +1,83 @@
+{
+  "_": "Gates AI reel. Edit this file, then run npm run build:gates-ai-reel (writes cues.json + stems). 'from' is seconds in the original YouTube video. A beat lasts lead + pre + voice + post (or 'hold'); its cuts share that time in proportion to 'len'. 'shots' lists the camera cuts inside each downloaded clip (seconds into the clip) and how to frame them: close = 4:5 crop centred on x, wide = 1.6x crop on Gates, ezra = crop on x, inset = the 1996 archive box.",
+  "credit": "Эх сурвалж: The Ezra Klein Show · The New York Times",
+  "voices": {
+    "N": {"name": "Uyanga", "id": "2cecqSnkajrth9sJSoEH"},
+    "G": {"name": "Ganbold", "id": "RbMF2tQ1nCK38TfvNGLk"}
+  },
+  "lines": [
+    {"id": "G1", "voice": "G", "text": "Үүний дэргэд цөмийн зэвсэг юу ч биш."},
+    {"id": "N1", "voice": "N", "text": "1996 онд Билл Гейтс компьютерийг бодож сэтгэдэг болгох нь маш хэцүү, бараг ахиц алга гэж байлаа. Гучин жилийн дараа...", "tts": "Мянга есөн зуун ерэн зургаан онд Билл Гейтс компьютерийг бодож сэтгэдэг болгох нь маш хэцүү, бараг ахиц алга гэж байлаа. Гучин жилийн дараа...", "captionMap": [["Мянга есөн зуун ерэн зургаан", "1996"]]},
+    {"id": "G2", "voice": "G", "text": "Өнгөрсөн оны сүүлээр хиймэл оюун над шиг сайн код бичдэг болсныг харлаа. Энэ бол миний хамгийн сайн чадвар. Арван гурваас хорин дөрвөн нас хүртлээ хэнээс ч илүү код бичихийг л зорьсон. Одоо тэд код бичих, алдаа олохдоо хүнээс давжээ."},
+    {"id": "N2", "voice": "N", "text": "Хүмүүсийн хорин жил анзаараагүй алдааг хиймэл оюун хэдхэн минутад олж байна."},
+    {"id": "N3a", "voice": "N", "text": "Хүний тархи, санах ой хязгаартай."},
+    {"id": "G3", "voice": "G", "text": "Харин цахиурт суурилсан оюун ухаанд ийм хязгаар байхгүй."},
+    {"id": "N3b", "voice": "N", "text": "Хиймэл оюун анагаахын бүх сэтгүүлийг уншиж, ховор өвчнийг эмчээс ч сайн оношилж байна."},
+    {"id": "G4", "voice": "G", "text": "Хэрэв хяналтаа алдвал бид шинэ төрөл зүйлийг бий болгоно. Бидний дэргэд нохой, муур ямар байдаг, түүний дэргэд бид тийм л байх болно."},
+    {"id": "G5", "voice": "G", "text": "Хиймэл оюуны компани бүр “бид зөвхөн ашгийн төлөө ажиллахгүй, аюултай шатанд хүрвэл ашгаасаа татгалзана” гэдэг. Харамсалтай нь энэ нь ганцхан компани байвал л ажиллана. Гэтэл олон компани уралдаж байна."},
+    {"id": "G6", "voice": "G", "text": "Хиймэл оюун нэгэнт заагийг давсан. Алан хядагчдад биологийн зэвсгээр хэдэн зуун сая хүнийг хөнөөхөд туслах чадвар өнөөдөр бий. Бүх банкны дансыг үймүүлж, цахилгааны сүлжээг зогсоох цахим халдлага ч өнөөдөр боломжтой."},
+    {"id": "G7", "voice": "G", "text": "Энэ бол хүн төрөлхтний урьд өмнө ойртож байсан хамгийн аюултай зүйл."}
+  ],
+  "clips": {
+    "c01": {"file": "gates-ai-reel/src/c01.mp4", "start": 1351.6, "end": 1358.0, "shots": [[0, "close", 1150], [4.8, "wide"]]},
+    "c02": {"file": "gates-ai-reel/src/c02.mp4", "start": 156.8, "end": 170.8, "shots": [[0, "close", 1270], [1.79, "inset"], [6.55, "close", 1315], [9.43, "inset"]]},
+    "c03": {"file": "gates-ai-reel/src/c03.mp4", "start": 328.8, "end": 363.2, "shots": [[0, "wide"], [10.43, "close", 1170], [17.1, "ezra", 680], [19.94, "close", 1265]]},
+    "c04": {"file": "gates-ai-reel/src/c04.mp4", "start": 628.0, "end": 652.0, "shots": [[0, "wide"], [4.88, "ezra", 560], [19.98, "close", 1290], [23.31, "wide"]]},
+    "c05": {"file": "gates-ai-reel/src/c05.mp4", "start": 516.8, "end": 611.2, "shots": [[0, "wide"], [11.39, "close", 1175], [21.27, "wide"], [26.28, "close", 1270], [35.45, "wide"], [52.43, "close", 1215], [86.29, "wide"]]},
+    "c07": {"file": "gates-ai-reel/src/c07.mp4", "start": 691.5, "end": 710.4, "shots": [[0, "close", 1310], [6.67, "wide"]]},
+    "c08": {"file": "gates-ai-reel/src/c08.mp4", "start": 934.6, "end": 946.0, "shots": [[0, "wide"], [2.84, "close", 1290]]}
+  },
+  "beats": [
+    {"id": "S1", "name": "Цөмийн зэвсэг", "lead": 1.95, "pre": 0.15, "voice": "G1", "post": 0.55, "source": "full",
+     "headline": {"text": "ЦӨМИЙН ЗЭВСЭГ Ч|ҮҮНИЙ ДЭРГЭД ЮУ Ч БИШ", "tone": "danger"}, "label": "Билл Гейтс",
+     "cuts": [{"clip": "c01", "from": 1352.1, "len": 1}]},
+    {"id": "S2", "name": "1996", "pre": 0.2, "voice": "N1", "post": 0.25, "source": "bed",
+     "headline": {"text": "1996:|«БАРАГ АХИЦ АЛГА»"}, "label": "Билл Гейтс, 1996",
+     "cuts": [
+       {"clip": "c02", "from": 158.62, "len": 4.7},
+       {"clip": "c02", "from": 163.4, "len": 2.8},
+       {"clip": "c02", "from": 166.25, "len": 4.5}
+     ]},
+    {"id": "S3", "name": "Код", "pre": 0.4, "voice": "G2", "post": 0.35, "source": "under",
+     "cuts": [
+       {"clip": "c03", "from": 329.6, "len": 3.2, "headline": {"text": "НАД ШИГ САЙН|КОД БИЧДЭГ БОЛСОН"}},
+       {"clip": "c03", "from": 337.6, "len": 7.6, "headline": {"text": "13–24 НАС:|ХЭНЭЭС Ч ИЛҮҮ КОД"}},
+       {"clip": "c03", "from": 355.3, "len": 7.3, "headline": {"text": "ОДОО:|ХҮНЭЭС ДАВСАН", "tone": "accent"}}
+     ]},
+    {"id": "S4", "name": "20 жил", "pre": 0.2, "voice": "N2", "post": 0.45, "source": "mute", "graphic": "code",
+     "headline": {"text": "20 ЖИЛ →|ХЭДХЭН МИНУТ", "tone": "accent"},
+     "cuts": [{"clip": "c04", "from": 628.2, "len": 1}]},
+    {"id": "S5a", "name": "Тархи", "pre": 0.1, "voice": "N3a", "post": 0.1, "source": "mute",
+     "headline": {"text": "ХҮНИЙ ТАРХИ|ХЯЗГААРТАЙ"},
+     "cuts": [{"clip": "c04", "from": 648.05, "len": 1}]},
+    {"id": "S5b", "name": "Хязгааргүй", "pre": 0.35, "voice": "G3", "post": 0.2, "source": "under",
+     "headline": {"text": "ХИЙМЭЛ ОЮУНД|ХЯЗГААР БАЙХГҮЙ", "tone": "accent"},
+     "cuts": [{"clip": "c05", "from": 517.4, "len": 1}]},
+    {"id": "S5c", "name": "Онош", "pre": 0.1, "voice": "N3b", "post": 0.2, "source": "under",
+     "headline": {"text": "ХОВОР ӨВЧНИЙГ|ЭМЧЭЭС Ч САЙН", "tone": "accent"},
+     "cuts": [{"clip": "c05", "from": 528.3, "len": 1}]},
+    {"id": "S5d", "name": "Нохой, муур", "pre": 0.4, "voice": "G4", "post": 0.5, "source": "under",
+     "headline": {"text": "БИД ТҮҮНИЙ ДЭРГЭД|НОХОЙ, МУУР ШИГ", "tone": "danger"},
+     "cuts": [
+       {"clip": "c05", "from": 546.2, "len": 5.5},
+       {"clip": "c05", "from": 561.0, "len": 4}
+     ]},
+    {"id": "S6", "name": "Уралдаан", "pre": 0.4, "voice": "G5", "post": 0.35, "source": "under",
+     "cuts": [
+       {"clip": "c05", "from": 570.2, "len": 10.5, "headline": {"text": "АШГИЙН УРАЛДААН"}},
+       {"clip": "c05", "from": 591.7, "len": 4.3, "headline": {"text": "ГАНЦ КОМПАНИ|БАЙВАЛ Л АЖИЛЛАНА"}},
+       {"clip": "c05", "from": 608.0, "len": 2.5, "headline": {"text": "ГЭТЭЛ ТЭД ОЛОН", "tone": "danger"}}
+     ]},
+    {"id": "S7", "name": "Өнөөдөр", "pre": 0.4, "voice": "G6", "post": 0.5, "source": "under", "graphic": "threats",
+     "headline": {"text": "ӨНӨӨДӨР|БОЛОМЖТОЙ", "tone": "danger"},
+     "cuts": [
+       {"clip": "c07", "from": 692.1, "len": 9.2},
+       {"clip": "c07", "from": 702.2, "len": 7.6}
+     ]},
+    {"id": "S8", "name": "Хамгийн аюултай", "lead": 3.5, "pre": 0.15, "voice": "G7", "post": 0.4, "source": "full",
+     "headline": {"text": "ХАМГИЙН|АЮУЛТАЙ ЗҮЙЛ", "tone": "danger"},
+     "cuts": [{"clip": "c08", "from": 935.2, "len": 1}]},
+    {"id": "S9", "name": "Төгсгөл", "hold": 3.4, "source": "mute", "graphic": "end",
+     "cuts": [{"clip": "c05", "from": 575.0, "len": 1}]}
+  ]
+}

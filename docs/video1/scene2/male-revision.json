@@ -1,0 +1,8 @@
+{
+  "date": "2026-09-22",
+  "tool": "Built-in image_gen",
+  "source": "public/video1/scene2/yak-milk-research-v1.png",
+  "image": "public/video1/scene2/yak-milk-research-male-v2.png",
+  "figmaNodeId": "10:67",
+  "prompt": "Edit target: the supplied generated Mongolian dairy-research photograph. Change only the depicted woman researcher into an adult Mongolian MAN researcher in his 40s, with short natural black hair and a clean-shaven masculine face. Preserve his thoughtful expression, same three-quarter profile gaze toward the raised milk sample, same position and pose, clear protective glasses, white lab coat and pale gloves. Keep the raised milk tube and both hands in the same positions. Preserve everything else as closely as possible: laboratory bench, milk bottle, milk/whey sample rack, stainless milk canister, centrifuge, microscope, yak photograph on the back wall, window and mountain view, forest-green cabinets, warm natural daylight, cinematic photographic realism, existing framing and landscape aspect ratio. Do not add text, logos, people, equipment or graphic elements. This is a fictional concept scene, not an actual company researcher. Output one edited photograph."
+}

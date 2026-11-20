@@ -1,0 +1,32 @@
+<!doctype html>
+<html lang="en"><head><meta charset="UTF-8"><meta name="viewport" content="width=device-width,initial-scale=1"><title>Footage review · VideoMaker</title><link rel="stylesheet" href="/style.css"><script type="module" src="/app.js"></script></head>
+<body>
+<header><a class="brand" href="/">◧ <strong>VideoMaker</strong></a><span class="header-section">Footage review</span><div class="header-actions"><button id="undo" disabled>↶ Undo last save</button><a class="studio-link" href="http://localhost:3000/Video1Draft" target="_blank" rel="noopener">Open Remotion ↗</a></div></header>
+<div class="workspace">
+  <aside class="sidebar"><div class="sidebar-top"><div class="eyebrow">VIDEO 1 / USED FOOTAGE</div><h2>Choose a placement</h2><p id="counts">Loading project…</p><input id="search" type="search" placeholder="Search scenes or filenames" aria-label="Search used footage"><select id="filter" aria-label="Filter footage"><option value="all">All used footage</option><option value="supplied">Supplied footage</option><option value="generated">Generated footage</option><option value="edited">Edited placements</option></select></div><nav id="placements" aria-label="Used footage placements"></nav></aside>
+  <main>
+    <div class="page-heading"><div><div class="eyebrow" id="placement-label">SOURCE REVIEW</div><h1 id="scene-title">Choose the moment.</h1><p id="scene-detail">Watch, mark a starting frame, and apply it to your scene.</p></div><span id="saved-state" class="pill">No changes</span></div>
+    <div id="notice" role="status" aria-live="polite"></div>
+    <div class="review-grid">
+      <section class="viewer" aria-label="Source video review">
+        <div class="video-stage"><video id="video" controls muted playsinline preload="metadata"></video><span class="stage-tag">SOURCE FOOTAGE</span></div>
+        <div class="transport"><div class="step-controls"><button id="back10" title="Back 10 frames" aria-label="Back 10 frames">−10</button><button id="back1" title="Previous frame (←)" aria-label="Previous frame">←</button><button id="play" aria-label="Play source">▶</button><button id="next1" title="Next frame (→)" aria-label="Next frame">→</button><button id="next10" title="Forward 10 frames" aria-label="Forward 10 frames">+10</button></div><div class="frame-readout"><span id="current-time">00:00.000</span><span id="current-frame">Frame 1</span></div><button id="mark" class="primary">Mark this frame <kbd>I</kbd></button></div>
+        <div class="scrubber"><label for="scrub" class="sr-only">Seek source frame</label><input id="scrub" type="range" min="0" max="1" step="1" value="0"><div class="range-track"><span id="selected-range"></span></div><div class="range-labels"><span>Source start</span><span id="range-caption">Green = selected portion</span><span id="source-end">Source end</span></div></div>
+        <div id="filmstrip" class="filmstrip" aria-label="Source frame thumbnails"></div>
+        <div class="viewer-footer"><span>← / → step one frame · Shift for ten · I marks start</span><span id="source-format"></span></div>
+      </section>
+      <aside class="inspector">
+        <div class="eyebrow">YOUR SELECTION</div><h2>Starting frame</h2><p>Play or scrub the source, then mark the moment you want.</p>
+        <label class="field-label" for="start-frame">First frame shown in this scene</label><div class="frame-input"><input id="start-frame" type="number" min="1" step="1" value="1"><span id="start-time">00:00.000</span></div>
+        <button id="jump-start" class="wide secondary">Jump to selected start</button>
+        <div class="selection-summary"><div><span>Scene slot</span><strong id="slot-duration">—</strong></div><div><span>Playback speed</span><strong id="playback-rate">—</strong></div><div><span>Source ends at</span><strong id="selection-end">—</strong></div></div>
+        <p id="speed-note" class="hint">Scene timing stays fixed.</p><p id="selection-error" role="alert"></p>
+        <button id="preview" class="wide secondary">▶ Preview selected portion</button>
+        <hr><div class="source-heading"><span class="eyebrow">SOURCE CLIP</span><button id="swap" class="text-button">Swap clip ↗</button></div><p id="source-name" class="source-name">—</p><span id="source-kind" class="pill"></span>
+        <div class="save-area"><button id="apply" class="wide primary" disabled>Apply to this placement</button><button id="reset" class="wide text-button" disabled>Restore original selection</button><p>Applies to this placement only. The narration and scene length stay fixed.</p></div>
+      </aside>
+    </div>
+  </main>
+</div>
+<dialog id="swap-dialog"><div class="dialog-heading"><div><div class="eyebrow">PROJECT LIBRARY</div><h2>Choose a replacement</h2></div><button id="close-swap" aria-label="Close clip picker">✕</button></div><p>Preview your choice before applying it.</p><div class="library-filters"><input id="library-search" type="search" placeholder="Search source filenames" aria-label="Search replacement clips"><select id="library-scope" aria-label="Replacement library scope"><option value="used">Used in this edit</option><option value="all">All project footage</option></select></div><div id="library" class="library-grid"></div></dialog>
+</body></html>

@@ -1,0 +1,596 @@
+{
+ "_": "Altman series, episode 2 («Туршлага биш, хэрэгсэл ялна»), from Y Combinator's 'Sam Altman: Never a Better Time to Do a Startup' (Startup School 2026, youtube ZIaOBAjvc38), 9:25–11:46. Edit this file, then npm run build:altman-ep2. 'from' is seconds in the original video. A beat lasts lead + pre + voice + post (or 'hold'); its cuts share that time in proportion to 'len', so keep each share inside its camera shot (shots are listed in docs/altman-series/storyboard.md, episode 2). Cuts are framed by x, zoom and cy. part/question/next drive the episode badge and the end card.",
+ "credit": "Эх сурвалж: Y Combinator · Startup School 2026",
+ "part": "2-р анги",
+ "question": "ТУРШЛАГА УУ,|ХЭРЭГСЭЛ ҮҮ?",
+ "next": {
+  "kicker": "3-р анги удахгүй",
+  "title": "БҮГД БИДНИЙГ|СОЛИОТОЙ ГЭЖ|БОДДОГ БАЙСАН"
+ },
+ "voices": {
+  "N": {
+   "name": "Mandukai",
+   "id": "UpomOl2r1953iSzRTZp3"
+  },
+  "G": {
+   "name": "Kublai",
+   "id": "LICDjZcDcyJwTAyvJ7mk"
+  }
+ },
+ "lines": [
+  {
+   "id": "N1",
+   "voice": "N",
+   "text": "Олон жилийн туршлагатай хүмүүсийг хиймэл оюуныг чөлөөтэй эзэмшсэн хүмүүс давж гарна гэж Сэм Алтман мөрийцөж байна."
+  },
+  {
+   "id": "N2",
+   "voice": "N",
+   "text": "Y Combinator-ын тэргүүн Гарри Тан завсарлагаанаар сонссон нэг асуултыг дамжуулав: докторын зэрэг хамгаалах хэрэгтэй юу? Цол зэрэг хэр чухал вэ?",
+   "tts": "Уай Комбинаторын тэргүүн Гарри Тан завсарлагаанаар сонссон нэг асуултыг дамжуулав: докторын зэрэг хамгаалах хэрэгтэй юу? Цол зэрэг хэр чухал вэ?",
+   "captionMap": [
+    [
+     "Уай Комбинаторын",
+     "Y Combinator-ын"
+    ]
+   ]
+  },
+  {
+   "id": "G1",
+   "voice": "G",
+   "text": "Ерөнхийд нь хэлэхэд, гарааны компаниуд технологи маш хурдан өөрчлөгдөж байх үед ялдаг. Зардал буурч, бүтээж турших хугацаа богино байх үед. Яг одоо энэ бүгд болж байна."
+  },
+  {
+   "id": "N3",
+   "voice": "N",
+   "text": "Алтман түүхээс жишээ татав: 1990-ээд оны сүүлчийн интернэтийн өсөлт, Фэйсбүүк дээрх програмууд, iPhone-ы програмын дэлгүүр нээгдсэн үе.",
+   "tts": "Алтман түүхээс жишээ татав: мянга есөн зуун ерээд оны сүүлчийн интернэтийн өсөлт, Фэйсбүүк дээрх програмууд, Ай Фоуны програмын дэлгүүр нээгдсэн үе.",
+   "captionMap": [
+    [
+     "мянга есөн зуун ерээд",
+     "1990-ээд"
+    ],
+    [
+     "Ай Фоуны",
+     "iPhone-ы"
+    ]
+   ]
+  },
+  {
+   "id": "G2",
+   "voice": "G",
+   "text": "Агуу гарааны компаниуд тогтолцоо өөрчлөгдөх үед бөөнөөрөө гарч ирдэг. Тэр үед зах зээлд ноёлж байсан том компаниуд давуу талаа ихээхэн алддаг."
+  },
+  {
+   "id": "G3",
+   "voice": "G",
+   "text": "Бас нэг зүйл бий. Өмнө нь мэргэшил олж авах, тодорхой ажлыг хийж чадах шилдэг хүмүүсийг ажилд авах нь хэцүү байсан. Одоо энэ эрс өөрчлөгдсөн."
+  },
+  {
+   "id": "N4",
+   "voice": "N",
+   "text": "Сүүлийн хэдэн сард Алтман шинэ төрлийн үүсгэн байгуулагчдыг олноор харжээ. Хиймэл оюуныг ашиглаж өссөн хүмүүс."
+  },
+  {
+   "id": "G4",
+   "voice": "G",
+   "text": "Тэд «бүхэл бүтэн компанийн ажлыг агентуудаар хийлгэнэ» гэж ярьдаг."
+  },
+  {
+   "id": "G5",
+   "voice": "G",
+   "text": "Дээр нь асар их тооцоолох хүчин чадал. Цаашид ийм компани улам олон гарна гэж би бодож байна."
+  },
+  {
+   "id": "G6",
+   "voice": "G",
+   "text": "Мэдээж мэдрэмж, санаачлага, бизнес хэрхэн ажилладгийг ойлгох нь чухал хэвээр. Жинхэнэ давуу тал хуурамчаас юугаараа ялгаатайг мэдэх хэрэгтэй."
+  },
+  {
+   "id": "G7",
+   "voice": "G",
+   "text": "Гэхдээ би мөрийцье: энэ өөрчлөлт олон жилийн туршлагатай хүмүүст биш…"
+  },
+  {
+   "id": "N8",
+   "voice": "N",
+   "text": "Гуравдугаар ангид: бүгд биднийг солиотой гэж боддог байсан. Дагаад хүлээж байгаарай.",
+   "take": "take2"
+  }
+ ],
+ "clips": {
+  "c01": {
+   "file": "altman-ep2/src/c01.mp4",
+   "start": 565,
+   "end": 705.9
+  }
+ },
+ "beats": [
+  {
+   "id": "N1",
+   "name": "Hook",
+   "lead": 0.9,
+   "pre": 0.1,
+   "voice": "N1",
+   "post": 0.25,
+   "source": "under",
+   "score": "soft",
+   "lowerThird": {
+    "name": "Сэм Алтман",
+    "roles": [
+     "ChatGPT-г бүтээсэн OpenAI-ийн үүсгэн байгуулагч",
+     "OpenAI-ийн гүйцэтгэх захирал",
+     "Y Combinator-ын ерөнхийлөгч асан"
+    ],
+    "at": 0.45,
+    "to": 8.15
+   },
+   "headline": {
+    "text": "ТУРШЛАГА БИШ,|ХЭРЭГСЭЛ|ЯЛНА",
+    "tone": "accent",
+    "big": true
+   },
+   "cuts": [
+    {
+     "clip": "c01",
+     "from": 609.8,
+     "len": 3.4,
+     "x": 680
+    },
+    {
+     "clip": "c01",
+     "from": 681.6,
+     "len": 2.6,
+     "x": 400,
+     "zoom": 1.15,
+     "cy": 470,
+     "mute": true
+    },
+    {
+     "clip": "c01",
+     "from": 653.8,
+     "len": 2.6,
+     "x": 680,
+     "zoom": 1.25,
+     "cy": 430,
+     "mute": true
+    }
+   ]
+  },
+  {
+   "id": "V1",
+   "name": "This moment feels very big",
+   "hold": 2.7,
+   "source": "full",
+   "score": "still",
+   "subtitle": [
+    {
+     "text": "Энэ мөч маш том",
+     "at": 0.15,
+     "to": 1.55
+    },
+    {
+     "text": "санагдаж байна.",
+     "at": 1.6,
+     "to": 2.6
+    }
+   ],
+   "cuts": [
+    {
+     "clip": "c01",
+     "from": 641.05,
+     "len": 1,
+     "x": 680,
+     "zoom": 1.25,
+     "cy": 430
+    }
+   ]
+  },
+  {
+   "id": "N2",
+   "name": "PhD or not",
+   "pre": 0.25,
+   "voice": "N2",
+   "post": 0.2,
+   "source": "under",
+   "score": "mid",
+   "label": "Гарри Тан · Y Combinator-ын тэргүүн",
+   "cuts": [
+    {
+     "clip": "c01",
+     "from": 573.0,
+     "len": 4.5,
+     "x": 1100,
+     "headline": {
+      "text": "ДОКТОРЫН ЗЭРЭГ|ХЭРЭГТЭЙ ЮУ?",
+      "tone": "accent"
+     }
+    },
+    {
+     "clip": "c01",
+     "from": 578.2,
+     "len": 4.5,
+     "x": 1110,
+     "zoom": 1.2,
+     "cy": 420,
+     "headline": {
+      "text": "ЦОЛ ЗЭРЭГ|ХЭР ЧУХАЛ ВЭ?"
+     }
+    }
+   ]
+  },
+  {
+   "id": "G1",
+   "name": "When startups win",
+   "pre": 0.2,
+   "voice": "G1",
+   "post": 0.2,
+   "source": "under",
+   "score": "drive",
+   "cuts": [
+    {
+     "clip": "c01",
+     "from": 590.4,
+     "len": 5,
+     "x": 680,
+     "headline": {
+      "text": "ТЕХНОЛОГИ ХУРДАН|ӨӨРЧЛӨГДӨХ ҮЕД"
+     }
+    },
+    {
+     "clip": "c01",
+     "from": 598.4,
+     "len": 4,
+     "x": 680,
+     "zoom": 1.25,
+     "cy": 430,
+     "headline": {
+      "text": "ЗАРДАЛ БУУРЧ,|ХУГАЦАА БОГИНОСНО"
+     }
+    },
+    {
+     "clip": "c01",
+     "from": 604.9,
+     "len": 2.6,
+     "x": 680,
+     "headline": {
+      "text": "ЯГ ОДОО|БҮГД БОЛЖ БАЙНА",
+      "tone": "accent"
+     }
+    }
+   ]
+  },
+  {
+   "id": "N3",
+   "name": "Startup clusters in history",
+   "pre": 0.2,
+   "voice": "N3",
+   "post": 0.2,
+   "source": "under",
+   "score": "mid",
+   "cuts": [
+    {
+     "clip": "c01",
+     "from": 613.2,
+     "len": 3,
+     "x": 680,
+     "headline": {
+      "text": "1990-ЭЭД ОН:|ИНТЕРНЭТ"
+     }
+    },
+    {
+     "clip": "c01",
+     "from": 621.0,
+     "len": 3,
+     "x": 680,
+     "zoom": 1.25,
+     "cy": 430,
+     "headline": {
+      "text": "ФЭЙСБҮҮК ДЭЭРХ|ПРОГРАМУУД"
+     }
+    },
+    {
+     "clip": "c01",
+     "from": 624.9,
+     "len": 3,
+     "x": 680,
+     "headline": {
+      "text": "IPHONE-Ы|ПРОГРАМЫН ДЭЛГҮҮР"
+     }
+    }
+   ]
+  },
+  {
+   "id": "G2",
+   "name": "Ecosystem shifts",
+   "pre": 0.2,
+   "voice": "G2",
+   "post": 0.2,
+   "source": "under",
+   "score": "drive",
+   "cuts": [
+    {
+     "clip": "c01",
+     "from": 629.4,
+     "len": 5,
+     "x": 680,
+     "headline": {
+      "text": "ТОГТОЛЦОО|ӨӨРЧЛӨГДӨХ ҮЕД"
+     }
+    },
+    {
+     "clip": "c01",
+     "from": 634.9,
+     "len": 5,
+     "x": 680,
+     "zoom": 1.25,
+     "cy": 430,
+     "headline": {
+      "text": "ТОМ КОМПАНИУД|ДАВУУ ТАЛАА АЛДАНА",
+      "tone": "accent"
+     }
+    }
+   ]
+  },
+  {
+   "id": "G3",
+   "name": "Expertise was hard to get",
+   "pre": 0.2,
+   "voice": "G3",
+   "post": 0.25,
+   "source": "under",
+   "score": "mid",
+   "cuts": [
+    {
+     "clip": "c01",
+     "from": 644.4,
+     "len": 4,
+     "x": 680,
+     "headline": {
+      "text": "ӨМНӨ: МЭРГЭШИЛ|ОЛОХОД ХЭЦҮҮ"
+     }
+    },
+    {
+     "clip": "c01",
+     "from": 650.0,
+     "len": 3.6,
+     "x": 680,
+     "zoom": 1.25,
+     "cy": 430,
+     "headline": {
+      "text": "ШИЛДЭГ ХҮМҮҮС|АВАХАД ХЭЦҮҮ"
+     }
+    },
+    {
+     "clip": "c01",
+     "from": 657.9,
+     "len": 2,
+     "x": 680,
+     "headline": {
+      "text": "ОДОО ЭРС|ӨӨРЧЛӨГДСӨН",
+      "tone": "accent"
+     }
+    }
+   ]
+  },
+  {
+   "id": "N4",
+   "name": "The turn: grew up with AI",
+   "pre": 0.2,
+   "voice": "N4",
+   "post": 0.2,
+   "source": "under",
+   "score": "drive",
+   "cuts": [
+    {
+     "clip": "c01",
+     "from": 660.4,
+     "len": 3.9,
+     "x": 680,
+     "headline": {
+      "text": "ШИНЭ ТӨРЛИЙН|ҮҮСГЭН БАЙГУУЛАГЧИД",
+      "tone": "accent"
+     }
+    },
+    {
+     "clip": "c01",
+     "from": 664.8,
+     "len": 3.9,
+     "x": 680,
+     "zoom": 1.3,
+     "cy": 420,
+     "headline": {
+      "text": "ХИЙМЭЛ ОЮУНТАЙ|ХАМТ ӨССӨН",
+      "tone": "accent"
+     }
+    }
+   ]
+  },
+  {
+   "id": "G4",
+   "name": "A startup of agents",
+   "pre": 0.2,
+   "voice": "G4",
+   "post": 0.15,
+   "source": "under",
+   "score": "drive",
+   "cuts": [
+    {
+     "clip": "c01",
+     "from": 668.84,
+     "len": 1,
+     "x": 680,
+     "headline": {
+      "text": "БҮТЭН КОМПАНИ|АГЕНТУУДААР"
+     }
+    }
+   ]
+  },
+  {
+   "id": "V3",
+   "name": "Four of us",
+   "hold": 1.6,
+   "source": "full",
+   "score": "still",
+   "subtitle": {
+    "text": "Бид дөрөв. Дөрөвхөн хүн.",
+    "at": 0.1,
+    "to": 1.5
+   },
+   "cuts": [
+    {
+     "clip": "c01",
+     "from": 673.35,
+     "len": 1,
+     "x": 680,
+     "zoom": 1.25,
+     "cy": 430
+    }
+   ]
+  },
+  {
+   "id": "G5",
+   "name": "Much more of that",
+   "pre": 0.2,
+   "voice": "G5",
+   "post": 0.2,
+   "source": "under",
+   "score": "drive",
+   "cuts": [
+    {
+     "clip": "c01",
+     "from": 674.95,
+     "len": 2.2,
+     "x": 680,
+     "headline": {
+      "text": "+ АСАР ИХ|ТООЦООЛОХ ХҮЧИН"
+     }
+    },
+    {
+     "clip": "c01",
+     "from": 616.7,
+     "len": 4,
+     "x": 680,
+     "zoom": 1.25,
+     "cy": 430,
+     "headline": {
+      "text": "ИЙМ КОМПАНИ|УЛАМ ОЛШИРНО",
+      "tone": "accent"
+     }
+    }
+   ]
+  },
+  {
+   "id": "G6",
+   "name": "Taste and agency still matter",
+   "pre": 0.25,
+   "voice": "G6",
+   "post": 0.2,
+   "source": "under",
+   "score": "soft",
+   "cuts": [
+    {
+     "clip": "c01",
+     "from": 679.6,
+     "len": 1.6,
+     "x": 680,
+     "headline": {
+      "text": "МЭДРЭМЖ, САНААЧЛАГА|ЧУХАЛ ХЭВЭЭР"
+     }
+    },
+    {
+     "clip": "c01",
+     "from": 684.6,
+     "len": 3.8,
+     "x": 400,
+     "zoom": 1.15,
+     "cy": 470
+    },
+    {
+     "clip": "c01",
+     "from": 688.7,
+     "len": 5.2,
+     "x": 330,
+     "zoom": 1.4,
+     "cy": 420,
+     "headline": {
+      "text": "ЖИНХЭНЭ ДАВУУ ТАЛЫГ|ХУУРМАГААС ЯЛГА"
+     }
+    }
+   ]
+  },
+  {
+   "id": "G7",
+   "name": "I would bet",
+   "pre": 0.15,
+   "voice": "G7",
+   "post": 0.05,
+   "source": "under",
+   "score": "soft",
+   "cuts": [
+    {
+     "clip": "c01",
+     "from": 694.71,
+     "len": 1,
+     "x": 680,
+     "headline": {
+      "text": "ОЛОН ЖИЛИЙН|ТУРШЛАГА БИШ…"
+     }
+    }
+   ]
+  },
+  {
+   "id": "V2",
+   "name": "Fluency with the tools",
+   "hold": 3.3,
+   "source": "full",
+   "score": "still",
+   "headline": {
+    "text": "ХЭРЭГСЛЭЭ ЭЗЭМШСЭН|ХҮМҮҮС ЯЛНА",
+    "tone": "accent"
+   },
+   "subtitle": [
+    {
+     "text": "…хэрэгслээ чөлөөтэй",
+     "at": 0.2,
+     "to": 1.6
+    },
+    {
+     "text": "эзэмшсэн хүмүүст ашигтай.",
+     "at": 1.65,
+     "to": 3.2
+    }
+   ],
+   "cuts": [
+    {
+     "clip": "c01",
+     "from": 699.95,
+     "len": 1,
+     "x": 680,
+     "zoom": 1.25,
+     "cy": 430
+    }
+   ]
+  },
+  {
+   "id": "END",
+   "name": "End card and part 3 teaser",
+   "pre": 1.6,
+   "voice": "N8",
+   "post": 1.4,
+   "source": "mute",
+   "graphic": "end",
+   "score": "end",
+   "cuts": [
+    {
+     "clip": "c01",
+     "from": 601.1,
+     "len": 1,
+     "x": 680,
+     "mute": true
+    }
+   ]
+  }
+ ],
+ "turn": "N4"
+}

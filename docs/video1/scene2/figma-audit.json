@@ -1,0 +1,45 @@
+{
+  "frames": [
+    {
+      "id": "10:66",
+      "width": 960,
+      "height": 540,
+      "images": [
+        {
+          "id": "10:67",
+          "name": "AI concept / Mongolian male yak-milk researcher / scene2/yak-milk-research-male-v2.png",
+          "x": 0,
+          "y": 0,
+          "w": 960,
+          "h": 540,
+          "imageHashes": [
+            "2294712a2e9c7aaa8f638a893b3b71ec3833c5a9"
+          ]
+        }
+      ]
+    },
+    {
+      "id": "10:70",
+      "width": 960,
+      "height": 540,
+      "images": [
+        {
+          "id": "10:71",
+          "name": "AI concept / Milk and whey sampling / scene2/milk-whey-sampling-v1.png",
+          "x": 548,
+          "y": 0,
+          "w": 412,
+          "h": 270,
+          "imageHashes": [
+            "1d798f039211998f9d7f4bd1006821addfc860c1"
+          ]
+        }
+      ]
+    }
+  ],
+  "boardTextOverflow": [],
+  "vectorPhotoIntersections": [],
+  "vectorGeometryOutsideKeyframe": [],
+  "voiceoverUnchanged": true,
+  "latestImageRevision": "Male researcher replacement visually verified; frame geometry unchanged."
+}

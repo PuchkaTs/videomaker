@@ -1,0 +1,79 @@
+{
+  "_": "Fitzone H01 «Ажлын дараах стресс». Edit this file, then run npm run build:fitzone-h01 (writes cues.json + stems). 'from' is seconds in the original video (Huberman clips) or in the generated clip (b-roll). A beat lasts lead + pre + voice + post (or 'hold'); its cuts share that time in proportion to 'len'. 'audio' plays one continuous stretch of interview sound under the whole beat (full = at level, under = ducked once the Mongolian voice starts, bed = low throughout), whatever the picture cuts to. 'fx' on a cut: narrow = the edges close in like tunnel vision, widen = they open out. Shot kinds: med = Huberman's medium shot, close = his close-up, cover = a vertical clip filling the panel.",
+  "credit": "Эх сурвалж: Huberman Lab, PNAS 2015 · Зарим дүрс: хиймэл оюун",
+  "voices": {
+    "N": {"name": "Uyanga", "id": "2cecqSnkajrth9sJSoEH"},
+    "G": {"name": "Ganbold", "id": "RbMF2tQ1nCK38TfvNGLk"}
+  },
+  "lines": [
+    {"id": "N1", "voice": "N", "text": "Стэнфордын мэдрэлийн эрдэмтэн Эндрю Хуберман ажлын дараах стрессийн талаар ингэж хэлдэг."},
+    {"id": "G1", "voice": "G", "text": "Стресстэй үед хүүхэн хараа томорч, хараа маань нарийсдаг. Зориуд эргэн тойрноо өргөн харвал тархины сэрэмжлүүлгийн хэлхээ суларч, сэтгэл тайвширдаг."},
+    {"id": "N5", "voice": "N", "text": "Гадаа алхахад бид алсыг, эргэн тойрноо өргөн хардаг. Стэнфордын судалгаагаар байгальд 90 минут алхсан хүмүүсийн нэг л бодлоо давтан эргэцүүлэх нь багасч, тархины холбогдох хэсгийн идэвх буурсан байна.", "tts": "Гадаа алхахад бид алсыг, эргэн тойрноо өргөн хардаг. Стэнфордын судалгаагаар байгальд ерэн минут алхсан хүмүүсийн нэг л бодлоо давтан эргэцүүлэх нь багасч, тархины холбогдох хэсгийн идэвх буурсан байна.", "captionMap": [["ерэн", "90"]]},
+    {"id": "G2", "voice": "G", "text": "Ажлаас буугаад нар жаргаагүй байвал тайван алхаад ирээрэй. Энэ нь стрессийн дааврыг бууруулахад тусална."},
+    {"id": "N2", "voice": "N", "text": "Тогтмол хөдөлгөөн стрессээ зохицуулахад тусалдаг. Тухтай хэмнэлээр алхахаас эхлэхэд хангалттай."},
+    {"id": "N3", "voice": "N", "text": "Гэхдээ шууд тайвширна гэсэн үг биш. Стресс удаан үргэлжилбэл мэргэжлийн хүнд хандаарай."},
+    {"id": "N4", "voice": "N", "text": "Өнөөдрийн алхах завсарлагаа төлөвлөөд энэ бичлэгийг хадгалаарай."}
+  ],
+  "clips": {
+    "c01": {"file": "fitzone-h01/src/c01.mp4", "start": 3100, "end": 3135, "shots": [[0, "med"]]},
+    "c02": {"file": "fitzone-h01/src/c02.mp4", "start": 7445, "end": 7478, "shots": [[0, "med"], [13.28, "close"], [16.05, "med"]]},
+    "c03": {"file": "fitzone-h01/src/c03.mp4", "start": 30, "end": 60, "shots": [[0, "close"], [1.03, "med"]]},
+    "c04": {"file": "fitzone-h01/src/c04.mp4", "start": 3584, "end": 3645, "shots": [[0, "med", 960]]},
+    "b0": {"file": "fitzone-h01/broll/b0.mp4", "start": 0, "end": 5, "shots": [[0, "cover", 760]], "silent": true},
+    "b2": {"file": "fitzone-h01/broll/b2.mp4", "start": 0, "end": 5, "shots": [[0, "cover"]], "silent": true},
+    "b3": {"file": "fitzone-h01/broll/b3.mp4", "start": 0, "end": 5, "shots": [[0, "cover", 1100]], "silent": true},
+    "b4": {"file": "fitzone-h01/broll/b4.mp4", "start": 0, "end": 5, "shots": [[0, "cover"]], "silent": true},
+    "b5": {"file": "fitzone-h01/broll/b5.mp4", "start": 0, "end": 5, "shots": [[0, "cover"]], "silent": true},
+    "b6": {"file": "fitzone-h01/broll/b6.mp4", "start": 0, "end": 5, "shots": [[0, "cover", 820]], "silent": true},
+    "b7": {"file": "fitzone-h01/broll/b7.mp4", "start": 0, "end": 5, "shots": [[0, "cover"]], "silent": true},
+    "b8": {"file": "fitzone-h01/broll/b8.mp4", "start": 0, "end": 8, "shots": [[0, "cover", 1000]], "silent": true},
+    "b9": {"file": "fitzone-h01/broll/b9.mp4", "start": 0, "end": 8, "shots": [[0, "cover"]], "silent": true},
+    "b10": {"file": "fitzone-h01/broll/b10.mp4", "start": 0, "end": 5, "shots": [[0, "cover"]], "silent": true}
+  },
+  "beats": [
+    {"id": "A1", "name": "Тайван алх", "hold": 2.55, "audio": {"clip": "c02", "from": 7458.5, "mode": "full"},
+     "headline": {"text": "СТРЕССЭЭ ГАРГАХЫН ТУЛД|ХҮЧТЭЙ ГҮЙХ ЁСТОЙ ЮУ?", "tone": "accent"},
+     "subtitle": {"text": "Тайван алхаад ирээрэй.", "at": 0.5, "to": 2.45},
+     "cuts": [{"clip": "c02", "from": 7458.5, "len": 1}]},
+    {"id": "A2", "name": "Хуберман", "pre": 0.25, "voice": "N1", "post": 0.3, "audio": {"clip": "c03", "from": 31.2, "mode": "bed"},
+     "label": "Эндрю Хуберман · Стэнфордын мэдрэлийн эрдэмтэн",
+     "headline": {"text": "ЭРДЭМТЭН ЮУ|ГЭЖ ХЭЛДЭГ ВЭ?"},
+     "cuts": [{"clip": "c03", "from": 31.2, "len": 1}]},
+    {"id": "A3", "name": "Хараа нарийсна", "lead": 0.6, "pre": 0.05, "voice": "G1", "post": 0.3, "audio": {"clip": "c04", "from": 3588.2, "mode": "under"},
+     "cuts": [
+       {"clip": "c04", "from": 3593.4, "len": 2.6, "headline": {"text": "СТРЕССТЭЙ ҮЕД|ХАРАА НАРИЙСНА"}},
+       {"clip": "b0", "from": 0.3, "len": 2.7, "fx": "narrow"},
+       {"clip": "c04", "from": 3618.2, "len": 2.2, "headline": {"text": "ӨРГӨН ХАРАХАД|ТАЙВШИРНА", "tone": "accent"}},
+       {"clip": "b10", "from": 0.2, "len": 2.8, "fx": "widen"}
+     ]},
+    {"id": "A3b", "name": "Судалгаа", "pre": 0.2, "voice": "N5", "post": 0.35, "graphic": "study",
+     "cuts": [
+       {"clip": "b5", "from": 0.2, "len": 4.2, "headline": {"text": "ГАДАА АЛХАХАД|АЛСЫГ ХАРДАГ"}},
+       {"clip": "b9", "from": 0.2, "len": 7.6},
+       {"clip": "b4", "from": 2.85, "len": 2}
+     ]},
+    {"id": "A4", "name": "Тайван алхалт", "lead": 0.5, "pre": 0.05, "voice": "G2", "post": 0.3, "audio": {"clip": "c02", "from": 7454.2, "mode": "under"},
+     "cuts": [
+       {"clip": "c02", "from": 7454.2, "len": 2.6, "headline": {"text": "АЖЛЫН ДАРАА"}},
+       {"clip": "b2", "from": 0.3, "len": 1.7},
+       {"clip": "b3", "from": 0.3, "len": 2.6, "headline": {"text": "ТАЙВАН|АЛХААД ИР", "tone": "accent"}},
+       {"clip": "b4", "from": 0.2, "len": 4, "headline": {"text": "СТРЕССИЙН ДААВАР|БУУРАХАД ТУСАЛНА", "tone": "accent"}}
+     ]},
+    {"id": "A5", "name": "Тогтмол хөдөлгөөн", "pre": 0.2, "voice": "N2", "post": 0.3,
+     "cuts": [
+       {"clip": "b5", "from": 0.2, "len": 4.6, "headline": {"text": "ТОГТМОЛ|ХӨДӨЛГӨӨН"}},
+       {"clip": "b4", "from": 2.2, "len": 2.8, "headline": {"text": "ТУХТАЙ ХЭМНЭЛЭЭР|АЛХААД Л ЭХЭЛ", "tone": "accent"}}
+     ]},
+    {"id": "A6", "name": "Санамж", "pre": 0.2, "voice": "N3", "post": 0.3,
+     "headline": {"text": "УДААН ҮРГЭЛЖИЛБЭЛ|МЭРГЭЖЛИЙН ХҮНД ХАНД"},
+     "cuts": [
+       {"clip": "b6", "from": 0.1, "len": 3.4},
+       {"clip": "b7", "from": 0.3, "len": 3.3}
+     ]},
+    {"id": "A7", "name": "Гүйлтийн зам", "pre": 0.3, "voice": "N4", "post": 0.4,
+     "headline": {"text": "ӨНӨӨДӨР Л|АЛХААРАЙ", "tone": "accent"},
+     "cuts": [{"clip": "b8", "from": 0.2, "len": 1}]},
+    {"id": "A8", "name": "Төгсгөл", "hold": 3.2, "graphic": "end",
+     "cuts": [{"clip": "b8", "from": 4.75, "len": 1}]}
+  ]
+}

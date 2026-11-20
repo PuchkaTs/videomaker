@@ -4,7 +4,21 @@ One private repository for the Амин чанар commercial: source code, voic
 
 Repository: https://github.com/PuchkaTs/videomaker (private). Clone it through GitHub Desktop while signed into the owning account, or use `git clone https://github.com/PuchkaTs/videomaker.git` with authenticated Git.
 
-Read [the production handoff](docs/HANDOFF.md). Video1Draft is 1920×1080, 30 fps, with the full 158.832-second voiceover and three product-image holds. The 18-scene Figma storyboard has not yet been implemented in Remotion.
+Read [the production handoff](docs/HANDOFF.md). Video1Draft implements all 18 scenes at 1920×1080, 30 fps, with the complete 158.832-second voiceover.
+
+## Review used footage
+
+Run `npm run review:footage`, then open http://127.0.0.1:3011. Node.js 24 and FFmpeg/ffprobe must be installed. Keep `npm run dev` running separately for Remotion Studio.
+
+1. Select a used footage placement in the left sidebar.
+2. Watch or scrub the source. Use ← / → to step one source frame, or Shift for ten.
+3. Click **Mark this frame** (or press **I**) to choose the first frame. The UI numbers source frames from 1.
+4. Use **Swap clip** to choose a different source. The picker starts with used clips; **All project footage** includes unused alternatives.
+5. **Preview selected portion**, then **Apply to this placement**. Remotion refreshes automatically. Undo or restore the original selection if needed.
+
+Edits are saved to `src/video1/footage-edits.json` and apply to one placement at a time. Repeated uses of a source remain independent. Scene durations, neighbouring cuts, narration and animations stay fixed. If the remaining footage is short, the editor shows the slower playback rate; unusably late frames are rejected. The original media files are never modified. Existing MP4 exports need a fresh render after changes.
+
+The server listens only on the local computer. Source metadata, thumbnails and recovery snapshots are cached under ignored `work/footage-editor/`. **Undo last save** covers the current server session; recovery snapshots remain on disk after restart.
 
 ## Mac setup
 
@@ -28,6 +42,8 @@ For the transfer ZIP, skip the two git lfs commands: it includes real media file
 ## Commands
 
 - `npm run dev`: Remotion Studio.
+- `npm run review:footage`: Watch used sources, mark starting frames and swap clips.
+- `npm run test:footage`: Footage selection, timing, persistence and undo tests.
 - `npm run check`: TypeScript validation.
 - `npm run verify:assets`: Verify original source assets by SHA-256.
 - `npm run render:video1`: Export outputs/video1-draft.mp4.

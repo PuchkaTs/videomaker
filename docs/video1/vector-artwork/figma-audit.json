@@ -1,0 +1,304 @@
+{
+  "page": "44:2",
+  "artboards": 18,
+  "scenes": [
+    {
+      "id": "44:3",
+      "name": "01 / A promise born in Mongolia",
+      "width": 960,
+      "height": 540,
+      "groups": [
+        "rising-sun",
+        "mountain-ranges",
+        "pasture-contours",
+        "research-seed"
+      ],
+      "vectorCount": 8,
+      "imageFills": 0,
+      "overflow": []
+    },
+    {
+      "id": "44:17",
+      "name": "02 / The curiosity behind the product",
+      "width": 960,
+      "height": 540,
+      "groups": [
+        "orbit",
+        "flask",
+        "milk-sample",
+        "sample-bubbles",
+        "conceptual-chain",
+        "curiosity-point"
+      ],
+      "vectorCount": 11,
+      "imageFills": 0,
+      "overflow": []
+    },
+    {
+      "id": "44:41",
+      "name": "03 / The first milestone",
+      "width": 960,
+      "height": 540,
+      "groups": [
+        "timeline",
+        "past-points",
+        "milestone-stem",
+        "milestone-banner",
+        "milestone-anchor",
+        "future-points"
+      ],
+      "vectorCount": 12,
+      "imageFills": 0,
+      "overflow": []
+    },
+    {
+      "id": "44:66",
+      "name": "04 / Research becomes production",
+      "width": 960,
+      "height": 540,
+      "groups": [
+        "flow-inlet",
+        "sample-drop",
+        "processing-vessel",
+        "production-vessel",
+        "transfer-path",
+        "outlet",
+        "platform"
+      ],
+      "vectorCount": 11,
+      "imageFills": 0,
+      "overflow": []
+    },
+    {
+      "id": "44:86",
+      "name": "05 / The value of yak milk",
+      "width": 960,
+      "height": 540,
+      "groups": [
+        "distant-ridge",
+        "yak-silhouette",
+        "milk-drop",
+        "pasture",
+        "grass"
+      ],
+      "vectorCount": 8,
+      "imageFills": 0,
+      "overflow": []
+    },
+    {
+      "id": "44:101",
+      "name": "06 / Making the invisible understandable",
+      "width": 960,
+      "height": 540,
+      "groups": [
+        "source-protein",
+        "source-nodes",
+        "processing-gate",
+        "flow-lines",
+        "separated-links",
+        "released-nodes",
+        "gold-particles"
+      ],
+      "vectorCount": 16,
+      "imageFills": 0,
+      "overflow": []
+    },
+    {
+      "id": "44:138",
+      "name": "07 / A clear time-based message",
+      "width": 960,
+      "height": 540,
+      "groups": [
+        "clock-outline",
+        "minute-marks",
+        "clock-hand-long",
+        "clock-hand-short",
+        "clock-pivot",
+        "time-arc",
+        "milk-cue"
+      ],
+      "vectorCount": 18,
+      "imageFills": 0,
+      "overflow": []
+    },
+    {
+      "id": "44:165",
+      "name": "08 / Twenty building blocks",
+      "width": 960,
+      "height": 540,
+      "groups": [
+        "open-brackets",
+        "twenty-individual-blocks",
+        "highlight-links"
+      ],
+      "vectorCount": 22,
+      "imageFills": 0,
+      "overflow": []
+    },
+    {
+      "id": "44:211",
+      "name": "09 / A growing family of products",
+      "width": 960,
+      "height": 540,
+      "groups": [
+        "six-branches",
+        "family-center",
+        "family-orbit",
+        "open-ended-growth"
+      ],
+      "vectorCount": 9,
+      "imageFills": 0,
+      "overflow": []
+    },
+    {
+      "id": "44:231",
+      "name": "10 / Value stays in Mongolia",
+      "width": 960,
+      "height": 540,
+      "groups": [
+        "circulation-top",
+        "circulation-bottom",
+        "ger-body",
+        "ger-roof",
+        "ger-door",
+        "pasture-lines"
+      ],
+      "vectorCount": 7,
+      "imageFills": 0,
+      "overflow": []
+    },
+    {
+      "id": "44:245",
+      "name": "11 / Quality made visible",
+      "width": 960,
+      "height": 540,
+      "groups": [
+        "continuous-route",
+        "step-01",
+        "step-02",
+        "inspection-lens",
+        "inspection-focus"
+      ],
+      "vectorCount": 8,
+      "imageFills": 0,
+      "overflow": []
+    },
+    {
+      "id": "44:259",
+      "name": "12 / A natural continuation",
+      "width": 960,
+      "height": 540,
+      "groups": [
+        "soil-rings",
+        "growing-stem",
+        "left-leaf",
+        "right-leaf",
+        "root-lines",
+        "natural-light"
+      ],
+      "vectorCount": 9,
+      "imageFills": 0,
+      "overflow": []
+    },
+    {
+      "id": "44:277",
+      "name": "13 / A product in the spotlight",
+      "width": 960,
+      "height": 540,
+      "groups": [
+        "spotlight-left",
+        "spotlight-right",
+        "hero-halo",
+        "podium-base",
+        "podium-top",
+        "hero-spark"
+      ],
+      "vectorCount": 7,
+      "imageFills": 0,
+      "overflow": []
+    },
+    {
+      "id": "44:291",
+      "name": "14 / Nutrition for everyday life",
+      "width": 960,
+      "height": 540,
+      "groups": [
+        "morning-sun",
+        "table-line",
+        "cup-body",
+        "cup-handle",
+        "milk-surface",
+        "nourishment-drop",
+        "daily-rhythm"
+      ],
+      "vectorCount": 7,
+      "imageFills": 0,
+      "overflow": []
+    },
+    {
+      "id": "44:307",
+      "name": "15 / Collaboration and observation",
+      "width": 960,
+      "height": 540,
+      "groups": [
+        "shared-network",
+        "researcher-left",
+        "researcher-right",
+        "shared-notebook",
+        "observation-point"
+      ],
+      "vectorCount": 9,
+      "imageFills": 0,
+      "overflow": []
+    },
+    {
+      "id": "44:322",
+      "name": "16 / Nature, science and modern craft",
+      "width": 960,
+      "height": 540,
+      "groups": [
+        "nature-leaf",
+        "craft-connector",
+        "science-links",
+        "science-nodes",
+        "shared-origin",
+        "unity-arc"
+      ],
+      "vectorCount": 10,
+      "imageFills": 0,
+      "overflow": []
+    },
+    {
+      "id": "44:344",
+      "name": "17 / Little by little",
+      "width": 960,
+      "height": 540,
+      "groups": [
+        "outer-ripple",
+        "middle-ripple",
+        "inner-ripple",
+        "falling-drop",
+        "drop-highlight"
+      ],
+      "vectorCount": 5,
+      "imageFills": 0,
+      "overflow": []
+    },
+    {
+      "id": "44:356",
+      "name": "18 / The final brand reveal",
+      "width": 960,
+      "height": 540,
+      "groups": [
+        "horizon-left",
+        "horizon-right",
+        "open-brand-arch",
+        "base-ring",
+        "origin-sun"
+      ],
+      "vectorCount": 5,
+      "imageFills": 0,
+      "overflow": []
+    }
+  ]
+}

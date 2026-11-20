@@ -1,0 +1,151 @@
+{
+  "method": "Mongolian audio word timing via local MLX Whisper large-v3-turbo; boundaries matched to supplied exact narration. Separate 39-56s pass recovered a skipped segment. ASR wording is imperfect and was NOT substituted for approved copy. Frame rounding at 30fps.",
+  "voiceoverSeconds": 158.832,
+  "durationFrames": 4765,
+  "scenes": [
+    {
+      "scene": 1,
+      "startFrame": 0,
+      "endFrameExclusive": 240,
+      "startSeconds": 0.0,
+      "endSeconds": 8.0,
+      "sourceExcerpt": "Бага Рашаант компанийн Амин чанар брэнд нь монгол эрдэмтдийн 20 гаруй жилийн туршилт судалгааны үр дүнгээс эхтэй."
+    },
+    {
+      "scene": 2,
+      "startFrame": 240,
+      "endFrameExclusive": 470,
+      "startSeconds": 8.0,
+      "endSeconds": 15.666666666666666,
+      "sourceExcerpt": "Энэ хугацаанд сарлагийн сүү шар сүү болон адууны цуснаас амин хүчил пептид ялган авах чиглэлээр судалгаа хийж"
+    },
+    {
+      "scene": 3,
+      "startFrame": 470,
+      "endFrameExclusive": 713,
+      "startSeconds": 15.666666666666666,
+      "endSeconds": 23.766666666666666,
+      "sourceExcerpt": "2016 онд Оюуны өмчийн газраас амин чанар нэрээр бүтээгдэхүүн үйлдвэрлэх эрхээ авсан үндэсний үйлдвэрлэгч юм."
+    },
+    {
+      "scene": 4,
+      "startFrame": 713,
+      "endFrameExclusive": 1224,
+      "startSeconds": 23.766666666666666,
+      "endSeconds": 40.8,
+      "sourceExcerpt": "Улмаар 2017 онд Японы олон улсын хамтын ажиллагааны байгууллага Жайкагийн төслийн санхүүжилтээр 3 тонн хүчин чадалтай уургийн үйлдвэрийг барьж ашиглалтад оруулснаар сарлагийн сүүний уургийн пептид бүтээгдэхүүнээ албан ёсоор зах зээлд нэвтрүүлж эхэлсэн."
+    },
+    {
+      "scene": 5,
+      "startFrame": 1224,
+      "endFrameExclusive": 1381,
+      "startSeconds": 40.8,
+      "endSeconds": 46.03333333333333,
+      "sourceExcerpt": "Сарлагийн сүү нь уураг шимт бодисын агууламжаараа онцлог түүхий эд юм."
+    },
+    {
+      "scene": 6,
+      "startFrame": 1381,
+      "endFrameExclusive": 1624,
+      "startSeconds": 46.03333333333333,
+      "endSeconds": 54.13333333333333,
+      "sourceExcerpt": "Амин чанар Сарлагийн сүүний уургийн пептид нь сүүний уургийг 75-аас 98% хүртэл задлан боловсруулсан"
+    },
+    {
+      "scene": 7,
+      "startFrame": 1624,
+      "endFrameExclusive": 1753,
+      "startSeconds": 54.13333333333333,
+      "endSeconds": 58.43333333333333,
+      "sourceExcerpt": "хүний биед 15-аас 20 минутын дотор шимэгдэх боломжтой бөгөөд"
+    },
+    {
+      "scene": 8,
+      "startFrame": 1753,
+      "endFrameExclusive": 1938,
+      "startSeconds": 58.43333333333333,
+      "endSeconds": 64.6,
+      "sourceExcerpt": "орлогдох болон үл орлогдох 20 төрлийн амин хүчил эрдэс бодис агуулдгаараа онцлог."
+    },
+    {
+      "scene": 9,
+      "startFrame": 1938,
+      "endFrameExclusive": 2160,
+      "startSeconds": 64.6,
+      "endSeconds": 72.0,
+      "sourceExcerpt": "Өнөөдөр амин чанар брэнд, хэрэглэгчдийнхээ хэрэгцээнд нийцүүлсэн 6 төрлийн бүтээгдэхүүнийг тогтмол үйлдвэрлэн зах зээлд нийлүүлж байна."
+    },
+    {
+      "scene": 10,
+      "startFrame": 2160,
+      "endFrameExclusive": 2582,
+      "startSeconds": 72.0,
+      "endSeconds": 86.06666666666666,
+      "sourceExcerpt": "Бага Рашаант компани нь үндэсний түүхий эдийн үнэ цэнийг нэмэгдүүлэх, малчдын хөдөлмөрийг дэмжих, дотоодын хүнсний үйлдвэрлэлийг хөгжүүлэх хэрэглэгчдэд чанартай, аюулгүй бүтээгдэхүүн хүргэхийг үйлдвэрлэлийн үндсэн зорилгоо болгон ажиллаж байна."
+    },
+    {
+      "scene": 11,
+      "startFrame": 2582,
+      "endFrameExclusive": 3130,
+      "startSeconds": 86.06666666666666,
+      "endSeconds": 104.33333333333333,
+      "sourceExcerpt": "Энэ хүрээнд Ай Эс Өү 9001 2015 Ай Эс Өү 22 мянга 2018 асап аюулын дүн шинжилгээ, эгзэгтэй цэгийн хяналт, Жи Эм Пи үйлдвэрлэлийн зохистой дадал Жи Эйч Пи Эрүүл ахуйн зохистой дадал зэрэг олон улсын стандарт тогтолцоог амжилттай нэвт рүүлж"
+    },
+    {
+      "scene": 12,
+      "startFrame": 3130,
+      "endFrameExclusive": 3267,
+      "startSeconds": 104.33333333333333,
+      "endSeconds": 108.9,
+      "sourceExcerpt": "мөн үндэсний органик бүтээгдэхүүний баталгаажуулалтыг хангаад байна."
+    },
+    {
+      "scene": 13,
+      "startFrame": 3267,
+      "endFrameExclusive": 3514,
+      "startSeconds": 108.9,
+      "endSeconds": 117.13333333333334,
+      "sourceExcerpt": "Энэ удаагийн ард түмний хүнс 2026 арга хэмжээнд бид 80,%,-ийн пептидийн агууламжтай амин чанар бүтээгдэхүүнээрээ оролцож байна."
+    },
+    {
+      "scene": 14,
+      "startFrame": 3514,
+      "endFrameExclusive": 3824,
+      "startSeconds": 117.13333333333334,
+      "endSeconds": 127.46666666666667,
+      "sourceExcerpt": "Тус бүтээгдэхүүнийг уураг алдалттай үеийн хоол тэжээлийн дэмжлэг тамир тэнхээ болон дархлаа дэмжих ядаргаа хордлогын дараах нөхөн сэргэлтийн үед хэрэглэж ирсэн туршлагатай."
+    },
+    {
+      "scene": 15,
+      "startFrame": 3824,
+      "endFrameExclusive": 4214,
+      "startSeconds": 127.46666666666667,
+      "endSeconds": 140.46666666666667,
+      "sourceExcerpt": "Мөн Улсын 1 дүгээр төв эмнэлэг, ХСҮТ Хатанбаатар, Шинон Мед, Ачтан зэрэг эмнэлгүүдтэй хамтран хийсэн клиник судалгаа ажиглалтуудаар тогтмол өндөр үр дүн үзүүлсээр байна."
+    },
+    {
+      "scene": 16,
+      "startFrame": 4214,
+      "endFrameExclusive": 4544,
+      "startSeconds": 140.46666666666667,
+      "endSeconds": 151.46666666666667,
+      "sourceExcerpt": "Бид Монгол орны үнэт түүхий эдийг шинжлэх ухаан судалгаа үйлдвэрлэлийг орчин үеийн технологитой хослуулан чанартай бүтээгдэхүүнийг хэрэглэгчдэдээ хүргэхийг зорин ажилласаар байна."
+    },
+    {
+      "scene": 17,
+      "startFrame": 4544,
+      "endFrameExclusive": 4611,
+      "startSeconds": 151.46666666666667,
+      "endSeconds": 153.7,
+      "sourceExcerpt": "Бага багаар рашаан болтугай."
+    },
+    {
+      "scene": 18,
+      "startFrame": 4611,
+      "endFrameExclusive": 4765,
+      "startSeconds": 153.7,
+      "endSeconds": 158.83333333333334,
+      "sourceExcerpt": "Бага Рашаант компанийн амин чанар брэнд."
+    }
+  ]
+}

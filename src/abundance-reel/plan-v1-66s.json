@@ -1,0 +1,107 @@
+{
+ "_": "Abundance reel («Ирээдүйд бүх зүйл үнэгүй болно»). Edit this file, then run npm run build:abundance-reel (writes cues.json + stems). 'from' is seconds in the original YouTube video. A beat lasts lead + pre + voice + post (or 'hold'); its cuts share that time in proportion to 'len'. A cut with \"mute\": true plays no source sound (the intro film has its own music). 'shots' lists the camera cuts inside each downloaded clip (seconds into the clip) and how to frame them: elon = 4:5 crop centred on x, med = 1.3x crop on Elon standing, wide = 1.6x crop centred on x, slide = the abundance slide zoomed past its English text, sat = the Saturn slide zoomed past its title, anim = 4:5 centre crop of the intro film.",
+ "credit": "Эх сурвалж: Tesla · TERAFAB",
+ "voices": {
+  "N": {"name": "Uyanga", "id": "2cecqSnkajrth9sJSoEH"},
+  "G": {"name": "Ganbold", "id": "RbMF2tQ1nCK38TfvNGLk"}
+ },
+ "lines": [
+  {"id": "G1", "voice": "G", "text": "Санчир гараг руу аялах тасалбар худалдаж авч болдог бол гайхалтай биш гэж үү? Үнэндээ ирээдүйд бүх зүйл зүгээр л үнэгүй болно гэж би бодож байна."},
+  {"id": "G2", "voice": "G", "text": "Хиймэл оюун, роботын эдийн засаг өнөөгийн дэлхийн эдийн засгаас сая дахин том болбол хүний ямар ч хэрэгцээг хангаж чадна. Бодож чадвал, авч чадна."},
+  {"id": "N1", "voice": "N", "text": "Маскийн тооцоогоор, нарны эрчим хүчний ердөө саяны нэгийг ашиглаж чадвал эдийн засаг өнөөгийнхөөс сая дахин томорно."},
+  {"id": "G3", "voice": "G", "text": "Зохиолч Иэн Бэнкс номдоо бараг зөв дүрсэлсэн гэж бодож байна. Ирээдүйд мөнгө гэж байхгүй, хүн бүрд элбэг дэлбэг байна."},
+  {"id": "N2", "voice": "N", "text": "Үүнд хүрэх зам нь гурав: тогтвортой эрчим хүч, сансрын аялал, хиймэл оюун ба робот."},
+  {"id": "G4", "voice": "G", "text": "Буруугаар эргэхгүй гэсэн үг биш. Гэхдээ зөв тийшээ явах байх гэж бодож байна. Миний төсөөлж чадах хамгийн сайхан ирээдүй энэ."},
+  {"id": "G5", "voice": "G", "text": "Тэгэхээр хэн ч Санчир гараг руу аялж чадна. Цөөн хэдэн хүн биш. Хүсвэл л болно."}
+ ],
+ "clips": {
+  "c01": {
+   "file": "abundance-reel/src/c01.mp4",
+   "start": 1425,
+   "end": 1586,
+   "shots": [
+    [0, "med", 900],
+    [0.96, "wide", 1350],
+    [5.71, "elon", 890],
+    [45.25, "wide", 1370],
+    [47.5, "slide", 1000],
+    [72.3, "wide", 1020],
+    [80.58, "elon", 1150],
+    [86.8, "wide", 980],
+    [95.64, "elon", 730],
+    [100.85, "wide", 1500],
+    [105.5, "sat", 800],
+    [118.6, "wide", 1500],
+    [129.67, "med", 895],
+    [150.98, "wide", 1300]
+   ]
+  },
+  "c02": {
+   "file": "abundance-reel/src/c02.mp4",
+   "start": 0,
+   "end": 90,
+   "shots": [[0, "anim", 960]]
+  }
+ },
+ "beats": [
+  {
+   "id": "S1", "name": "Үнэгүй", "lead": 0.9, "pre": 0.1, "voice": "G1", "post": 0.25, "source": "under", "label": "Илон Маск",
+   "headline": {"text": "ИРЭЭДҮЙД|БҮХ ЗҮЙЛ|ҮНЭГҮЙ БОЛНО", "tone": "accent", "big": true},
+   "cuts": [
+    {"clip": "c01", "from": 1522.5, "len": 2.6},
+    {"clip": "c01", "from": 1556.0, "len": 3.6},
+    {"clip": "c01", "from": 1534.6, "len": 3.4}
+   ]
+  },
+  {
+   "id": "S2", "name": "Галзуу юм шиг", "hold": 2.3, "source": "full",
+   "subtitle": {"text": "Галзуу юм шиг сонсогдож магадгүй", "at": 0.25, "to": 2.0},
+   "cuts": [{"clip": "c01", "from": 1538.5, "len": 1}]
+  },
+  {
+   "id": "S3", "name": "Сая дахин", "pre": 0.2, "voice": "G2", "post": 0.3, "source": "under",
+   "cuts": [
+    {"clip": "c02", "from": 36.4, "len": 4, "mute": true, "headline": {"text": "ХИЙМЭЛ ОЮУН, РОБОТЫН|ЭДИЙН ЗАСАГ"}},
+    {"clip": "c02", "from": 44.4, "len": 3.5, "mute": true, "headline": {"text": "ӨНӨӨГИЙНХӨӨС|САЯ ДАХИН ТОМ", "tone": "accent"}},
+    {"clip": "c01", "from": 1449.0, "len": 3.5, "headline": {"text": "БОДОЖ ЧАДВАЛ|АВЧ ЧАДНА", "tone": "accent"}}
+   ]
+  },
+  {
+   "id": "S4", "name": "Саяны нэг", "pre": 0.25, "voice": "N1", "post": 0.35, "source": "mute",
+   "headline": {"text": "НАРНЫ ЭРЧИМ ХҮЧНИЙ|САЯНЫ НЭГ", "tone": "accent"},
+   "cuts": [{"clip": "c02", "from": 14.7, "len": 1}]
+  },
+  {
+   "id": "S5", "name": "Мөнгөгүй", "pre": 0.3, "voice": "G3", "post": 0.3, "source": "under",
+   "cuts": [
+    {"clip": "c01", "from": 1433.0, "len": 4.6, "headline": {"text": "ИРЭЭДҮЙД МӨНГӨ ГЭЖ|БАЙХГҮЙ", "tone": "accent"}},
+    {"clip": "c01", "from": 1476.0, "len": 4, "headline": {"text": "ХҮН БҮРД|ЭЛБЭГ ДЭЛБЭГ"}}
+   ]
+  },
+  {
+   "id": "S6", "name": "Гурван зам", "pre": 0.3, "voice": "N2", "post": 0.35, "source": "mute", "graphic": "needs",
+   "headline": {"text": "ҮҮНД ХҮРЭХ|ГУРВАН ЗАМ"},
+   "cuts": [
+    {"clip": "c02", "from": 47.75, "len": 2.1},
+    {"clip": "c02", "from": 30.6, "len": 3},
+    {"clip": "c02", "from": 40.3, "len": 2.5}
+   ]
+  },
+  {
+   "id": "S7", "name": "Буруугаар эргэж болно", "pre": 0.3, "voice": "G4", "post": 0.3, "source": "under",
+   "cuts": [
+    {"clip": "c01", "from": 1498.0, "len": 4, "headline": {"text": "БУРУУГААР ЭРГЭЖ|БОЛЗОШГҮЙ"}},
+    {"clip": "c01", "from": 1505.7, "len": 5.5, "headline": {"text": "ГЭХДЭЭ ЗӨВ ТИЙШЭЭ|ЯВАХ БАЙХ", "tone": "accent"}}
+   ]
+  },
+  {
+   "id": "S8", "name": "Хэн ч", "pre": 0.3, "voice": "G5", "post": 0.4, "source": "under",
+   "headline": {"text": "ХЭН Ч САНЧИР ГАРАГ РУУ|АЯЛЖ ЧАДНА", "tone": "accent"},
+   "cuts": [{"clip": "c01", "from": 1568.2, "len": 1}]
+  },
+  {
+   "id": "S9", "name": "Төгсгөл", "hold": 3.6, "source": "mute", "graphic": "end",
+   "cuts": [{"clip": "c01", "from": 1532.0, "len": 1}]
+  }
+ ]
+}
